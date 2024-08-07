@@ -1,0 +1,82 @@
+<configuration debug="false">
+
+    <!-- uncomment for debugging the sifting appender -->
+    <!--<statusListener class="ch.qos.logback.core.status.OnConsoleStatusListener" />-->
+	
+    <!-- load properties from property file -->
+    <property resource="application.properties" />
+    <!-- MAIN SIFTING APPENDER ***************************************************************** -->
+    <appender name="SIFT" class="ch.qos.logback.classic.sift.SiftingAppender">
+
+        <discriminator class="ch.qos.logback.classic.sift.MDCBasedDiscriminator">
+            <key>taskUniqueId</key>
+            <defaultValue>task_unique_id_not_set</defaultValue>
+        </discriminator>
+
+        <filter class="ch.qos.logback.core.filter.EvaluatorFilter">
+            <evaluator
+                    class="ch.qos.logback.classic.boolex.JaninoEventEvaluator">
+                <expression>
+                    mdc.get("taskUniqueId")==null
+                </expression>
+            </evaluator>
+            <OnMismatch>NEUTRAL</OnMismatch>
+            <OnMatch>DENY</OnMatch>
+        </filter>
+
+        <sift>
+            <appender name="FILE-${taskUniqueId}" class="ch.qos.logback.core.rolling.RollingFileAppender">
+                <file>${logs.path}/${taskUniqueId}.log</file>
+
+                <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+
+                    <fileNamePattern>${logs.path}/${taskUniqueId}-%d{yyyyMMdd}.log</fileNamePattern>
+                    <maxFileSize>100MB</maxFileSize>
+                    <maxHistory>30</maxHistory>
+                    <totalSizeCap>1GB</totalSizeCap>
+
+                </rollingPolicy>
+
+                <encoder>
+                    <pattern>%d{yyyy-MM-dd HH:mm:ss} %level [%thread] %logger [%X{user}] : %msg%n</pattern>
+                </encoder>
+            </appender>
+        </sift>
+    </appender>
+    
+
+    <!-- definition of appender STDOUT -->
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} %highlight(%-5level) [%thread] %class:%L - %msg%n%ex</pattern>
+        </encoder>
+    </appender>
+
+    <!-- ROOT LOGGER *************************************************************************** -->
+    <root level="${LOG_LEVEL}" additivity="false">
+        <appender-ref ref="STDOUT" />
+        <appender-ref ref="SIFT" />
+    </root>
+    <logger name="org.apache.http" level="WARN">
+        <appender-ref ref="STDOUT"/>
+    </logger>
+
+    <logger name="org.apache.pdfbox" level="ERROR">
+        <appender-ref ref="STDOUT"/>
+    </logger>
+    
+    <logger name="org.springframework" level="WARN">
+        <appender-ref ref="STDOUT"/>
+    </logger>
+    
+    <logger name="org.apache.pdfbox.util.PDFStreamEngine" level="ERROR">
+        <appender-ref ref="STDOUT"/>
+    </logger>
+
+    <logger name="com.zaxxer.hikari.pool.PoolBase" level="ERROR"/>
+    <logger name="com.zaxxer.hikari.pool.HikariPool" level="ERROR"/>
+    <logger name="com.zaxxer.hikari.HikariDataSource" level="ERROR"/>
+    <logger name="org.hibernate" level="OFF"/>
+    <logger name="com.gargoylesoftware" level="OFF"/>
+
+</configuration>

@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/  http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2022-01-01T09:01:09Z</responseDate>
+    <request verb="ListRecords" set="B:10.1007:2625091" metadataPrefix="cr_unixsd">http://oai.crossref.org/oai</request>
+    <ListRecords>
+        <record>
+            <header>
+                <identifier>info:doi/10.1007%2F978-3-319-70863-8_27</identifier>
+                <datestamp>2019-05-20</datestamp>
+                <setSpec>B</setSpec>
+                <setSpec>B:10.1007</setSpec>
+                <setSpec>B:10.1007:2625091</setSpec>
+            </header>
+            <metadata>
+                <crossref_result xmlns="http://www.crossref.org/qrschema/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:schemaLocation="http://www.crossref.org/qrschema/3.0 http://www.crossref.org/schemas/crossref_query_output3.0.xsd">
+                    <query_result>
+                        <head>
+                            <doi_batch_id>none</doi_batch_id>
+                        </head>
+                        <body>
+                            <crossref_metadata>
+                                <doi type="book_content">10.1007/978-3-319-70863-8_27</doi>
+                                <crm-item name="publisher-name" type="string">Springer Science and Business Media LLC</crm-item>
+                                <crm-item name="prefix-name" type="string">Springer-Verlag</crm-item>
+                                <crm-item name="member-id" type="number">297</crm-item>
+                                <crm-item name="citation-id" type="number">94180878</crm-item>
+                                <crm-item name="book-id" type="number">2625091</crm-item>
+                                <crm-item name="series-id" type="number">384100</crm-item>
+                                <crm-item name="deposit-timestamp" type="number">20190520020259853</crm-item>
+                                <crm-item name="owner-prefix" type="string">10.1007</crm-item>
+                                <crm-item name="last-update" type="date">2019-05-21T03:29:41Z</crm-item>
+                                <crm-item name="created" type="date">2017-11-13T01:25:42Z</crm-item>
+                                <crm-item name="citedby-count" type="number">0</crm-item>
+                                <doi_record>
+                                    <crossref xmlns="http://www.crossref.org/xschema/1.1" xsi:schemaLocation="http://www.crossref.org/xschema/1.1 http://doi.crossref.org/schemas/unixref1.1.xsd">
+                                        <book book_type="other">
+                                            <book_series_metadata language="en">
+                                                <series_metadata>
+                                                    <titles>
+                                                        <title>Communications in Computer and Information Science</title>
+                                                    </titles>
+                                                    <issn media_type="print">1865-0929</issn>
+                                                    <issn media_type="electronic">1865-0937</issn>
+                                                </series_metadata>
+                                                <contributors>
+                                                    <person_name contributor_role="editor" sequence="first">
+                                                        <given_name>Emmanouel</given_name>
+                                                        <surname>Garoufallou</surname>
+                                                    </person_name>
+                                                    <person_name contributor_role="editor" sequence="additional">
+                                                        <given_name>Sirje</given_name>
+                                                        <surname>Virkus</surname>
+                                                    </person_name>
+                                                    <person_name contributor_role="editor" sequence="additional">
+                                                        <given_name>Rania</given_name>
+                                                        <surname>Siatri</surname>
+                                                    </person_name>
+                                                    <person_name contributor_role="editor" sequence="additional">
+                                                        <given_name>Damiana</given_name>
+                                                        <surname>Koutsomiha</surname>
+                                                    </person_name>
+                                                </contributors>
+                                                <titles>
+                                                    <title>Metadata and Semantic Research</title>
+                                                    <subtitle>11th International Conference, MTSR 2017, Tallinn, Estonia, November 28 – December 1, 2017, Proceedings</subtitle>
+                                                </titles>
+                                                <volume>755</volume>
+                                                <publication_date media_type="print">
+                                                    <year>2017</year>
+                                                </publication_date>
+                                                <isbn media_type="print">978-3-319-70862-1</isbn>
+                                                <isbn media_type="electronic">978-3-319-70863-8</isbn>
+                                                <publisher>
+                                                    <publisher_name>Springer International Publishing</publisher_name>
+                                                    <publisher_place>Cham</publisher_place>
+                                                </publisher>
+                                                <ai:program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+                                                    <ai:license_ref applies_to="tdm">http://www.springer.com/tdm</ai:license_ref>
+                                                </ai:program>
+                                                <doi_data>
+                                                    <doi>10.1007/978-3-319-70863-8</doi>
+                                                    <resource>http://link.springer.com/10.1007/978-3-319-70863-8</resource>
+                                                    <collection property="crawler-based">
+                                                        <item crawler="iParadigms">
+                                                            <resource>http://link.springer.com/content/pdf/10.1007/978-3-319-70863-8</resource>
+                                                        </item>
+                                                    </collection>
+                                                    <collection property="text-mining">
+                                                        <item>
+                                                            <resource mime_type="application/pdf">http://link.springer.com/content/pdf/10.1007/978-3-319-70863-8.pdf</resource>
+                                                        </item>
+                                                    </collection>
+                                                </doi_data>
+                                            </book_series_metadata>
+                                            <content_item component_type="chapter" level_sequence_number="1" publication_type="full_text">
+                                                <contributors>
+                                                    <person_name contributor_role="author" sequence="first">
+                                                        <given_name>Matteo</given_name>
+                                                        <surname>Cancellieri</surname>
+                                                        <ORCID>http://orcid.org/0000-0002-9558-9772</ORCID>
+                                                    </person_name>
+                                                    <person_name contributor_role="author" sequence="additional">
+                                                        <given_name>Nancy</given_name>
+                                                        <surname>Pontika</surname>
+                                                        <ORCID>http://orcid.org/0000-0002-2091-0402</ORCID>
+                                                    </person_name>
+                                                    <person_name contributor_role="author" sequence="additional">
+                                                        <given_name>Samuel</given_name>
+                                                        <surname>Pearce</surname>
+                                                        <ORCID>http://orcid.org/0000-0001-5616-7000</ORCID>
+                                                    </person_name>
+                                                    <person_name contributor_role="author" sequence="additional">
+                                                        <given_name>Lucas</given_name>
+                                                        <surname>Anastasiou</surname>
+                                                        <ORCID>http://orcid.org/0000-0002-1587-5104</ORCID>
+                                                    </person_name>
+                                                    <person_name contributor_role="author" sequence="additional">
+                                                        <given_name>Petr</given_name>
+                                                        <surname>Knoth</surname>
+                                                        <ORCID>http://orcid.org/0000-0003-1161-7359</ORCID>
+                                                    </person_name>
+                                                </contributors>
+                                                <titles>
+                                                    <title>Building Scalable Digital Library Ingestion Pipelines Using Microservices</title>
+                                                </titles>
+                                                <component_number>Chapter 27</component_number>
+                                                <publication_date media_type="print">
+                                                    <year>2017</year>
+                                                </publication_date>
+                                                <publication_date media_type="online">
+                                                    <month>11</month>
+                                                    <day>14</day>
+                                                    <year>2017</year>
+                                                </publication_date>
+                                                <pages>
+                                                    <first_page>275</first_page>
+                                                    <last_page>285</last_page>
+                                                </pages>
+                                                <crossmark>
+                                                    <crossmark_version>1</crossmark_version>
+                                                    <crossmark_policy>10.1007/springer_crossmark_policy</crossmark_policy>
+                                                    <crossmark_domains>
+                                                        <crossmark_domain>
+                                                            <domain>link.springer.com</domain>
+                                                        </crossmark_domain>
+                                                    </crossmark_domains>
+                                                    <crossmark_domain_exclusive>false</crossmark_domain_exclusive>
+                                                    <custom_metadata>
+                                                        <assertion group_label="Chapter History" group_name="ChapterHistory" label="First Online" name="first_online" order="1">14 November 2017</assertion>
+                                                        <assertion group_label="Conference Information" group_name="ConferenceInfo" label="Conference Acronym" name="conference_acronym" order="1">MTSR</assertion>
+                                                        <assertion group_label="Conference Information" group_name="ConferenceInfo" label="Conference Name" name="conference_name" order="2">Research Conference on Metadata and Semantics Research</assertion>
+                                                        <assertion group_label="Conference Information" group_name="ConferenceInfo" label="Conference City" name="conference_city" order="3">Tallinn</assertion>
+                                                        <assertion group_label="Conference Information" group_name="ConferenceInfo" label="Conference Country" name="conference_country" order="4">Estonia</assertion>
+                                                        <assertion group_label="Conference Information" group_name="ConferenceInfo" label="Conference Year" name="conference_year" order="5">2017</assertion>
+                                                        <assertion group_label="Conference Information" group_name="ConferenceInfo" label="Conference Start Date" name="conference_start_date" order="7">28 November 2017</assertion>
+                                                        <assertion group_label="Conference Information" group_name="ConferenceInfo" label="Conference End Date" name="conference_end_date" order="8">1 December 2017</assertion>
+                                                        <assertion group_label="Conference Information" group_name="ConferenceInfo" label="Conference Number" name="conference_number" order="9">11</assertion>
+                                                        <assertion group_label="Conference Information" group_name="ConferenceInfo" label="Conference ID" name="conference_id" order="10">mtsr2017</assertion>
+                                                        <assertion group_label="Conference Information" group_name="ConferenceInfo" label="Conference URL" name="conference_url" order="11">http://mtsr-conf.org/</assertion>
+                                                        <ai:program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+                                                            <ai:license_ref>http://www.springer.com/tdm</ai:license_ref>
+                                                        </ai:program>
+                                                    </custom_metadata>
+                                                </crossmark>
+                                                <doi_data>
+                                                    <doi>10.1007/978-3-319-70863-8_27</doi>
+                                                    <resource>http://link.springer.com/10.1007/978-3-319-70863-8_27</resource>
+                                                    <collection property="crawler-based">
+                                                        <item crawler="iParadigms">
+                                                            <resource>http://link.springer.com/content/pdf/10.1007/978-3-319-70863-8_27</resource>
+                                                        </item>
+                                                    </collection>
+                                                </doi_data>
+                                                <citation_list>
+                                                    <citation key="27_CR1">
+                                                        <unstructured_citation>Knoth, P., Anastasiou, L., Pearce, S.: My repository is being aggregated: a blessing or a curse? In: Open Repositories (2014)</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR2">
+                                                        <author>S Newman</author>
+                                                        <cYear>2015</cYear>
+                                                        <volume_title>Building Microservices: Designing Fine-Grained Systems</volume_title>
+                                                        <unstructured_citation>Newman, S.: Building Microservices: Designing Fine-Grained Systems. O’Reilly Media Inc., Sebastopol (2015)</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR3">
+                                                        <journal_title>Prog. Electron. Libr. Inf. Syst.</journal_title>
+                                                        <author>P Manghi</author>
+                                                        <volume>48</volume>
+                                                        <first_page>4</first_page>
+                                                        <cYear>2014</cYear>
+                                                        <doi>10.1108/PROG=08-2013-0045</doi>
+                                                        <unstructured_citation>Manghi, P., Artini, M., Atzori, C., Pegano, P., Bardi, A., Mannocci, A., La Bruzzo, S., Candela, L., Castelli, D., Pagano, P.: The D-NET software toolkit: a framework for the realization, maintenance, and operation of aggregative infrastructures. Prog. Electron. Libr. Inf. Syst. 48, 4 (2014).
+                                                            https://doi.org/10.1108/PROG=08-2013-0045</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR4">
+                                                        <unstructured_citation>OpenAIRE Guidelines.
+                                                            https://guidelines.openaire.eu/en/latest/</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR5">
+                                                        <unstructured_citation>Open Archives Initiative Protocol for Metadata Harvesting.
+                                                            https://www.openarchives.org/pmh/</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR6">
+                                                        <journal_title>Libr. Rev.</journal_title>
+                                                        <author>N Joint</author>
+                                                        <volume>57</volume>
+                                                        <first_page>8</first_page>
+                                                        <cYear>2008</cYear>
+                                                        <doi>10.1108/00242530810899559</doi>
+                                                        <unstructured_citation>Joint, N.: Current research information systems, open access repositories and libraries: ANTANEUS. Libr. Rev. 57, 8 (2008).
+                                                            https://doi.org/10.1108/00242530810899559</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR7">
+                                                        <unstructured_citation>SHARE 2.0 Documentation.
+                                                            http://share-research.readthedocs.io/en/latest/</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR8">
+                                                        <unstructured_citation>Rabbit MQ.
+                                                            https://www.rabbitmq.com/</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR9">
+                                                        <unstructured_citation>Celery period tasks.
+                                                            http://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR10">
+                                                        <unstructured_citation>Elastic.
+                                                            https://www.elastic.co/</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR11">
+                                                        <unstructured_citation>Lösch, M.: A multidisciplinary search engine for scientific open access documents. In: Depping, R., Christiane, S. (eds.) Elektronische Schriftenreihe der Universitäts- und Stadtbibliothek Köln. vol. 2, pp. 11–15 (2011)</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR12">
+                                                        <unstructured_citation>Indexing and basic data operations.
+                                                            https://cwiki.apache.org/confluence/display/solr/Introduction+to+Solr+Indexing</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR13">
+                                                        <journal_title>D-Lib Mag.</journal_title>
+                                                        <author>P Knoth</author>
+                                                        <volume>18</volume>
+                                                        <first_page>11</first_page>
+                                                        <cYear>2012</cYear>
+                                                        <unstructured_citation>Knoth, P., Zdrahal, Z.: CORE: three access levels to underpin open access. D-Lib Mag. 18, 11–12 (2012)</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR14">
+                                                        <doi provider="crossref">10.1145/1146847.1146865</doi>
+                                                        <unstructured_citation>Li, H., Councill, I., Bolelli, L., Zhou, D., Song, Y., Lee W-G, Sivasubramaniam, A., Giles, L.: CiteSeerX: A scalable autonomous scientific digital library. In: INFOSCALE 2006: Proceedings of the First International Conference on Scalable Information Systems, 29 May–1 June (2016)</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR15">
+                                                        <author>P Suber</author>
+                                                        <cYear>2012</cYear>
+                                                        <volume_title>Open Access. Essential Knowledge Series</volume_title>
+                                                        <unstructured_citation>Suber, P.: Open Access. Essential Knowledge Series. MIT Press, Cambridge (2012)</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR16">
+                                                        <unstructured_citation>Dublin CORE Metadata Initiative.
+                                                            http://dublincore.org/</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR17">
+                                                        <unstructured_citation>Metadata Encoding and Transmission Standard.
+                                                            http://www.loc.gov/standards/mets/</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR18">
+                                                        <unstructured_citation>The RIOXX Metadata Profile and Guidelines.
+                                                            http://rioxx.net/</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR19">
+                                                        <journal_title>Acta Informatica</journal_title>
+                                                        <author>E Doberkat</author>
+                                                        <volume>40</volume>
+                                                        <first_page>1</first_page>
+                                                        <cYear>2003</cYear>
+                                                        <doi>10.1007/s00236-003-0121-z</doi>
+                                                        <unstructured_citation>Doberkat, E.: Pipelines: modelling software architecture through relations. Acta Informatica 40, 1 (2003).
+                                                            https://doi.org/10.1007/s00236-003-0121-z</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR20">
+                                                        <journal_title>J. Digit. Inf.</journal_title>
+                                                        <author>S Abrams</author>
+                                                        <volume>12</volume>
+                                                        <first_page>2</first_page>
+                                                        <cYear>2011</cYear>
+                                                        <unstructured_citation>Abrams, S., Cruse, P., Kunze, J., Minor, D.: Curation micro-services: a pipeline metaphor for repositories. J. Digit. Inf. 12, 2 (2011)</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR21">
+                                                        <unstructured_citation>Crossref: Metadata Enables Connections.
+                                                            https://www.crossref.org/</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR22">
+                                                        <journal_title>SIGOPS Oper. Syst. Princ.</journal_title>
+                                                        <author>K Birman</author>
+                                                        <volume>21</volume>
+                                                        <first_page>123</first_page>
+                                                        <cYear>1987</cYear>
+                                                        <doi>10.1145/37499.37515</doi>
+                                                        <unstructured_citation>Birman, K., Joseph, T.: Exploiting visual synchrony in distributed systems. SIGOPS Oper. Syst. Princ. 21, 123–138 (1987).
+                                                            https://doi.org/10.1145/41457.37515</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR23">
+                                                        <unstructured_citation>Java Software.
+                                                            https://www.oracle.com/java/index.html</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR24">
+                                                        <unstructured_citation>Spring Framework.
+                                                            https://spring.io/</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR25">
+                                                        <unstructured_citation>MySQL.
+                                                            https://www.mysql.com/</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR26">
+                                                        <unstructured_citation>Supervisor: a process control system.
+                                                            http://supervisord.org/</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR27">
+                                                        <unstructured_citation>Kubernetes.
+                                                            https://kubernetes.io/</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR28">
+                                                        <unstructured_citation>Apache Kafka.
+                                                            https://kafka.apache.org/</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR29">
+                                                        <unstructured_citation>Kreps, J., Narkhede, N., Rao, J.: Kafka: a distributed messaging system for log processing. In: NetDB: 6th Workshop on Networking meetsDatabases (2011)</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="27_CR30">
+                                                        <doi provider="crossref">10.21236/AD0630125</doi>
+                                                        <unstructured_citation>Petri, C.: Communication With Automata: Volume 1 Supplement 1. DTIC Research Report AD0630125 (1966)</unstructured_citation>
+                                                    </citation>
+                                                </citation_list>
+                                            </content_item>
+                                        </book>
+                                    </crossref>
+                                </doi_record>
+                            </crossref_metadata>
+                        </body>
+                    </query_result>
+                </crossref_result>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>info:doi/10.1007%2F978-3-319-70863-8_28</identifier>
+                <datestamp>2017-11-12</datestamp>
+                <setSpec>B</setSpec>
+                <setSpec>B:10.1007</setSpec>
+                <setSpec>B:10.1007:2625091</setSpec>
+            </header>
+            <metadata>
+                <crossref_result xmlns="http://www.crossref.org/qrschema/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:schemaLocation="http://www.crossref.org/qrschema/3.0 http://www.crossref.org/schemas/crossref_query_output3.0.xsd">
+                    <query_result>
+                        <head>
+                            <doi_batch_id>none</doi_batch_id>
+                        </head>
+                        <body>
+                            <crossref_metadata>
+                                <doi type="book_content">10.1007/978-3-319-70863-8_28</doi>
+                                <crm-item name="publisher-name" type="string">Springer Science and Business Media LLC</crm-item>
+                                <crm-item name="prefix-name" type="string">Springer-Verlag</crm-item>
+                                <crm-item name="member-id" type="number">297</crm-item>
+                                <crm-item name="citation-id" type="number">94180879</crm-item>
+                                <crm-item name="book-id" type="number">2625091</crm-item>
+                                <crm-item name="series-id" type="number">384100</crm-item>
+                                <crm-item name="deposit-timestamp" type="number">20171113022537223</crm-item>
+                                <crm-item name="owner-prefix" type="string">10.1007</crm-item>
+                                <crm-item name="last-update" type="date">2017-11-13T01:35:31Z</crm-item>
+                                <crm-item name="created" type="date">2017-11-13T01:25:42Z</crm-item>
+                                <crm-item name="citedby-count" type="number">3</crm-item>
+                                <doi_record>
+                                    <crossref xmlns="http://www.crossref.org/xschema/1.1" xsi:schemaLocation="http://www.crossref.org/xschema/1.1 http://doi.crossref.org/schemas/unixref1.1.xsd">
+                                        <book book_type="other">
+                                            <book_series_metadata>
+                                                <series_metadata>
+                                                    <titles>
+                                                        <title>Communications in Computer and Information Science</title>
+                                                    </titles>
+                                                    <issn media_type="print">1865-0929</issn>
+                                                    <issn media_type="electronic">1865-0937</issn>
+                                                </series_metadata>
+                                                <contributors>
+                                                    <person_name contributor_role="editor" sequence="first">
+                                                        <given_name>Emmanouel</given_name>
+                                                        <surname>Garoufallou</surname>
+                                                    </person_name>
+                                                    <person_name contributor_role="editor" sequence="additional">
+                                                        <given_name>Sirje</given_name>
+                                                        <surname>Virkus</surname>
+                                                    </person_name>
+                                                    <person_name contributor_role="editor" sequence="additional">
+                                                        <given_name>Rania</given_name>
+                                                        <surname>Siatri</surname>
+                                                    </person_name>
+                                                    <person_name contributor_role="editor" sequence="additional">
+                                                        <given_name>Damiana</given_name>
+                                                        <surname>Koutsomiha</surname>
+                                                    </person_name>
+                                                </contributors>
+                                                <titles>
+                                                    <title>Metadata and Semantic Research</title>
+                                                </titles>
+                                                <volume>755</volume>
+                                                <publication_date media_type="print">
+                                                    <year>2017</year>
+                                                </publication_date>
+                                                <isbn media_type="print">978-3-319-70862-1</isbn>
+                                                <isbn media_type="electronic">978-3-319-70863-8</isbn>
+                                                <publisher>
+                                                    <publisher_name>Springer International Publishing</publisher_name>
+                                                    <publisher_place>Cham</publisher_place>
+                                                </publisher>
+                                                <ai:program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+                                                    <ai:license_ref>http://www.springer.com/tdm</ai:license_ref>
+                                                </ai:program>
+                                                <doi_data>
+                                                    <doi>10.1007/978-3-319-70863-8</doi>
+                                                    <resource>http://link.springer.com/10.1007/978-3-319-70863-8</resource>
+                                                    <collection property="crawler-based">
+                                                        <item crawler="iParadigms">
+                                                            <resource>http://link.springer.com/content/pdf/10.1007/978-3-319-70863-8</resource>
+                                                        </item>
+                                                    </collection>
+                                                    <collection property="text-mining">
+                                                        <item>
+                                                            <resource mime_type="application/pdf">http://link.springer.com/content/pdf/10.1007/978-3-319-70863-8.pdf</resource>
+                                                        </item>
+                                                    </collection>
+                                                </doi_data>
+                                            </book_series_metadata>
+                                            <content_item component_type="chapter" level_sequence_number="1" publication_type="full_text">
+                                                <contributors>
+                                                    <person_name contributor_role="author" sequence="first">
+                                                        <given_name>Sergey</given_name>
+                                                        <surname>Parinov</surname>
+                                                        <ORCID>http://orcid.org/0000-0001-8333-2657</ORCID>
+                                                    </person_name>
+                                                </contributors>
+                                                <titles>
+                                                    <title>Semantic Attributes for Citation Relationships: Creation and Visualization</title>
+                                                </titles>
+                                                <component_number>Chapter 28</component_number>
+                                                <publication_date media_type="print">
+                                                    <year>2017</year>
+                                                </publication_date>
+                                                <publication_date media_type="online">
+                                                    <month>11</month>
+                                                    <day>14</day>
+                                                    <year>2017</year>
+                                                </publication_date>
+                                                <pages>
+                                                    <first_page>286</first_page>
+                                                    <last_page>299</last_page>
+                                                </pages>
+                                                <doi_data>
+                                                    <doi>10.1007/978-3-319-70863-8_28</doi>
+                                                    <resource>http://link.springer.com/10.1007/978-3-319-70863-8_28</resource>
+                                                    <collection property="crawler-based">
+                                                        <item crawler="iParadigms">
+                                                            <resource>http://link.springer.com/content/pdf/10.1007/978-3-319-70863-8_28</resource>
+                                                        </item>
+                                                    </collection>
+                                                </doi_data>
+                                                <citation_list>
+                                                    <citation key="28_CR1">
+                                                        <journal_title>Libr. Trends</journal_title>
+                                                        <author>LC Smith</author>
+                                                        <volume>30</volume>
+                                                        <issue>1</issue>
+                                                        <first_page>83</first_page>
+                                                        <cYear>1981</cYear>
+                                                        <unstructured_citation>Smith, L.C.: Citation analysis. Libr. Trends 30(1), 83–106 (1981)</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="28_CR2">
+                                                        <unstructured_citation>Garfield, E.: The relationship between citing and cited publications: a question of relatedness (1994). Originally published in the Current Contents</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="28_CR3">
+                                                        <unstructured_citation>Barrueco, J.M., Krichel, T.: Building an autonomous citation index for grey literature: the economics working papers case. In: Proceedings GL6: Sixth International Conference on Grey Literature (2004).
+                                                            http://core.ac.uk/download/pdf/11878095.pdf</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="28_CR4">
+                                                        <journal_title>J. Inf.</journal_title>
+                                                        <author>L Waltman</author>
+                                                        <volume>10</volume>
+                                                        <issue>2</issue>
+                                                        <first_page>365</first_page>
+                                                        <cYear>2016</cYear>
+                                                        <doi provider="crossref">10.1016/j.joi.2016.02.007</doi>
+                                                        <unstructured_citation>Waltman, L.: A review of the literature on citation impact indicators. J. Inf. 10(2), 365–391 (2016)</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="28_CR5">
+                                                        <unstructured_citation>Alschner, W., Umov, A.: Towards An Integrated Database of International Economic Law (IDIEL) Disputes (2016)</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="28_CR6">
+                                                        <journal_title>PloS Negl. Trop. Dis.</journal_title>
+                                                        <author>M Bertin</author>
+                                                        <volume>1</volume>
+                                                        <issue>200,920</issue>
+                                                        <first_page>83</first_page>
+                                                        <cYear>2014</cYear>
+                                                        <unstructured_citation>Bertin, M., Atanassova, I.: A study of lexical distribution in citation contexts through the IMRaD standard. PloS Negl. Trop. Dis. 1(200,920), 83–402 (2014)</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="28_CR7">
+                                                        <journal_title>J. Assoc. Inf. Sci. Technol.</journal_title>
+                                                        <author>M Bertin</author>
+                                                        <volume>67</volume>
+                                                        <issue>1</issue>
+                                                        <first_page>164</first_page>
+                                                        <cYear>2016</cYear>
+                                                        <doi provider="crossref">10.1002/asi.23367</doi>
+                                                        <unstructured_citation>Bertin, M., Atanassova, I., Gingras, Y., Larivière, V.: The invariant distribution of references in scientific articles. J. Assoc. Inf. Sci. Technol. 67(1), 164–177 (2016)</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="28_CR8">
+                                                        <journal_title>J. Am. Soc. Inform. Sci. Technol.</journal_title>
+                                                        <author>G Zhang</author>
+                                                        <volume>64</volume>
+                                                        <issue>7</issue>
+                                                        <first_page>1490</first_page>
+                                                        <cYear>2013</cYear>
+                                                        <doi provider="crossref">10.1002/asi.22850</doi>
+                                                        <unstructured_citation>Zhang, G., Ding, Y., Milojević, S.: Citation content analysis (CCA): a framework for syntactic and semantic analysis of citation content. J. Am. Soc. Inform. Sci. Technol. 64(7), 1490–1503 (2013)</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="28_CR9">
+                                                        <journal_title>J. Assoc. Inf. Sci. Technol.</journal_title>
+                                                        <author>Y Ding</author>
+                                                        <volume>65</volume>
+                                                        <issue>9</issue>
+                                                        <first_page>1820</first_page>
+                                                        <cYear>2014</cYear>
+                                                        <doi provider="crossref">10.1002/asi.23256</doi>
+                                                        <unstructured_citation>Ding, Y., Zhang, G., Chambers, T., Song, M., Wang, X., Zhai, C.: Content-based citation analysis: the next generation of citation analysis. J. Assoc. Inf. Sci. Technol. 65(9), 1820–1833 (2014)</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="28_CR10">
+                                                        <unstructured_citation>Oevermann, J.: Reconstructing semantic structures in technical documentation with vector space classification. In: SEMANTiCS (Posters, Demos, SuCCESS) (2016)</unstructured_citation>
+                                                    </citation>
+                                                    <citation key="28_CR11">
+                                                        <unstructured_citation>Dix, A., Levialdi, S., Malizia, A.: Semantic halo for collaboration tagging systems. In: The Social Navigation and Community-Based Adaptation Technologies Workshop, 20 June 2006</unstructured_citation>
+                                                    </citation>
+                                                </citation_list>
+                                            </content_item>
+                                        </book>
+                                    </crossref>
+                                </doi_record>
+                            </crossref_metadata>
+                        </body>
+                    </query_result>
+                </crossref_result>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>info:doi/10.1484%2Fpjml-eb</identifier>
+                <datestamp>2020-02-19</datestamp>
+                <setSpec>S</setSpec>
+                <setSpec>S:10.1484</setSpec>
+                <setSpec>S:10.1484:2411880</setSpec>
+            </header>
+            <query_result>
+                <crossref_result xmlns="http://www.crossref.org/qrschema/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:schemaLocation="http://www.crossref.org/qrschema/3.0 http://www.crossref.org/schemas/crossref_query_output3.0.xsd">
+                    <query_result>
+                        <head>
+                            <doi_batch_id>none</doi_batch_id>
+                        </head>
+                        <body>
+                            <crossref_metadata>
+                                <doi type="book_series">10.1484/pjml-eb</doi>
+                                <crm-item name="publisher-name" type="string">Brepols Publishers NV</crm-item>
+                                <crm-item name="prefix-name" type="string">Brepols Publishers, NV</crm-item>
+                                <crm-item name="member-id" type="number">7597</crm-item>
+                                <crm-item name="citation-id" type="number">91297260</crm-item>
+                                <crm-item name="series-id" type="number">2411880</crm-item>
+                                <crm-item name="deposit-timestamp" type="number">2020021903531600712</crm-item>
+                                <crm-item name="owner-prefix" type="string">10.1484</crm-item>
+                                <crm-item name="last-update" type="date">2020-02-19T11:53:34Z</crm-item>
+                                <crm-item name="created" type="date">2017-06-30T09:47:10Z</crm-item>
+                                <crm-item name="citedby-count" type="number">0</crm-item>
+                                <doi_record>
+                                    <crossref xmlns="http://www.crossref.org/xschema/1.1" xsi:schemaLocation="http://www.crossref.org/xschema/1.1 http://doi.crossref.org/schemas/unixref1.1.xsd">
+                                        <book book_type="monograph">
+                                            <book_series_metadata language="en">
+                                                <series_metadata>
+                                                    <titles>
+                                                        <title>Publications of the Journal of Medieval Latin</title>
+                                                    </titles>
+                                                    <issn media_type="print">2033-883X</issn>
+                                                    <issn media_type="electronic">2565-9987</issn>
+                                                    <publisher_item>
+                                                        <identifier id_type="doi">10.1484/pjml-eb</identifier>
+                                                    </publisher_item>
+                                                    <doi_data>
+                                                        <doi>10.1484/pjml-eb</doi>
+                                                        <timestamp>2020021903531600712</timestamp>
+                                                        <resource>https://www.brepolsonline.net/series/pjml-eb</resource>
+                                                    </doi_data>
+                                                </series_metadata>
+                                                <contributors>
+                                                    <person_name sequence="first" contributor_role="author">
+                                                        <given_name>Marek Thue</given_name>
+                                                        <surname>Kretschmer</surname>
+                                                    </person_name>
+                                                </contributors>
+                                                <titles>
+                                                    <title>Latin Love Elegy and the Dawn of the Ovidian Age</title>
+                                                    <subtitle>
+                                                        A Study of the
+                                                        <i>Versus Eporedienses</i>
+                                                        and the Latin Classics
+                                                    </subtitle>
+                                                </titles>
+                                                <volume>14</volume>
+                                                <publication_date media_type="print">
+                                                    <month>01</month>
+                                                    <year>2020</year>
+                                                </publication_date>
+                                                <publication_date media_type="online">
+                                                    <month>02</month>
+                                                    <day>19</day>
+                                                    <year>2020</year>
+                                                </publication_date>
+                                                <isbn media_type="print">978-2-503-58703-5</isbn>
+                                                <isbn media_type="electronic">978-2-503-58704-2</isbn>
+                                                <publisher>
+                                                    <publisher_name>Brepols Publishers</publisher_name>
+                                                    <publisher_place>Turnhout, Belgium</publisher_place>
+                                                </publisher>
+                                                <publisher_item>
+                                                    <identifier id_type="doi">10.1484/M.PJML-EB.5.119053</identifier>
+                                                </publisher_item>
+                                                <doi_data>
+                                                    <doi>10.1484/M.PJML-EB.5.119053</doi>
+                                                    <timestamp>2020021903531600712</timestamp>
+                                                    <resource>https://www.brepolsonline.net/doi/book/10.1484/M.PJML-EB.5.119053</resource>
+                                                </doi_data>
+                                            </book_series_metadata>
+                                        </book>
+                                    </crossref>
+                                </doi_record>
+                            </crossref_metadata>
+                        </body>
+                    </query_result>
+                </crossref_result>
+            </query_result>
+        </record>
+        <record>
+            <header>
+                <identifier>info:doi/10.19080%2FJOJWB.2020.02.555592</identifier>
+                <datestamp>2020-10-10</datestamp>
+                <setSpec>J</setSpec>
+                <setSpec>J:10.19080</setSpec>
+                <setSpec>J:10.19080:396772</setSpec>
+            </header>
+            <metadata>
+                <crossref_result xmlns="http://www.crossref.org/qrschema/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:schemaLocation="http://www.crossref.org/qrschema/3.0 http://www.crossref.org/schemas/crossref_query_output3.0.xsd">
+                    <query_result>
+                        <head>
+                            <doi_batch_id>none</doi_batch_id>
+                        </head>
+                        <body>
+                            <crossref_metadata>
+                                <doi type="journal_article">10.19080/JOJWB.2020.02.555592</doi>
+                                <crm-item name="publisher-name" type="string">Juniper Publishers</crm-item>
+                                <crm-item name="prefix-name" type="string">Juniper Publishers</crm-item>
+                                <crm-item name="member-id" type="number">8164</crm-item>
+                                <crm-item name="citation-id" type="number">120281724</crm-item>
+                                <crm-item name="journal-id" type="number">396772</crm-item>
+                                <crm-item name="deposit-timestamp" type="number">20201010035041649</crm-item>
+                                <crm-item name="owner-prefix" type="string">10.19080</crm-item>
+                                <crm-item name="last-update" type="date">2020-10-10T07:50:49Z</crm-item>
+                                <crm-item name="created" type="date">2020-10-10T07:50:48Z</crm-item>
+                                <crm-item name="citedby-count" type="number">0</crm-item>
+                                <doi_record>
+                                    <crossref xmlns="http://www.crossref.org/xschema/1.1" xsi:schemaLocation="http://www.crossref.org/xschema/1.1 http://doi.crossref.org/schemas/unixref1.1.xsd">
+                                        <journal>
+                                            <journal_metadata>
+                                                <full_title>JOJ wildlife and Biodiversity</full_title>
+                                                <abbrev_title>JOJWB</abbrev_title>
+                                                <issn media_type="electronic">26883856</issn>
+                                                <doi_data>
+                                                    <doi>10.19080/JOJWB</doi>
+                                                    <resource>https://juniperpublishers.com/jojwb/index.php</resource>
+                                                </doi_data>
+                                            </journal_metadata>
+                                            <journal_issue>
+                                                <publication_date media_type="online">
+                                                    <month>07</month>
+                                                    <day>11</day>
+                                                    <year>2020</year>
+                                                </publication_date>
+                                                <journal_volume>
+                                                    <volume>2</volume>
+                                                </journal_volume>
+                                                <issue>4</issue>
+                                                <doi_data>
+                                                    <doi>10.19080/JOJWB.2.4</doi>
+                                                    <resource>https://juniperpublishers.com/jojwb/volume2-issue4-jojwb.php</resource>
+                                                </doi_data>
+                                            </journal_issue>
+                                            <journal_article publication_type="full_text">
+                                                <titles>
+                                                    <title>Focal Hepatic Steatosis in A Juvenile Green Sea Turtle - Case Report</title>
+                                                </titles>
+                                                <contributors>
+                                                    <person_name sequence="first" contributor_role="author">
+                                                        <given_name>Fabiano</given_name>
+                                                        <surname>Séllos Costa</surname>
+                                                    </person_name>
+                                                </contributors>
+                                                <publication_date media_type="online">
+                                                    <month>07</month>
+                                                    <day>11</day>
+                                                    <year>2020</year>
+                                                </publication_date>
+                                                <doi_data>
+                                                    <doi>10.19080/JOJWB.2020.02.555592</doi>
+                                                    <resource>https://juniperpublishers.com/jojwb/JOJWB.MS.ID.555592.php</resource>
+                                                </doi_data>
+                                            </journal_article>
+                                        </journal>
+                                    </crossref>
+                                </doi_record>
+                            </crossref_metadata>
+                        </body>
+                    </query_result>
+                </crossref_result>
+            </metadata>
+        </record>
+    </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,87 @@
+{
+    "id": 4096,
+    "authors": [
+        "Onyipreye, E.",
+        "Lindridge, A. M."
+    ],
+    "citations": [],
+    "contributors": [],
+    "deleted": "ALLOWED",
+    "description": "This paper explores how culture is used, through consumption, to empower the disenfranchised. Despite the calibre and scope of current literature pertaining to this theme, current research has not fully investigated how marginalised groups use consumption as a means of empowerment. The study investigates how marginalised groups of female immigrants use consumption to empower themselves in a patriarchal home environment. Using in-depth interviews our research examined acts of resistance through consumption we identify how married women consciously use consumption as a form of resistance against culturally construed roles they no longer identify with",
+    "identifiers": [
+        "oai:open.ac.uk.OAI2:26888",
+        null
+    ],
+    "rawRecordXml": "<record><header><identifier>\n    \n    \n      oai:open.ac.uk.OAI2:26888</identifier><datestamp>\n      2016-08-06T07:50:00Z</datestamp><setSpec>\n      796561723D32303130</setSpec><setSpec>\n      666163756C74795F646570743D66626C:66626C2D627573</setSpec><setSpec>\n      666163756C74795F646570743D66626C</setSpec><setSpec>\n      706572736F6E3D616D6C333533</setSpec></header><metadata><rioxx xmlns=\"http://www.rioxx.net/schema/v2.0/rioxx/\" xmlns:ali=\"http://ali.niso.org/2014/ali/1.0\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:dcterms=\"http://purl.org/dc/terms/\" xmlns:rioxxterms=\"http://docs.rioxx.net/schema/v2.0/rioxxterms/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.rioxx.net/schema/v2.0/rioxx/ http://www.rioxx.net/schema/v2.0/rioxx/rioxx.xsd\" ><dc:description>\n    \n      This paper explores how culture is used, through consumption, to empower the disenfranchised. Despite the calibre and scope of current literature pertaining to this theme, current research has not fully investigated how marginalised groups use consumption as a means of empowerment. The study investigates how marginalised groups of female immigrants use consumption to empower themselves in a patriarchal home environment. Using in-depth interviews our research examined acts of resistance through consumption we identify how married women consciously use consumption as a form of resistance against culturally construed roles they no longer identify with.</dc:description><dc:format>application/msword</dc:format><dc:identifier>http://oro.open.ac.uk/26888/1/Preye_Pittsburgh.doc</dc:identifier><dc:language>en</dc:language><dc:source>Association of Consumer Research</dc:source><dc:title>Power dynamics in immigrant families in Britain and its effect on consumption</dc:title><rioxxterms:author>Onyipreye, E.</rioxxterms:author><rioxxterms:author>Lindridge, A. M.</rioxxterms:author><rioxxterms:publication_date>2010</rioxxterms:publication_date><rioxxterms:type>Conference Paper/Proceeding/Abstract</rioxxterms:type><rioxxterms:version>VoR</rioxxterms:version></rioxx></metadata></record>",
+    "relations": [],
+    "repositories": [
+        {
+            "name": "Open Research Online",
+            "id": 86
+        }
+    ],
+    "repositoryDocument": {
+        "pdfStatus": 0,
+        "textStatus": 0,
+        "metadataUpdated": "2016-08-23T23:43:06Z",
+        "timestamp": "2016-08-23T00:00:00Z",
+        "indexed": 1,
+        "deletedStatus": "0",
+        "pdfSize": 0
+    },
+    "similarities": [
+        {
+            "id": 11525215,
+            "title": "The Meaning of Success: Young Women and High Academic Achievement in Rapidly Developed Areas. A Comparative Study of Contemporary Rural Vermont, USA and Leinster, Ireland",
+            "score": 0.555
+        },
+        {
+            "id": 5225494,
+            "title": "Pakhtun Men's Perceptions of the Conditions Promoting Domestic Violence in their Culture",
+            "score": 0.555
+        },
+        {
+            "id": 17301266,
+            "title": "Women in civil engineering: continuity and change.",
+            "score": 0.555
+        },
+        {
+            "id": 29047482,
+            "title": "Between obedience and rebellion: a field study on the young women of Jeddah, Saudi Arabia",
+            "score": 0.555
+        },
+        {
+            "id": 29052302,
+            "title": "Youth perceptions of authority figures in a South African secondary school and the role of gender withinn those perceptions",
+            "score": 0.555
+        },
+        {
+            "id": 52365,
+            "title": "Fear of a black president: Obama, white supremacy and terror in America",
+            "score": 0.555
+        },
+        {
+            "id": 29052474,
+            "title": "Women's access to land and housing post-1994 in the informal settlements at Ficksburg in the Free State South Africa",
+            "score": 0.555
+        },
+        {
+            "id": 29058492,
+            "title": "A narrative analysis of young people's talk of intimate partner violence",
+            "score": 0.555
+        },
+        {
+            "id": 2710073,
+            "title": "Continuities and discontinuities in gender ideologies and relations: Ghanaian migrants in London",
+            "score": 0.555
+        }
+    ],
+    "subjects": [],
+    "title": "Power dynamics in immigrant families in Britain and its effect on consumption",
+    "topics": [],
+    "types": [],
+    "urls": [
+        "http://oro.open.ac.uk/26888/1/Preye_Pittsburgh.doc"
+    ],
+    "oai": "oai:open.ac.uk.OAI2:26888"
+}

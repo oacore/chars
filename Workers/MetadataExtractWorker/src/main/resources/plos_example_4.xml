@@ -1,0 +1,1563 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+    <?properties open_access?><front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">PLoS One</journal-id>
+            <journal-id journal-id-type="publisher-id">plos</journal-id>
+            <journal-id journal-id-type="pmc">plosone</journal-id>
+            <journal-title-group>
+                <journal-title>PLoS ONE</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">1932-6203</issn>
+            <publisher>
+                <publisher-name>Public Library of Science</publisher-name>
+                <publisher-loc>San Francisco, USA</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmid">20161708</article-id>
+            <article-id pub-id-type="pmc">2817002</article-id>
+            <article-id pub-id-type="publisher-id">09-PONE-RA-14098R2</article-id>
+            <article-id pub-id-type="doi">10.1371/journal.pone.0009104</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject>
+                </subj-group>
+                <subj-group subj-group-type="Discipline">
+                    <subject>Computational Biology/Alternative Splicing</subject>
+                    <subject>Computational Biology/Genomics</subject>
+                    <subject>Computational Biology/Transcriptional Regulation</subject>
+                    <subject>Neurological Disorders/Movement Disorders</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>SRRM2, a Potential Blood Biomarker Revealing High Alternative Splicing in Parkinson's Disease</article-title>
+                <alt-title alt-title-type="running-head">SRRM2 &#x00026; Alt. Splicing in PD</alt-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Shehadeh</surname>
+                        <given-names>Lina A.</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff1">
+                        <sup>1</sup>
+                    </xref>
+                    <xref ref-type="corresp" rid="cor1">
+                        <sup>&#x0002a;</sup>
+                    </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Yu</surname>
+                        <given-names>Kristine</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff2">
+                        <sup>2</sup>
+                    </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Wang</surname>
+                        <given-names>Liyong</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff2">
+                        <sup>2</sup>
+                    </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Guevara</surname>
+                        <given-names>Alexandra</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff3">
+                        <sup>3</sup>
+                    </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Singer</surname>
+                        <given-names>Carlos</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff3">
+                        <sup>3</sup>
+                    </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Vance</surname>
+                        <given-names>Jeffery</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff2">
+                        <sup>2</sup>
+                    </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Papapetropoulos</surname>
+                        <given-names>Spyridon</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff3">
+                        <sup>3</sup>
+                    </xref>
+                </contrib>
+            </contrib-group>
+            <aff id="aff1">
+                <label>1</label>
+                <addr-line>Department of Molecular and Cellular Pharmacology, University of Miami Leonard M. Miller School of Medicine, Miami, Florida, United States of America</addr-line>
+            </aff>
+            <aff id="aff2">
+                <label>2</label>
+                <addr-line>Department of Human Genetics, University of Miami Leonard M. Miller School of Medicine, Miami, Florida, United States of America</addr-line>
+            </aff>
+            <aff id="aff3">
+                <label>3</label>
+                <addr-line>Department of Neurology, University of Miami Leonard M. Miller School of Medicine, Miami, Florida, United States of America</addr-line>
+            </aff>
+            <contrib-group>
+                <contrib contrib-type="editor">
+                    <name>
+                        <surname>Cookson</surname>
+                        <given-names>Mark R.</given-names>
+                    </name>
+                    <role>Editor</role>
+                    <xref ref-type="aff" rid="edit1"/>
+                </contrib>
+            </contrib-group>
+            <aff id="edit1">National Institutes of Health, United States of America</aff>
+            <author-notes>
+                <corresp id="cor1">&#x0002a; E-mail: <email>lshehadeh@med.miami.edu</email></corresp>
+                <fn fn-type="con">
+                    <p>Conceived and designed the experiments: LAS KY LW SP. Performed the experiments: LAS KY AG CS SP. Analyzed the data: LAS SP. Contributed reagents/materials/analysis tools: LAS JV SP. Wrote the paper: LAS KY SP.</p>
+                </fn>
+            </author-notes>
+            <pub-date pub-type="collection">
+                <year>2010</year>
+            </pub-date>
+            <pub-date pub-type="epub">
+                <day>8</day>
+                <month>2</month>
+                <year>2010</year>
+            </pub-date>
+            <volume>5</volume>
+            <issue>2</issue>
+            <elocation-id>e9104</elocation-id>
+            <history>
+                <date date-type="received">
+                    <day>7</day>
+                    <month>11</month>
+                    <year>2009</year>
+                </date>
+                <date date-type="accepted">
+                    <day>18</day>
+                    <month>1</month>
+                    <year>2010</year>
+                </date>
+            </history>
+            <permissions>
+                <copyright-statement>Shehadeh et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</copyright-statement>
+            </permissions>
+            <abstract>
+                <sec>
+                    <title>Background</title>
+                    <p>Parkinson's disease (PD) is a progressive neurodegenerative disorder that affects about five million people worldwide. Diagnosis remains clinical, based on phenotypic patterns. The discovery of laboratory markers that will enhance diagnostic accuracy, allow pre-clinical detection and tracking of disease progression is critically needed. These biomarkers may include transcripts with different isoforms.</p>
+                </sec>
+                <sec>
+                    <title>Methodology/Principal Findings</title>
+                    <p>We performed extensive analysis on 3 PD microarray experiments available through GEO and found that the RNA splicing gene <bold>SRRM2</bold> (or SRm300), sereine/arginine repetitive matrix 2, was the only gene differentially upregulated among all the three PD experiments. SRRM2 expression was not changed in the blood of other neurological diseased patients versus the healthy controls. Using real-time PCR, we report that the shorter transcript of SRRM2 was 1.7 fold (<italic>p&#x0200a;&#x0003d;&#x0200a;0.008</italic>) upregulated in the substantia nigra of PDs vs controls while the longer transcript was 0.4 downregulated in both the substantia nigra (<italic>p&#x0200a;&#x0003d;&#x0200a;0.03</italic>) and amygdala (<italic>p&#x0200a;&#x0003d;&#x0200a;0.003</italic>). To validate our results and test for the possibility of alternative splicing in PD, we performed independent microarray scans, using Affymetrix Exon_ST1 arrays, from peripheral blood of 28 individuals (17 PDs and 11 Ctrls) and found a significant upregulation of the upstream (5&#x02032;) exons of SRRM2 and a downregulation of the downstream exons, causing a total of 0.7 fold down regulation (<italic>p&#x0200a;&#x0003d;&#x0200a;0.04</italic>) of the long isoform. In addition, we report novel information about hundreds of genes with significant alternative splicing (differential exonic expression) in PD blood versus controls.</p>
+                </sec>
+                <sec>
+                    <title>Conclusions/Significance</title>
+                    <p>The consistent dysregulation of the RNA splicing factor SRRM2 in two different PD neuronal sources and in PD blood but not in blood of other neurologically diseased patients makes SRRM2 a strong candidate gene for PD and draws attention to the role of RNA splicing in the disease.</p>
+                </sec>
+            </abstract>
+            <counts>
+                <page-count count="8"/>
+            </counts>
+        </article-meta>
+    </front>
+    <body>
+        <sec id="s1">
+            <title>Introduction</title>
+            <p>The diagnosis of Parkinson's disease (PD) remains purely clinical and is based on the phenotypic expression of three cardinal clinical signs (bradykinesia, tremor and rigidity) in the absence of symptoms and signs indicative of other neurological diseases. Genome-wide transcription analysis of biological material (i.e. human, animal tissues, cell cultures) has shown promise in identifying disease-relevant biomarkers <xref ref-type="bibr" rid="pone.0009104-Papapetropoulos1">&#x0005b;1&#x0005d;</xref>. Postmortem human brain expression profiling has shown significant changes in PD versus healthy states <xref ref-type="bibr" rid="pone.0009104-Papapetropoulos2">&#x0005b;2&#x0005d;</xref>, <xref ref-type="bibr" rid="pone.0009104-Schadt1">&#x0005b;3&#x0005d;</xref>, <xref ref-type="bibr" rid="pone.0009104-Grunblatt1">&#x0005b;4&#x0005d;</xref>, <xref ref-type="bibr" rid="pone.0009104-Hauser1">&#x0005b;5&#x0005d;</xref>, <xref ref-type="bibr" rid="pone.0009104-Duke1">&#x0005b;6&#x0005d;</xref>, <xref ref-type="bibr" rid="pone.0009104-Miller1">&#x0005b;7&#x0005d;</xref>, <xref ref-type="bibr" rid="pone.0009104-Lesnick1">&#x0005b;8&#x0005d;</xref>, <xref ref-type="bibr" rid="pone.0009104-CantutiCastelvetri1">&#x0005b;9&#x0005d;</xref>, <xref ref-type="bibr" rid="pone.0009104-Bossers1">&#x0005b;10&#x0005d;</xref>. A single study looking at expression patterns in peripheral venous blood samples of patients with movement disorders and control subjects has provided some preliminary insight on possible blood biomarker candidates for PD diagnosis <xref ref-type="bibr" rid="pone.0009104-Scherzer1">&#x0005b;11&#x0005d;</xref>.</p>
+            <p>We hypothesized that computational analysis of multiple PD microarray data can be used to identify certain sets of PD-associated marker genes based on gene expression patterns. Therefore, we thoroughly analyzed three publicly available PD datasets generated from a rotenone-treated neuroblastoma line<xref ref-type="bibr" rid="pone.0009104-Greene1">&#x0005b;12&#x0005d;</xref>, postmortem substantia nigra from PD patients and controls<xref ref-type="bibr" rid="pone.0009104-Papapetropoulos2">&#x0005b;2&#x0005d;</xref>, and lymphocytes from PD patients and controls<xref ref-type="bibr" rid="pone.0009104-Scherzer1">&#x0005b;11&#x0005d;</xref>. While this approach deals with a huge variability factor, the strength of the approach lies in using evidence in multiple PD datasets that may be very different in etiology, cause, and tissue source. In summary, we hypothesized that interrogating publicly available PD transcriptome-wide expression datasets from different tissue sources would identify lead candidate genes.</p>
+            <p>In this study, we identified the RNA splicing factor <bold>SRRM2</bold> (or SRm300), serine/arginine (SR) repetitive matrix 2 as differentially expressed in multiple gene expression datasets. Such an SR protein binds both to sequence elements on the pre-mRNA and to other components of the spliceosome. As a result, multimolecular complexes that interact with pre-mRNA at multiple sites are formed, allowing the recognition and bringing together of distant sequences in the excision-splicing event<xref ref-type="bibr" rid="pone.0009104-Dreyfuss1">&#x0005b;13&#x0005d;</xref>. Driven by the biological function of SRRM2, we investigated the possibility of alternative splicing of 1) this candidate gene in two different brain regions from PD patients and controls, and 2) global transcripts in PD blood samples and controls. We found that SRRM2 has differential splicing in PD substantia nigra, amygdala, and leukocytes of sporadic PD patients. In addition to identifying SRRM2 as alternatively spliced and as a potential biomarker for PD, we report here 3 general interesting findings. First, there is an interesting overlap in differential gene expression between the brain (substantia nigra) and blood in PD, which highlights the credibility for using blood to find biomarkers in PD. Second, there are 35 genes (including SRRM2) differentially expressed in PD blood in both our new blood study and the Scherzer blood study<xref ref-type="bibr" rid="pone.0009104-Scherzer1">&#x0005b;11&#x0005d;</xref>. These may all be worth further scrutiny as potential blood biomarkers for PD. Third, there are hundreds of genes (including SRRM2) with differential alternative splicing in PD blood samples relative to controls. Therefore, there is a prevalent phenomenon of alternative splicing in PD that calls for more study and investigation.</p>
+        </sec>
+        <sec id="s2">
+            <title>Results</title>
+            <sec id="s2a">
+                <title>SRRM2 Is the Only Differentially Expressed Gene in All 3 PD Expression Datasets</title>
+                <p>We performed extensive analysis on three different publicly available microarray experiments on PD: (A) Twenty-two chips from the substantia nigra in postmortem brain of PD patients and controls <xref ref-type="bibr" rid="pone.0009104-Papapetropoulos2">&#x0005b;2&#x0005d;</xref>, (B) 21 chips on one to four week rotenone-treated neuroblastoma cells <xref ref-type="bibr" rid="pone.0009104-Greene1">&#x0005b;12&#x0005d;</xref> (an <italic>in vitro</italic> model of PD), (C) 105 chips on peripheral blood of PD versus healthy and neurological disease control subjects <xref ref-type="bibr" rid="pone.0009104-Scherzer1">&#x0005b;11&#x0005d;</xref>. There were 174 transcripts corresponding to 160 genes that overlapped in at least 2/3 PD experiments. Representative genes are shown in the heatmap (<xref ref-type="fig" rid="pone-0009104-g001">Figure 1A</xref>). The complete list of differentially expressed overlapping genes between any 2 of the 3 PD experiments is presented in <xref ref-type="supplementary-material" rid="pone.0009104.s003">Table S1</xref>. The RNA splicing gene SRRM2, (serine/arginine repetitive matrix 2) was the only gene differentially upregulated in all three PD experiments (<xref ref-type="fig" rid="pone-0009104-g001">Figure 1B</xref>). SRRM2 transcript was 1.77 fold (<italic>p&#x0003c;0.01</italic>) upregulated in the substantia nigra of PD patients versus controls. SRRM2 transcript was 1.44 fold (<italic>p&#x0003c;0.05</italic>) upregulated in the 4 wk rotenone treated cells versus the controls. SRRM2 transcript was 1.27 fold (<italic>p&#x0003c;0.05</italic>) upregulated in peripheral blood of PD patients versus healthy controls and was unchanged in the blood of neurological disease patients versus the healthy controls.</p>
+                <fig id="pone-0009104-g001" position="float">
+                    <object-id pub-id-type="doi">10.1371/journal.pone.0009104.g001</object-id>
+                    <label>Figure 1</label>
+                    <caption>
+                        <title>Heat map and venn diagrams of differentially expressed genes overlapping in multiple PD studies.</title>
+                        <p>
+                            <bold>A.</bold> Shown are the fold change expression levels of genes differentially expressed in at least 2/3 PD studies: (1) up in both the substantia nigra (SN) and 4-wk rotenone-treated cells (RT), (2) down in substantia nigra and blood, (3) down in 4-wk rotenone-treated cells and blood. Arrows point to selected upregulated (red) and downregulated (blue) genes. <bold>B.</bold> Differentially expressed genes determined by our analysis of 3 different microarray experiments on PD, each from a different tissue source, were compared to find common downregulated (left) and upregulated (right) transcripts. A 1.2 fold change and <italic>p&#x0003c;.05</italic> significance cut-offs were used. No multiple correction was employed.</p>
+                    </caption>
+                    <graphic xlink:href="pone.0009104.g001"/>
+                </fig>
+            </sec>
+            <sec id="s2b">
+                <title>SRRM2 Isoforms Are Both Differentially Expressed in PD but in Opposite Directions</title>
+                <p>SRRM2 has one long isoform (16 exons) and 3 short isoforms (&#x0223c;11 exons). See <xref ref-type="fig" rid="pone-0009104-g002">Figure 2A</xref>. Using real-time PCR on postmortem substantia nigra (SN) and amygdala from 10 PD patients versus 10 controls, we found that the shorter transcript of SRRM2 was significantly upregulated (FC&#x0200a;&#x0003d;&#x0200a;1.7, <italic>p&#x0200a;&#x0003d;&#x0200a;0.008</italic>) in the SN (as in the microarrays) but unchanged in the amygdala (AMG) of PD patients. Interestingly, the longer transcript of SRRM2 was significantly 0.4 downregulated in both the SN (<italic>p&#x0200a;&#x0003d;&#x0200a;0.03</italic>) and Amygdala (<italic>p&#x0200a;&#x0003d;&#x0200a;0.003</italic>) of PD patients (<xref ref-type="fig" rid="pone-0009104-g002">Figure 2B</xref>).</p>
+                <fig id="pone-0009104-g002" position="float">
+                    <object-id pub-id-type="doi">10.1371/journal.pone.0009104.g002</object-id>
+                    <label>Figure 2</label>
+                    <caption>
+                        <title>Alternate isoforms of SRRM2 with different number of exons and different expression levels in postmortem PD brain.</title>
+                        <p>
+                            <bold>A.</bold> Two main splice variants of SRRM2 differ at their 3&#x02032; end. The longer SRRM2 isoform contains 15 exons and the shorter isoform contains 11 exons. <bold>B.</bold> SRRM2 isoforms were differentially expressed in postmortem PD brain regions. The shorter transcript of SRRM2 was 1.7 fold (<italic>p&#x0200a;&#x0003d;&#x0200a;0.008</italic>) upregulated in the SN of PDs versus controls while the longer transcript was 0.4 fold downregulated in both the SN (<italic>p&#x0200a;&#x0003d;&#x0200a;0.03</italic>) and Amygdala (<italic>p&#x0200a;&#x0003d;&#x0200a;0.003</italic>) of PDs versus controls.</p>
+                    </caption>
+                    <graphic xlink:href="pone.0009104.g002"/>
+                </fig>
+            </sec>
+            <sec id="s2c">
+                <title>Splicing Analysis Confirms Isoform Switching of SRRM2 and Reveals High Alternative Splicing Phenomenon in PD</title>
+                <p>Using new Exon array profiling on peripheral blood that we collected from 17 PD patients and 11 controls (GSE 18838), we looked for genes with differential splicing. We identified exons that have statistically significant changes in inclusion rates (relative to the gene level) between PDs and controls. Consistent with rt-PCR results, we found that SRRM2 in PD switches from basal transcript levels of SRRM2 to high expression of the short isoform and low expression of the long isoform. Interestingly, there was a strikingly significant elevation of overall gene splicing in PD blood compared to controls as shown by 218 genes (listed in <xref ref-type="supplementary-material" rid="pone.0009104.s004">Table S2</xref>), each consisting of exons that have differential expression within the same gene between PDs and controls. <xref ref-type="fig" rid="pone-0009104-g003">Figure 3</xref> shows the differential exonic expression of SRRM2 and 3 other genes. These 4 genes are the ones that overlapped between the 218 differentially spliced genes in our new dataset and the 35 genes that we validated from the Scherzer blood microarray <xref ref-type="bibr" rid="pone.0009104-Scherzer1">&#x0005b;11&#x0005d;</xref> (as explained in the next section and shown in <xref ref-type="fig" rid="pone-0009104-g004">Figure 4B</xref>). Gene Ontology classification of the 218 genes with significant splicing events grouped 112 of the 218 genes into one molecular significant function, protein binding, with corrected <italic>p-value &#x0200a;&#x0003d;&#x0200a;0.004</italic>, (listed in <xref ref-type="supplementary-material" rid="pone.0009104.s005">Table S3</xref>).</p>
+                <fig id="pone-0009104-g003" position="float">
+                    <object-id pub-id-type="doi">10.1371/journal.pone.0009104.g003</object-id>
+                    <label>Figure 3</label>
+                    <caption>
+                        <title>Differential Exonic expression in PD Blood.</title>
+                        <p>Splicing Analysis reveals significant differential exonic expression within 218 genes (<italic>p&#x0003c;0.05</italic> with Benjamini Hochberg FDR correction). Shown here are SRRM2, ADIPOR1, TKT, and SLC4A1, all four genes were also differentially expressed in the Scherzer blood data (<italic>p&#x0003c;0.05</italic> with no multiple correction). Each probeset represents an exon. Note that in SRRM2, the 5&#x02032; exons are upregulated while the downstream exons are downregulated in PD patients versus controls.</p>
+                    </caption>
+                    <graphic xlink:href="pone.0009104.g003"/>
+                </fig>
+            </sec>
+            <sec id="s2d">
+                <title>Comparison with Earlier Blood Expression Study</title>
+                <p>Our new microarray experiment examining global gene expression in peripheral blood samples from 17 PD patients and 11 controls revealed 58 genes differentially expressed by at least 2.0 fold change (<italic>p&#x0003c;0.05</italic>) (listed in <xref ref-type="supplementary-material" rid="pone.0009104.s006">Table S4</xref>). The top 10 genes (FC of at least 2.5) are shown in <xref ref-type="fig" rid="pone-0009104-g004">Figure 4A</xref>. We compared the genes differentially expressed (FC&#x0200a;&#x0003d;&#x0200a;1.2 <italic>p&#x0003c;0.05</italic>) in our data to the ones in the Scherzer data <xref ref-type="bibr" rid="pone.0009104-Scherzer1">&#x0005b;11&#x0005d;</xref>. Interestingly, we found an overlap of 35 transcripts shown in <xref ref-type="fig" rid="pone-0009104-g004">Figure 4B</xref>, including the downregulated Bcl11B which had previously been validated by real-time PCR <xref ref-type="bibr" rid="pone.0009104-Scherzer1">&#x0005b;11&#x0005d;</xref>. That is out of &#x0223c;150 transcripts that were differentially expressed in either one of the two PD blood expression studies (&#x0223c;40,000 transcripts queried per chip), 35 genes, including SRRM2, were common to both studies. Note that in our microarray data, not all genes including SRRM2 passed the threshold when we stratified by gender as shown in Supplementary <xref ref-type="supplementary-material" rid="pone.0009104.s001">Figure S1</xref>. This is most likely due to loss of power as the number of replicates became small after stratification.</p>
+                <fig id="pone-0009104-g004" position="float">
+                    <object-id pub-id-type="doi">10.1371/journal.pone.0009104.g004</object-id>
+                    <label>Figure 4</label>
+                    <caption>
+                        <title>Differential gene expression in 2 PD blood studies.</title>
+                        <p>
+                            <bold>A.</bold> Shown are top 10 genes differentially expressed by at least 2.5 fold in PD blood versus controls according to analysis of our new expression arrays (<italic>p&#x0003c;0.05</italic> with no multiple correction). <bold>B.</bold> 35 differentially expressed transcripts by at least 1.2 fold overlap between our new PD blood profiling and the Scherzer blood dataset (<italic>p&#x0003c;0.05</italic> with no multiple correction).</p>
+                    </caption>
+                    <graphic xlink:href="pone.0009104.g004"/>
+                </fig>
+            </sec>
+        </sec>
+        <sec id="s3">
+            <title>Discussion</title>
+            <p>We interrogated multiple datasets from different tissue sources and identified a potential molecular marker SRRM2 (<xref ref-type="fig" rid="pone-0009104-g001">Figure 1B</xref>). While SRRM2 was the only gene that stood out as differentially expressed in all 3 PD public datasets, there were other genes that overlapped in 2 out of the 3 PD experiments (<xref ref-type="fig" rid="pone-0009104-g001">Figure 1A</xref> and <xref ref-type="supplementary-material" rid="pone.0009104.s003">Table S1</xref>). Among the intriguing overlaps that emerged from our analysis are the following: SNCA (alpha-synuclein), a PD-associated gene involved in microglial cell activation and synaptic transmission, was significantly downregulated in both the substantia nigra and blood in PD patients versus controls. BCL11B, which was previously shown by microarrays and rt-PCR to be downregulated in PD blood<xref ref-type="bibr" rid="pone.0009104-Scherzer1">&#x0005b;11&#x0005d;</xref> was also downregulated in rotenone-treated neuroblastomas, and so was the creatine neurotransmitter transporter SLC6A8. The transcription factor SOX11 and the endoplasmic reticular protein OLFM1, both involved in nervous system development, as well as CNTN4 (contactin4) involved in axonal guidance and brain development, were all downregulated in both the substantia nigra and rotenone-treated neuroblastomas.</p>
+            <p>SRRM2 plays an important role in pre-mRNA splicing and has recently been shown to play a role in cell migration <xref ref-type="bibr" rid="pone.0009104-Mukherji1">&#x0005b;14&#x0005d;</xref>. Recent analyses suggest that at least 75&#x00025; of multi-exon genes in the human genome are subject to alternative splicing <xref ref-type="bibr" rid="pone.0009104-Johnson1">&#x0005b;15&#x0005d;</xref>. This form of pre-mRNA post-transcriptional modification has the potential to expand the proteome exponentially, generating a spectrum of activities <xref ref-type="bibr" rid="pone.0009104-Schmutz1">&#x0005b;16&#x0005d;</xref>. Some genes generate tens of thousands of functionally distinct proteins <xref ref-type="bibr" rid="pone.0009104-Schmucker1">&#x0005b;17&#x0005d;</xref>. Splice variants from the same gene can produce proteins with distinct properties and different (even antagonistic) functions <xref ref-type="bibr" rid="pone.0009104-Dubey1">&#x0005b;18&#x0005d;</xref> 
+                <xref ref-type="bibr" rid="pone.0009104-Gloor1">&#x0005b;19&#x0005d;</xref>. A number of genetic mutations involved in human disease have been mapped to changes in splicing signals or sequences that regulate splicing <xref ref-type="bibr" rid="pone.0009104-Lynch1">&#x0005b;20&#x0005d;</xref>. In a very relevant context, splice isoform ratios have been proposed to be robust biomarkers for physiological conditions <xref ref-type="bibr" rid="pone.0009104-Chisa1">&#x0005b;21&#x0005d;</xref>. Thus, an understanding of changes in splicing patterns is critical to a comprehensive understanding of the biological regulation and underlying mechanism of PD.</p>
+            <p>To date, all of the global expression studies in PD have looked at a single transcript per gene, although most genes have multiple transcripts generated by alternative splicing. Alternative pre-mRNA splicing may be used as a mechanism of gene regulation<xref ref-type="bibr" rid="pone.0009104-Maragakis1">&#x0005b;22&#x0005d;</xref>. The primary long transcript can be processed in many different ways by alternative usage of exons. Regulatory splicing factors, such as SRRM2, influence the expression of numerous pre-mRNAs, often occurring to coordinate changes in protein isoform expression and function. While many modifications resulting from alternative splicing are subtle, they can affect major signaling properties of the nervous system, such as ion channel features, half-life of proteins and gain or loss in receptor function<xref ref-type="bibr" rid="pone.0009104-Stamm1">&#x0005b;23&#x0005d;</xref>. Multiple intrinsic and environmental stimuli can affect splicing. In addition, splicing errors are associated with a wide variety of diseases including ALS<xref ref-type="bibr" rid="pone.0009104-Lin1">&#x0005b;24&#x0005d;</xref>, <xref ref-type="bibr" rid="pone.0009104-Catania1">&#x0005b;25&#x0005d;</xref>, Alzheimer's disease<xref ref-type="bibr" rid="pone.0009104-Akbarian1">&#x0005b;26&#x0005d;</xref>, <xref ref-type="bibr" rid="pone.0009104-Sato1">&#x0005b;27&#x0005d;</xref>, <xref ref-type="bibr" rid="pone.0009104-Beyer1">&#x0005b;28&#x0005d;</xref> and PD<xref ref-type="bibr" rid="pone.0009104-Beyer1">&#x0005b;28&#x0005d;</xref>, <xref ref-type="bibr" rid="pone.0009104-Dagata1">&#x0005b;29&#x0005d;</xref>, <xref ref-type="bibr" rid="pone.0009104-DSouza1">&#x0005b;30&#x0005d;</xref>, <xref ref-type="bibr" rid="pone.0009104-Tan1">&#x0005b;31&#x0005d;</xref>, <xref ref-type="bibr" rid="pone.0009104-Potashkin1">&#x0005b;32&#x0005d;</xref>, <xref ref-type="bibr" rid="pone.0009104-McLean1">&#x0005b;33&#x0005d;</xref>. There is currently little information on the prevalence, type, and significance of splicing of genes in PD in the literature.</p>
+            <p>The RNA splicing factor SRRM2 which we found as differentially expressed in multiple public PD datasets had alternative splice forms in two brain regions, substantia nigra and amygdala, from PD patients (<xref ref-type="fig" rid="pone-0009104-g002">Figure 2</xref>). Our global splicing analysis of blood samples from 17 PD patients and 11 healthy controls showed that SRRM2 has differential exonic expression, with the 5&#x02032; exons over-expressed and the 3&#x02032; exons down-regulated in PD relative to controls (<xref ref-type="fig" rid="pone-0009104-g003">Figure 3</xref>). Interestingly, there were hundreds of genes with significant changes in exonic expression in PD blood versus controls (S2). Currently, we know only a few of the transacting splice factors that control alternative splicing of synaptic protein pre-mRNAs (reviewed in <xref ref-type="bibr" rid="pone.0009104-Lipscombe1">&#x0005b;34&#x0005d;</xref>). Future studies aimed at identifying these factors should reveal new signaling pathways that orchestrate changes in alternative splicing of multiple pre-mRNAs to control neuronal excitability and synaptic efficacy.</p>
+            <p>The final outcome is that differential expression and alternative splicing of SRRM2 potentially invokes high levels of alternative splicing in the genome of PD patients. While experimental validation is needed to support our conclusion, the phenomena of an isoform-dependent regulation of pre-mRNA splicing already exists<xref ref-type="bibr" rid="pone.0009104-Davies1">&#x0005b;35&#x0005d;</xref>. While our splicing analysis was done in blood samples, we anticipate that such high levels of alternative splicing, at the transcriptome level, is also present in the brain of PD patients because that the same pattern of SRRM2 splicing and dys-regulation is evident in the substantia nigra and amygdala of PD patients (<xref ref-type="fig" rid="pone-0009104-g002">Figure 2B</xref>).</p>
+            <p>Importantly, the binding of serine arginine proteins such as SRRM2 to their degenerate recognition exonic sequences is intrinsically weak, resulting in a concentration-dependent regulation, for example, certain sequence elements are recognized only at higher SR protein concentration<xref ref-type="bibr" rid="pone.0009104-Manley1">&#x0005b;36&#x0005d;</xref>. Therefore, an over-expression of SRRM2 in PD brain and blood may lead to an increased concentration if SRRM2 protein levels enabling slicing events to take place. Further studies will be needed to understand how SRRM2 itself is alternatively spliced and dynamically expressed in PD and to determine whether splicing is prevalent in the substantia nigra of PD patients and how it may play a role in the development of PD.</p>
+        </sec>
+        <sec id="s4" sec-type="methods">
+            <title>Methods</title>
+            <sec id="s4a">
+                <title>Analysis of 3 Previous PD Microarray Datasets</title>
+                <p>We performed extensive analysis on three different publicly available microarray experiments on PD: (A) Twenty-two chips from the substantia nigra in postmortem brain of PD patients and controls <xref ref-type="bibr" rid="pone.0009104-Papapetropoulos2">&#x0005b;2&#x0005d;</xref> (GEO Accession: <underline>GSE7621</underline>), (B) 21 chips on one to four week rotenone-treated neuroblastoma cells <xref ref-type="bibr" rid="pone.0009104-Greene1">&#x0005b;12&#x0005d;</xref>, an <italic>in vitro</italic> model of PD (GEO Accession: <underline>GSE4773</underline>), (C) 105 chips on peripheral blood of PD versus healthy and neurological disease (non-PD) control subjects<xref ref-type="bibr" rid="pone.0009104-Scherzer1">&#x0005b;11&#x0005d;</xref> (GEO Accession: <underline>GSE6613</underline>). All 151 raw expression files were normalized using GC-RMA processor. All normalized expression data was analyzed using GeneSpring software. Following normalization one-way analysis of variance was performed for each gene to identify statistically significant gene expression changes. Two criteria were used to determine whether a gene was differentially expressed: fold change of &#x000b1;1.2 and p value &#x0003c;.05 using a two-tailed distribution. No correction for multiple comparisons was done. While a value of 1.2 is considered a low cut-off for fold change in microarrays, it is an accepted cut-off which with statistical significance, is likely to be validated by real-time PCR<xref ref-type="bibr" rid="pone.0009104-Wang1">&#x0005b;37&#x0005d;</xref>. Lists of differentially expressed genes from different experiments were compared within GeneSpring and displayed as Venn diagrams to show overlapping and non-overlapping genes (<xref ref-type="fig" rid="pone-0009104-g001">Figure 1</xref>). The complete list of overlapping genes is shown in <xref ref-type="supplementary-material" rid="pone.0009104.s003">Table S1</xref>.</p>
+            </sec>
+            <sec id="s4b">
+                <title>Real-Time PCR of SRRM2 Isoforms in Postmortem SN and AMG</title>
+                <p>Tissue samples from 10 sporadic PD patients and 10controls (5 male, 5 female, mean age 84.25-SD 6.4) were examined. Demographics and clinical details for PD patients are provided in <xref ref-type="supplementary-material" rid="pone.0009104.s007">Table S5</xref>. All controls had normal brain pathology with no evidence or history of neurodegenerative processes. Total RNA was extracted from 100 mg of brain tissue (provided by the University of Miami Brain Bank) using TRIzol Reagent (Invitrogen, Carlsbad, CA). For each extraction RNA concentration and integrity was determined by an Agilent Nanodrop Spectrophotometer and Agilent BioAnalyzer respectively, and cDNA was synthesized using high capacity cDNA kit (Applied Biosystems, Foster City, CA). SRRM2 expression level was measured in each sample by real-time PCR using the ABI 7900HT thermocycler. SRRM2 expression levels were normalized to those of the internal reference 18S rRNA (Hs99999901_s1). All samples were run in duplicates. cDNA was amplified using TaqMan Universal PCR master mix reagent (Applied Biosystems, Foster City, CA) at the following conditions: 10 minutes at 25&#x000b0;C, 120 minutes at 37&#x000b0;C, and 5 seconds at 85&#x000b0;C. The two target SRRM2 cDNAs were amplified using TaqMan assay (&#x0223c;120 bp sequence) Hs00909897_m1, interrogating exon 2&#x02013;3 boundary, and Hs00249492_m1, interrogating exons 12&#x02013;13 boundary. Data was analyzed using software RQ manager 1.2 from Applied Biosystems, CA.</p>
+            </sec>
+            <sec id="s4c">
+                <title>Subject Recruitment</title>
+                <p>Human subjects were recruited at the outpatients department of the Movement Disorders Division of the Department of Neurology, University of Miami, Miller School of Medicine. The Institutional Review Board of The University of Miami approved this study. Written informed consent was obtained from all study participants. Whole blood samples were collected under approved ethical committee protocols from the Movement Disorders Division of the Department of Neurology, University of Miami, Miller School of Medicine. All patients were diagnosed by at least 2 board-certified and fellowship-trained movement disorders neurologists according to the UK Society Brain Bank Criteria for the diagnosis of PD <xref ref-type="bibr" rid="pone.0009104-Hughes1">&#x0005b;38&#x0005d;</xref>. Control subjects were spouses or caregivers of patients who had no personal or family history of neurodegenerative diseases. Exclusion criteria for all study subjects were age under 21 years, hematologic malignancies or coagulopathies, known severe anemia (hematocrit &#x0003e;30), and known pregnancy. Clinical data of subjects is summarized in <xref ref-type="supplementary-material" rid="pone.0009104.s008">Table S6</xref>.</p>
+            </sec>
+            <sec id="s4d">
+                <title>RNA Isolation for Exon Arrays</title>
+                <p>RNA isolation was performed using the Preanalytix Paxgene blood RNA kit, and small RNAs were extracted using a modified RNEasy protocol. Paxgene blood RNA tubes were centrifuged to form a pellet. Then an enzymatic digestion step followed by a filtration step was used to remove gDNA and cell debris. Ethanol was added to the lysate and passed through a silica membrane. The flow through from this step was collected for use in the small RNA extraction. After a series of washes and a DNase step, RNA was eluted in 60 &#x000b5;L of RNase/DNase free water. Then 1.4x volumes of ethanol was added to the collected flow through and passed through an RNeasy silica gel membrane. Small RNAs were eluted in 40 &#x000b5;L of RNAse/DNase free water. RNA was analyzed and quantified by digital electrophoresis (Agilnet Bioanalyzer, Agilent Technologies) and UV spectrophotometry (Nanodrop 1000, Thermo Scientific). 28 (17 PDs and 11 controls) samples passed the quality control (RIN&#x0003e;5) and concentration requirement for the Exon microarrays, while 21 samples (13 PDs and 8 controls) passed those requirements for the miRNA TLDA cards. All the RNA samples used in our expression study had RIN values between 7 and 9.</p>
+            </sec>
+            <sec id="s4e">
+                <title>Exon Arrays: Global Transcription Analysis and Splicing Analysis</title>
+                <p>1 microgram of RNA (excluding small RNAs) from each of the 28 subjects (17 PDs and 11 controls) was labeled for hybridization to Affymetrix Human Exon Arrays covering known cDNAs, ESTs, and predicted gene structure sequences, using standard Affymetrix protocols. Briefly, labeled samples were added to arrays, and arrays were hybridized for 17 hours at 45&#x000b0;C. The arrays were stained and washed according to Affymetrix Fluidics Station 450 protocol (FS450_0001). Hybridization was documented using a GeneChip Scanner 3000 7G and validated with Affymetrix Microarray Suite version 5.0 (MAS 5.0) software. Pearson correlation coefficients demonstrated high reproducibility. Two samples (CT#3, PD#19) were acting as outliers and were therefore excluded from the analysis. Subsequent statistical analysis was performed using GeneSpring GX 10 software (Silicon Genetics, Redwood City, CA). Normalized expression values were calculated by the GC-Robust Multi-array Average (GC-RMA) method. The resultant signal information was analyzed using one-way analysis of variance (ANOVA) (<italic>p&#x0003c;0.05</italic>), assuming normality and equal variances. No correction for multiple comparisons was done. GeneSpring's cross gene error model, which determines the likelihood of observing a specific fold change to the likelihood of observing a fold change of 1, was active during this test. Hierarchical clustering analysis was performed using the GeneSpring 10 software (Silicon Genetics, Inc., Redwood city, CA, USA) to generate dendrograms representing each functional category of genes based on their expression profiles. Heat maps were generated by dividing each measurement by the 50.0th percentile of all measurements in that sample, then setting the average value of expression level for each gene across the samples to 1.0, and plotting the resulting normalized signal value for each sample (values below 0.01 were set to 0.01). The list and the order of various genes in which they appear in the heatmaps can be viewed in tabular form.</p>
+                <p>For splicing analysis, core transcripts were normalized via RMA16 and filtered for detection above background level (<italic>p&#x0003c;0.00025</italic>). Splicing ANOVA was then performed with a <italic>p&#x0003c;0.05</italic> and a Benjamini Hochberg FDR correction. The resulting transcripts were further filtered by a splicing index of 0.87 to yield a total of 218 transcripts with exons with statistically significant changes in inclusion rates (relative to the gene level) between PDs and controls. The output of 218 alternatively spliced transcripts were subjected to Gene Ontology (GO) analysis within GeneSpring X to find any significant over-representation of molecular category. A statistical test assigns a p-value to each category. All data is MIAME compliant and all raw.CEL files from the 28 exon arrays are deposited in NCBI's GEO database (GSE 18838), a MIAMI compliant database.</p>
+                <p>For confirmation of gender in our cohort, we looked at the expression levels of 18 Y-linked genes and confirmed that they were highly expressed in the male subjects. (See Supplementary <xref ref-type="supplementary-material" rid="pone.0009104.s002">Figure S2</xref>).</p>
+            </sec>
+        </sec>
+        <sec sec-type="supplementary-material" id="s5">
+            <title>Supporting Information</title>
+            <supplementary-material content-type="local-data" id="pone.0009104.s001">
+                <label>Figure S1</label>
+                <caption>
+                    <p>Stratifying microarray data by gender. Venn diagrams show genes differentially expressed (p&#x0003c;.05) by 1.2 fold (A) or 2.0 fold (B) in females only, males only, or both females and males. No multiple correction was done.</p>
+                    <p>(6.06 MB TIF)</p>
+                </caption>
+                <media xlink:href="pone.0009104.s001.tif" mimetype="image" mime-subtype="tiff">
+                    <caption>
+                        <p>Click here for additional data file.</p>
+                    </caption>
+                </media>
+            </supplementary-material>
+            <supplementary-material content-type="local-data" id="pone.0009104.s002">
+                <label>Figure S2</label>
+                <caption>
+                    <p>Confirmation of gender of microarray cohort by expression of 18 Y-linked genes. Box plot shows average expression levels of 18 Y-linked genes in each chip. Males show high expression of Y chromosome genes. The 18 genes used are RPS4Y1,ZFY, PCDH11Y, TBL1Y, PRKY, TTTY12, USP9Y, TMSB4Y, NLGN4Y, RPS4Y2, RBMY1F, PRY, AMELY, TTTY11, TTTY14, TTTY10, TTTY13, TTTY5.</p>
+                    <p>(5.50 MB TIF)</p>
+                </caption>
+                <media xlink:href="pone.0009104.s002.tif" mimetype="image" mime-subtype="tiff">
+                    <caption>
+                        <p>Click here for additional data file.</p>
+                    </caption>
+                </media>
+            </supplementary-material>
+            <supplementary-material content-type="local-data" id="pone.0009104.s003">
+                <label>Table S1</label>
+                <caption>
+                    <p>Differentially expressed genes overlapping among 3 PD microarray datasets. Listed are genes differentially expressed by 1.2 fold (p&#x0003c;.05 with no multiple correction) in any 2 of the 3 PD public datasets analyzed.</p>
+                    <p>(0.04 MB XLS)</p>
+                </caption>
+                <media xlink:href="pone.0009104.s003.xls" mimetype="application" mime-subtype="vnd.ms-excel">
+                    <caption>
+                        <p>Click here for additional data file.</p>
+                    </caption>
+                </media>
+            </supplementary-material>
+            <supplementary-material content-type="local-data" id="pone.0009104.s004">
+                <label>Table S2</label>
+                <caption>
+                    <p>Transcripts with differential exonic expression in PD blood. Affymetrix Exon_ST1 arrays showed 218 transcripts with significant change (p&#x0003c;0.05 with Benjamini Hochberg FDR correction) in exonic expression in 17 PD blood samples versus 11 healthy controls.</p>
+                    <p>(0.24 MB DOC)</p>
+                </caption>
+                <media xlink:href="pone.0009104.s004.doc" mimetype="application" mime-subtype="msword">
+                    <caption>
+                        <p>Click here for additional data file.</p>
+                    </caption>
+                </media>
+            </supplementary-material>
+            <supplementary-material content-type="local-data" id="pone.0009104.s005">
+                <label>Table S3</label>
+                <caption>
+                    <p>Transcripts with significant exonic expression in PD blood show over- representation of Protein Binding Gene Ontology (GO) function. 112/218 transcripts with significant change in exonic expression in 17 PD blood samples versus healthy 11 controls belong to the GO Biological Function Protein Binding.</p>
+                    <p>(0.12 MB DOC)</p>
+                </caption>
+                <media xlink:href="pone.0009104.s005.doc" mimetype="application" mime-subtype="msword">
+                    <caption>
+                        <p>Click here for additional data file.</p>
+                    </caption>
+                </media>
+            </supplementary-material>
+            <supplementary-material content-type="local-data" id="pone.0009104.s006">
+                <label>Table S4</label>
+                <caption>
+                    <p>Genes differentially regulated by at least 2.0 fold in PD blood. 58 genes were differerntially expressed (FC &#x0003e;&#x0200a;&#x0003d;&#x0200a;2.0; p&#x0003c;.05 with no multiple correction) in the blood of 17 PDs versus 11 controls.</p>
+                    <p>(0.03 MB XLS)</p>
+                </caption>
+                <media xlink:href="pone.0009104.s006.xls" mimetype="application" mime-subtype="vnd.ms-excel">
+                    <caption>
+                        <p>Click here for additional data file.</p>
+                    </caption>
+                </media>
+            </supplementary-material>
+            <supplementary-material content-type="local-data" id="pone.0009104.s007">
+                <label>Table S5</label>
+                <caption>
+                    <p>Characteristics of our PD cohort included in our Real-Time PCR analysis. M&#x0200a;&#x0003d;&#x0200a; Male, F&#x0200a;&#x0003d;&#x0200a; Female, A&#x02013;R&#x0200a;&#x0003d;&#x0200a; Akinetic-Rigid dominant PD, Tremor&#x0200a;&#x0003d;&#x0200a; Tremor dominant PD, HY&#x0200a;&#x0003d;&#x0200a; Hoehn and Yahr Parkinson's disease stage, PMI&#x0200a;&#x0003d;&#x0200a; post-mortem interval.</p>
+                    <p>(0.05 MB DOC)</p>
+                </caption>
+                <media xlink:href="pone.0009104.s007.doc" mimetype="application" mime-subtype="msword">
+                    <caption>
+                        <p>Click here for additional data file.</p>
+                    </caption>
+                </media>
+            </supplementary-material>
+            <supplementary-material content-type="local-data" id="pone.0009104.s008">
+                <label>Table S6</label>
+                <caption>
+                    <p>Characteristics of our PD and control cohort included in our Affymetrix Exon Arrays and TaqMan Low Density Arrays. Control and PD subjects were recruited for our study. The best quality blood RNA used on the arrays came from 17 PDs and 11 controls.</p>
+                    <p>(0.03 MB XLS)</p>
+                </caption>
+                <media xlink:href="pone.0009104.s008.xls" mimetype="application" mime-subtype="vnd.ms-excel">
+                    <caption>
+                        <p>Click here for additional data file.</p>
+                    </caption>
+                </media>
+            </supplementary-material>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <p>Dr. Papapetropoulos is an employee of Biogen IDEC Inc (Cambridge, MA). We would like to thank Drs. Eden Martin and William (Bill) Scott for critical review of the manuscript, Dr. Lubov Nathanson for running the microarrays at the Microarray and Gene Expression Core at the Miami Institute for Human Genomics, and Dr. Nicholas Tsinoremas from the Center for Computational Sciences at University of Miami for providing GeneSpring X Software used for analysis of microarray data.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="pone.0009104-Papapetropoulos1">
+                <label>1</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Papapetropoulos</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>McCorquodale</surname>
+                            <given-names>D</given-names>
+                        </name>
+                    </person-group>
+                    <year>2007</year>
+                    <article-title>Gene Expression Profiling in Parkinson's disease: Discovery of valid biomarkers, molecular targets and biochemical pathways.</article-title>
+                    <source>Future Neurol</source>
+                    <volume>2</volume>
+                    <fpage>29</fpage>
+                    <lpage>38</lpage>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Papapetropoulos2">
+                <label>2</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Papapetropoulos</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Ffrench-Mullen</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>McCorquodale</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <name>
+                            <surname>Qin</surname>
+                            <given-names>Y</given-names>
+                        </name>
+                        <name>
+                            <surname>Pablo</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2006</year>
+                    <article-title>Multiregional gene expression profiling identifies MRPS6 as a possible candidate gene for Parkinson's disease.</article-title>
+                    <source>Gene Expr</source>
+                    <volume>13</volume>
+                    <fpage>205</fpage>
+                    <lpage>215</lpage>
+                    <pub-id pub-id-type="pmid">17193926</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Schadt1">
+                <label>3</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Schadt</surname>
+                            <given-names>EE</given-names>
+                        </name>
+                        <name>
+                            <surname>Lamb</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Yang</surname>
+                            <given-names>X</given-names>
+                        </name>
+                        <name>
+                            <surname>Zhu</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Edwards</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2005</year>
+                    <article-title>An integrative genomics approach to infer causal associations between gene expression and disease.</article-title>
+                    <source>Nat Genet</source>
+                    <volume>37</volume>
+                    <fpage>710</fpage>
+                    <lpage>717</lpage>
+                    <pub-id pub-id-type="pmid">15965475</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Grunblatt1">
+                <label>4</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Grunblatt</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Mandel</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Jacob-Hirsch</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Zeligson</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Amariglo</surname>
+                            <given-names>N</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2004</year>
+                    <article-title>Gene expression profiling of parkinsonian substantia nigra pars compacta; alterations in ubiquitin-proteasome, heat shock protein, iron and oxidative stress regulated proteins, cell adhesion/cellular matrix and vesicle trafficking genes.</article-title>
+                    <source>J Neural Transm</source>
+                    <volume>111</volume>
+                    <fpage>1543</fpage>
+                    <lpage>1573</lpage>
+                    <pub-id pub-id-type="pmid">15455214</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Hauser1">
+                <label>5</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Hauser</surname>
+                            <given-names>MA</given-names>
+                        </name>
+                        <name>
+                            <surname>Li</surname>
+                            <given-names>YJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Xu</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <name>
+                            <surname>Noureddine</surname>
+                            <given-names>MA</given-names>
+                        </name>
+                        <name>
+                            <surname>Shao</surname>
+                            <given-names>YS</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2005</year>
+                    <article-title>Expression profiling of substantia nigra in Parkinson disease, progressive supranuclear palsy, and frontotemporal dementia with parkinsonism.</article-title>
+                    <source>Arch Neurol</source>
+                    <volume>62</volume>
+                    <fpage>917</fpage>
+                    <lpage>921</lpage>
+                    <pub-id pub-id-type="pmid">15956162</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Duke1">
+                <label>6</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Duke</surname>
+                            <given-names>DC</given-names>
+                        </name>
+                        <name>
+                            <surname>Moran</surname>
+                            <given-names>LB</given-names>
+                        </name>
+                        <name>
+                            <surname>Kalaitzakis</surname>
+                            <given-names>ME</given-names>
+                        </name>
+                        <name>
+                            <surname>Deprez</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Dexter</surname>
+                            <given-names>DT</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2006</year>
+                    <article-title>Transcriptome analysis reveals link between proteasomal and mitochondrial pathways in Parkinson's disease.</article-title>
+                    <source>Neurogenetics</source>
+                    <volume>7</volume>
+                    <fpage>139</fpage>
+                    <lpage>148</lpage>
+                    <pub-id pub-id-type="pmid">16699787</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Miller1">
+                <label>7</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Miller</surname>
+                            <given-names>RM</given-names>
+                        </name>
+                        <name>
+                            <surname>Kiser</surname>
+                            <given-names>GL</given-names>
+                        </name>
+                        <name>
+                            <surname>Kaysser-Kranich</surname>
+                            <given-names>TM</given-names>
+                        </name>
+                        <name>
+                            <surname>Lockner</surname>
+                            <given-names>RJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Palaniappan</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2006</year>
+                    <article-title>Robust dysregulation of gene expression in substantia nigra and striatum in Parkinson's disease.</article-title>
+                    <source>Neurobiol Dis</source>
+                    <volume>21</volume>
+                    <fpage>305</fpage>
+                    <lpage>313</lpage>
+                    <pub-id pub-id-type="pmid">16143538</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Lesnick1">
+                <label>8</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lesnick</surname>
+                            <given-names>TG</given-names>
+                        </name>
+                        <name>
+                            <surname>Sorenson</surname>
+                            <given-names>EJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Ahlskog</surname>
+                            <given-names>JE</given-names>
+                        </name>
+                        <name>
+                            <surname>Henley</surname>
+                            <given-names>JR</given-names>
+                        </name>
+                        <name>
+                            <surname>Shehadeh</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2008</year>
+                    <article-title>Beyond Parkinson disease: amyotrophic lateral sclerosis and the axon guidance pathway.</article-title>
+                    <source>PLoS ONE</source>
+                    <volume>3</volume>
+                    <fpage>e1449</fpage>
+                    <pub-id pub-id-type="pmid">18197259</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-CantutiCastelvetri1">
+                <label>9</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Cantuti-Castelvetri</surname>
+                            <given-names>I</given-names>
+                        </name>
+                        <name>
+                            <surname>Keller-McGandy</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Bouzou</surname>
+                            <given-names>B</given-names>
+                        </name>
+                        <name>
+                            <surname>Asteris</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Clark</surname>
+                            <given-names>TW</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2007</year>
+                    <article-title>Effects of gender on nigral gene expression and parkinson disease.</article-title>
+                    <source>Neurobiol Dis</source>
+                    <volume>26</volume>
+                    <fpage>606</fpage>
+                    <lpage>614</lpage>
+                    <pub-id pub-id-type="pmid">17412603</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Bossers1">
+                <label>10</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Bossers</surname>
+                            <given-names>K</given-names>
+                        </name>
+                        <name>
+                            <surname>Meerhoff</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Balesar</surname>
+                            <given-names>R</given-names>
+                        </name>
+                        <name>
+                            <surname>van Dongen</surname>
+                            <given-names>JW</given-names>
+                        </name>
+                        <name>
+                            <surname>Kruse</surname>
+                            <given-names>CG</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2009</year>
+                    <article-title>Analysis of gene expression in Parkinson's disease: possible involvement of neurotrophic support and axon guidance in dopaminergic cell death.</article-title>
+                    <source>Brain Pathol</source>
+                    <volume>19</volume>
+                    <fpage>91</fpage>
+                    <lpage>107</lpage>
+                    <pub-id pub-id-type="pmid">18462474</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Scherzer1">
+                <label>11</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Scherzer</surname>
+                            <given-names>CR</given-names>
+                        </name>
+                        <name>
+                            <surname>Eklund</surname>
+                            <given-names>AC</given-names>
+                        </name>
+                        <name>
+                            <surname>Morse</surname>
+                            <given-names>LJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Liao</surname>
+                            <given-names>Z</given-names>
+                        </name>
+                        <name>
+                            <surname>Locascio</surname>
+                            <given-names>JJ</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2007</year>
+                    <article-title>Molecular markers of early Parkinson's disease based on gene expression in blood.</article-title>
+                    <source>Proc Natl Acad Sci U S A</source>
+                    <volume>104</volume>
+                    <fpage>955</fpage>
+                    <lpage>960</lpage>
+                    <pub-id pub-id-type="pmid">17215369</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Greene1">
+                <label>12</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Greene</surname>
+                            <given-names>JG</given-names>
+                        </name>
+                        <name>
+                            <surname>Greenamyre</surname>
+                            <given-names>JT</given-names>
+                        </name>
+                        <name>
+                            <surname>Dingledine</surname>
+                            <given-names>R</given-names>
+                        </name>
+                    </person-group>
+                    <year>2008</year>
+                    <article-title>Sequential and concerted gene expression changes in a chronic in vitro model of parkinsonism.</article-title>
+                    <source>Neuroscience</source>
+                    <volume>152</volume>
+                    <fpage>198</fpage>
+                    <lpage>207</lpage>
+                    <pub-id pub-id-type="pmid">18191903</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Dreyfuss1">
+                <label>13</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Dreyfuss</surname>
+                            <given-names>G</given-names>
+                        </name>
+                        <name>
+                            <surname>Kim</surname>
+                            <given-names>VN</given-names>
+                        </name>
+                        <name>
+                            <surname>Kataoka</surname>
+                            <given-names>N</given-names>
+                        </name>
+                    </person-group>
+                    <year>2002</year>
+                    <article-title>Messenger-RNA-binding proteins and the messages they carry.</article-title>
+                    <source>Nat Rev Mol Cell Biol</source>
+                    <volume>3</volume>
+                    <fpage>195</fpage>
+                    <lpage>205</lpage>
+                    <pub-id pub-id-type="pmid">11994740</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Mukherji1">
+                <label>14</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Mukherji</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Brill</surname>
+                            <given-names>LM</given-names>
+                        </name>
+                        <name>
+                            <surname>Ficarro</surname>
+                            <given-names>SB</given-names>
+                        </name>
+                        <name>
+                            <surname>Hampton</surname>
+                            <given-names>GM</given-names>
+                        </name>
+                        <name>
+                            <surname>Schultz</surname>
+                            <given-names>PG</given-names>
+                        </name>
+                    </person-group>
+                    <year>2006</year>
+                    <article-title>A phosphoproteomic analysis of the ErbB2 receptor tyrosine kinase signaling pathways.</article-title>
+                    <source>Biochemistry</source>
+                    <volume>45</volume>
+                    <fpage>15529</fpage>
+                    <lpage>15540</lpage>
+                    <pub-id pub-id-type="pmid">17176074</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Johnson1">
+                <label>15</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Johnson</surname>
+                            <given-names>JM</given-names>
+                        </name>
+                        <name>
+                            <surname>Castle</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Garrett-Engele</surname>
+                            <given-names>P</given-names>
+                        </name>
+                        <name>
+                            <surname>Kan</surname>
+                            <given-names>Z</given-names>
+                        </name>
+                        <name>
+                            <surname>Loerch</surname>
+                            <given-names>PM</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2003</year>
+                    <article-title>Genome-wide survey of human alternative pre-mRNA splicing with exon junction microarrays.</article-title>
+                    <source>Science</source>
+                    <volume>302</volume>
+                    <fpage>2141</fpage>
+                    <lpage>2144</lpage>
+                    <pub-id pub-id-type="pmid">14684825</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Schmutz1">
+                <label>16</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Schmutz</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Wheeler</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Grimwood</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Dickson</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Yang</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2004</year>
+                    <article-title>Quality assessment of the human genome sequence.</article-title>
+                    <source>Nature</source>
+                    <volume>429</volume>
+                    <fpage>365</fpage>
+                    <lpage>368</lpage>
+                    <pub-id pub-id-type="pmid">15164052</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Schmucker1">
+                <label>17</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Schmucker</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <name>
+                            <surname>Clemens</surname>
+                            <given-names>JC</given-names>
+                        </name>
+                        <name>
+                            <surname>Shu</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <name>
+                            <surname>Worby</surname>
+                            <given-names>CA</given-names>
+                        </name>
+                        <name>
+                            <surname>Xiao</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2000</year>
+                    <article-title>Drosophila Dscam is an axon guidance receptor exhibiting extraordinary molecular diversity.</article-title>
+                    <source>Cell</source>
+                    <volume>101</volume>
+                    <fpage>671</fpage>
+                    <lpage>684</lpage>
+                    <pub-id pub-id-type="pmid">10892653</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Dubey1">
+                <label>18</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Dubey</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <name>
+                            <surname>Ganesh</surname>
+                            <given-names>S</given-names>
+                        </name>
+                    </person-group>
+                    <year>2008</year>
+                    <article-title>Modulation of functional properties of laforin phosphatase by alternative splicing reveals a novel mechanism for the EPM2A gene in Lafora progressive myoclonus epilepsy.</article-title>
+                    <source>Hum Mol Genet</source>
+                    <volume>17</volume>
+                    <fpage>3010</fpage>
+                    <lpage>3020</lpage>
+                    <pub-id pub-id-type="pmid">18617530</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Gloor1">
+                <label>19</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Gloor</surname>
+                            <given-names>GB</given-names>
+                        </name>
+                        <name>
+                            <surname>Moretti</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Mouyal</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Keeler</surname>
+                            <given-names>KJ</given-names>
+                        </name>
+                    </person-group>
+                    <year>2000</year>
+                    <article-title>Distinct P-element excision products in somatic and germline cells of Drosophila melanogaster.</article-title>
+                    <source>Genetics</source>
+                    <volume>155</volume>
+                    <fpage>1821</fpage>
+                    <lpage>1830</lpage>
+                    <pub-id pub-id-type="pmid">10924477</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Lynch1">
+                <label>20</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lynch</surname>
+                            <given-names>KW</given-names>
+                        </name>
+                        <name>
+                            <surname>Weiss</surname>
+                            <given-names>A</given-names>
+                        </name>
+                    </person-group>
+                    <year>2001</year>
+                    <article-title>A CD45 polymorphism associated with multiple sclerosis disrupts an exonic splicing silencer.</article-title>
+                    <source>J Biol Chem</source>
+                    <volume>276</volume>
+                    <fpage>24341</fpage>
+                    <lpage>24347</lpage>
+                    <pub-id pub-id-type="pmid">11306584</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Chisa1">
+                <label>21</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Chisa</surname>
+                            <given-names>JL</given-names>
+                        </name>
+                        <name>
+                            <surname>Burke</surname>
+                            <given-names>DT</given-names>
+                        </name>
+                    </person-group>
+                    <year>2007</year>
+                    <article-title>Mammalian mRNA splice-isoform selection is tightly controlled.</article-title>
+                    <source>Genetics</source>
+                    <volume>175</volume>
+                    <fpage>1079</fpage>
+                    <lpage>1087</lpage>
+                    <pub-id pub-id-type="pmid">17179090</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Maragakis1">
+                <label>22</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Maragakis</surname>
+                            <given-names>NJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Dykes-Hoberg</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Rothstein</surname>
+                            <given-names>JD</given-names>
+                        </name>
+                    </person-group>
+                    <year>2004</year>
+                    <article-title>Altered expression of the glutamate transporter EAAT2b in neurological disease.</article-title>
+                    <source>Ann Neurol</source>
+                    <volume>55</volume>
+                    <fpage>469</fpage>
+                    <lpage>477</lpage>
+                    <pub-id pub-id-type="pmid">15048885</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Stamm1">
+                <label>23</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Stamm</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Ben-Ari</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Rafalska</surname>
+                            <given-names>I</given-names>
+                        </name>
+                        <name>
+                            <surname>Tang</surname>
+                            <given-names>Y</given-names>
+                        </name>
+                        <name>
+                            <surname>Zhang</surname>
+                            <given-names>Z</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2005</year>
+                    <article-title>Function of alternative splicing.</article-title>
+                    <source>Gene</source>
+                    <volume>344</volume>
+                    <fpage>1</fpage>
+                    <lpage>20</lpage>
+                    <pub-id pub-id-type="pmid">15656968</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Lin1">
+                <label>24</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lin</surname>
+                            <given-names>CL</given-names>
+                        </name>
+                        <name>
+                            <surname>Bristol</surname>
+                            <given-names>LA</given-names>
+                        </name>
+                        <name>
+                            <surname>Jin</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <name>
+                            <surname>Dykes-Hoberg</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Crawford</surname>
+                            <given-names>T</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>1998</year>
+                    <article-title>Aberrant RNA processing in a neurodegenerative disease: the cause for absent EAAT2, a glutamate transporter, in amyotrophic lateral sclerosis.</article-title>
+                    <source>Neuron</source>
+                    <volume>20</volume>
+                    <fpage>589</fpage>
+                    <lpage>602</lpage>
+                    <pub-id pub-id-type="pmid">9539131</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Catania1">
+                <label>25</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Catania</surname>
+                            <given-names>MV</given-names>
+                        </name>
+                        <name>
+                            <surname>Aronica</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Yankaya</surname>
+                            <given-names>B</given-names>
+                        </name>
+                        <name>
+                            <surname>Troost</surname>
+                            <given-names>D</given-names>
+                        </name>
+                    </person-group>
+                    <year>2001</year>
+                    <article-title>Increased expression of neuronal nitric oxide synthase spliced variants in reactive astrocytes of amyotrophic lateral sclerosis human spinal cord.</article-title>
+                    <source>J Neurosci</source>
+                    <volume>21</volume>
+                    <fpage>RC148</fpage>
+                    <pub-id pub-id-type="pmid">11344254</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Akbarian1">
+                <label>26</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Akbarian</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Smith</surname>
+                            <given-names>MA</given-names>
+                        </name>
+                        <name>
+                            <surname>Jones</surname>
+                            <given-names>EG</given-names>
+                        </name>
+                    </person-group>
+                    <year>1995</year>
+                    <article-title>Editing for an AMPA receptor subunit RNA in prefrontal cortex and striatum in Alzheimer's disease, Huntington's disease and schizophrenia.</article-title>
+                    <source>Brain Res</source>
+                    <volume>699</volume>
+                    <fpage>297</fpage>
+                    <lpage>304</lpage>
+                    <pub-id pub-id-type="pmid">8616634</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Sato1">
+                <label>27</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Sato</surname>
+                            <given-names>N</given-names>
+                        </name>
+                        <name>
+                            <surname>Hori</surname>
+                            <given-names>O</given-names>
+                        </name>
+                        <name>
+                            <surname>Yamaguchi</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Lambert</surname>
+                            <given-names>JC</given-names>
+                        </name>
+                        <name>
+                            <surname>Chartier-Harlin</surname>
+                            <given-names>MC</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>1999</year>
+                    <article-title>A novel presenilin-2 splice variant in human Alzheimer's disease brain tissue.</article-title>
+                    <source>J Neurochem</source>
+                    <volume>72</volume>
+                    <fpage>2498</fpage>
+                    <lpage>2505</lpage>
+                    <pub-id pub-id-type="pmid">10349860</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Beyer1">
+                <label>28</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Beyer</surname>
+                            <given-names>K</given-names>
+                        </name>
+                        <name>
+                            <surname>Domingo-Sabat</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Lao</surname>
+                            <given-names>JI</given-names>
+                        </name>
+                        <name>
+                            <surname>Carrato</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Ferrer</surname>
+                            <given-names>I</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2008</year>
+                    <article-title>Identification and characterization of a new alpha-synuclein isoform and its role in Lewy body diseases.</article-title>
+                    <source>Neurogenetics</source>
+                    <volume>9</volume>
+                    <fpage>15</fpage>
+                    <lpage>23</lpage>
+                    <pub-id pub-id-type="pmid">17955272</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Dagata1">
+                <label>29</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Dagata</surname>
+                            <given-names>V</given-names>
+                        </name>
+                        <name>
+                            <surname>Cavallaro</surname>
+                            <given-names>S</given-names>
+                        </name>
+                    </person-group>
+                    <year>2004</year>
+                    <article-title>Parkin transcript variants in rat and human brain.</article-title>
+                    <source>Neurochem Res</source>
+                    <volume>29</volume>
+                    <fpage>1715</fpage>
+                    <lpage>1724</lpage>
+                    <pub-id pub-id-type="pmid">15453267</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-DSouza1">
+                <label>30</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>D'Souza</surname>
+                            <given-names>I</given-names>
+                        </name>
+                        <name>
+                            <surname>Poorkaj</surname>
+                            <given-names>P</given-names>
+                        </name>
+                        <name>
+                            <surname>Hong</surname>
+                            <given-names>M</given-names>
+                        </name>
+                        <name>
+                            <surname>Nochlin</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <name>
+                            <surname>Lee</surname>
+                            <given-names>VM</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>1999</year>
+                    <article-title>Missense and silent tau gene mutations cause frontotemporal dementia with parkinsonism-chromosome 17 type, by affecting multiple alternative RNA splicing regulatory elements.</article-title>
+                    <source>Proc Natl Acad Sci U S A</source>
+                    <volume>96</volume>
+                    <fpage>5598</fpage>
+                    <lpage>5603</lpage>
+                    <pub-id pub-id-type="pmid">10318930</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Tan1">
+                <label>31</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Tan</surname>
+                            <given-names>EK</given-names>
+                        </name>
+                        <name>
+                            <surname>Shen</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <name>
+                            <surname>Tan</surname>
+                            <given-names>JM</given-names>
+                        </name>
+                        <name>
+                            <surname>Lim</surname>
+                            <given-names>KL</given-names>
+                        </name>
+                        <name>
+                            <surname>Fook-Chong</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2005</year>
+                    <article-title>Differential expression of splice variant and wild-type parkin in sporadic Parkinson's disease.</article-title>
+                    <source>Neurogenetics</source>
+                    <volume>6</volume>
+                    <fpage>179</fpage>
+                    <lpage>184</lpage>
+                    <pub-id pub-id-type="pmid">16086186</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Potashkin1">
+                <label>32</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Potashkin</surname>
+                            <given-names>JA</given-names>
+                        </name>
+                        <name>
+                            <surname>Kang</surname>
+                            <given-names>UJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Loomis</surname>
+                            <given-names>PA</given-names>
+                        </name>
+                        <name>
+                            <surname>Jodelka</surname>
+                            <given-names>FM</given-names>
+                        </name>
+                        <name>
+                            <surname>Ding</surname>
+                            <given-names>Y</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2007</year>
+                    <article-title>MPTP administration in mice changes the ratio of splice isoforms of fosB and rgs9.</article-title>
+                    <source>Brain Res</source>
+                    <volume>1182</volume>
+                    <fpage>1</fpage>
+                    <lpage>10</lpage>
+                    <pub-id pub-id-type="pmid">17936734</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-McLean1">
+                <label>33</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>McLean</surname>
+                            <given-names>PJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Hyman</surname>
+                            <given-names>BT</given-names>
+                        </name>
+                    </person-group>
+                    <year>2002</year>
+                    <article-title>An alternatively spliced form of rodent alpha-synuclein forms intracellular inclusions in vitro: role of the carboxy-terminus in alpha-synuclein aggregation.</article-title>
+                    <source>Neurosci Lett</source>
+                    <volume>323</volume>
+                    <fpage>219</fpage>
+                    <lpage>223</lpage>
+                    <pub-id pub-id-type="pmid">11959424</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Lipscombe1">
+                <label>34</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Lipscombe</surname>
+                            <given-names>D</given-names>
+                        </name>
+                    </person-group>
+                    <year>2005</year>
+                    <article-title>Neuronal proteins custom designed by alternative splicing.</article-title>
+                    <source>Curr Opin Neurobiol</source>
+                    <volume>15</volume>
+                    <fpage>358</fpage>
+                    <lpage>363</lpage>
+                    <pub-id pub-id-type="pmid">15961039</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Davies1">
+                <label>35</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Davies</surname>
+                            <given-names>RC</given-names>
+                        </name>
+                        <name>
+                            <surname>Calvio</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Bratt</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Larsson</surname>
+                            <given-names>SH</given-names>
+                        </name>
+                        <name>
+                            <surname>Lamond</surname>
+                            <given-names>AI</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>1998</year>
+                    <article-title>WT1 interacts with the splicing factor U2AF65 in an isoform-dependent manner and can be incorporated into spliceosomes.</article-title>
+                    <source>Genes Dev</source>
+                    <volume>12</volume>
+                    <fpage>3217</fpage>
+                    <lpage>3225</lpage>
+                    <pub-id pub-id-type="pmid">9784496</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Manley1">
+                <label>36</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Manley</surname>
+                            <given-names>JL</given-names>
+                        </name>
+                        <name>
+                            <surname>Tacke</surname>
+                            <given-names>R</given-names>
+                        </name>
+                    </person-group>
+                    <year>1996</year>
+                    <article-title>SR proteins and splicing control.</article-title>
+                    <source>Genes Dev</source>
+                    <volume>10</volume>
+                    <fpage>1569</fpage>
+                    <lpage>1579</lpage>
+                    <pub-id pub-id-type="pmid">8682289</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Wang1">
+                <label>37</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Wang</surname>
+                            <given-names>Y</given-names>
+                        </name>
+                        <name>
+                            <surname>Barbacioru</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Hyland</surname>
+                            <given-names>F</given-names>
+                        </name>
+                        <name>
+                            <surname>Xiao</surname>
+                            <given-names>W</given-names>
+                        </name>
+                        <name>
+                            <surname>Hunkapiller</surname>
+                            <given-names>KL</given-names>
+                        </name>
+                        <etal/>
+                    </person-group>
+                    <year>2006</year>
+                    <article-title>Large scale real-time PCR validation on gene expression measurements from two commercial long-oligonucleotide microarrays.</article-title>
+                    <source>BMC Genomics</source>
+                    <volume>7</volume>
+                    <fpage>59</fpage>
+                    <pub-id pub-id-type="pmid">16551369</pub-id>
+                </mixed-citation>
+            </ref>
+            <ref id="pone.0009104-Hughes1">
+                <label>38</label>
+                <mixed-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Hughes</surname>
+                            <given-names>AJ</given-names>
+                        </name>
+                        <name>
+                            <surname>Daniel</surname>
+                            <given-names>SE</given-names>
+                        </name>
+                        <name>
+                            <surname>Kilford</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <name>
+                            <surname>Lees</surname>
+                            <given-names>AJ</given-names>
+                        </name>
+                    </person-group>
+                    <year>1992</year>
+                    <article-title>Accuracy of clinical diagnosis of idiopathic Parkinson's disease: a clinico-pathological study of 100 cases.</article-title>
+                    <source>J Neurol Neurosurg Psychiatry</source>
+                    <volume>55</volume>
+                    <fpage>181</fpage>
+                    <lpage>184</lpage>
+                    <pub-id pub-id-type="pmid">1564476</pub-id>
+                </mixed-citation>
+            </ref>
+        </ref-list>
+        <fn-group>
+            <fn fn-type="conflict">
+                <p>
+                    <bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p>
+            </fn>
+            <fn fn-type="financial-disclosure">
+                <p>
+                    <bold>Funding: </bold>This study was partly supported by an intramural Scientific Awards Committee (SAC) grant from the University of Miami Miller School of Medicine (S.P. and L.A.S.) and a National Institutes of Health National Institute of Neurological Disorders and Stroke (NIH/NINDS) Morris K. Udall Parkinson Disease Research Center of Excellence (J.V.). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p>
+            </fn>
+        </fn-group>
+    </back>
+</article>

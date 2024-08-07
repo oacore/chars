@@ -1,0 +1,301 @@
+html,
+body {
+    font-family: roboto, -apple-system, blinkmacsystemfont, 'Segoe UI',
+    'Helvetica Neue', arial, 'Noto Sans', sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #000;
+    background: #fff;
+}
+
+body {
+    margin: 1em;
+}
+
+h1 {
+    margin: 24px 0;
+    font-size: 24px;
+    line-height: 1;
+    font-weight: 600;
+    color: #212121;
+}
+
+h2 {
+    padding: 0 25px;
+}
+
+p {
+    padding: 5px 25px;
+    font-size: 16px;
+}
+
+a {
+    color: #b75400;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    color: #812700;
+    text-decoration: underline;
+}
+
+/* ======== Start block */
+
+header {
+    background-color: #FAFAFA;
+    border-bottom: 7px solid #b75400;
+    display: table;
+    width: 100%;
+}
+
+header .title,
+header .logo {
+    display: table-cell;
+}
+
+header .title {
+    vertical-align: top;
+    padding: 25px;
+}
+
+header .sub-title {
+    font-size: 24px;
+    color: #B75400;
+}
+
+header .logo {
+    text-align: right;
+    padding: 10px 15px;
+}
+
+header .repo_name {
+    color: #b75400;
+}
+
+header .repo_name,
+header .text {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.button {
+    display: inline-block;
+    padding: 8px 16px;
+    font-family: roboto, -apple-system, blinkmacsystemfont, 'Segoe UI',
+    'Helvetica Neue', arial, 'Noto Sans', sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    background: #b75400;
+    border: 0;
+    border-radius: 2px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    transition-duration: 150ms;
+    transition-property: color, background, border-color, box-shadow;
+}
+
+.button:hover,
+.button:focus {
+    background-color: #812700;
+    color: #fff;
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.button:active {
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2),
+    inset 0 0 4px rgba(0, 0, 0, 0.05);
+}
+
+.button_reverse {
+    background-color: transparent;
+    border: 1px solid #b75400;
+    color: #b75400;
+}
+
+.signature {
+    color: #616161;
+}
+
+.block_points,
+.block_edition {
+    text-align: center;
+}
+
+.point {
+    display: inline-block;
+    max-width: 160px;
+    text-align: center;
+    margin: 0 15px;
+    vertical-align: top;
+}
+
+.point .title {
+    font-weight: bold;
+}
+
+#email {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.link {
+    padding: 8px 16px;
+    background-color: #B75400;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 14px;
+    border-radius: 3px;
+}
+
+.best_regards_v2 div,
+.best_regards div {
+    display: inline-block;
+}
+
+.best_regards_v2,
+.best_regards {
+    background-color: #FAFAFA;
+    display: table;
+    width: 100%;
+    margin-top: 15px;
+    position: relative;
+}
+
+.best_regards_v2 .footer_head,
+.best_regards .footer_head {
+    margin-left: 25px;
+    width: 100px;
+    height: 2px;
+    background-color: #B75400;
+    display: block;
+    position: absolute;
+    top: 0;
+}
+
+.best_regards .logo {
+    display: inline-block;
+    text-align: left;
+    padding: 10px 0 15px 27px;
+}
+
+.best_regards_v2 .logo{
+    width: 45px;
+    display: table-cell;
+    text-align: left;
+    padding: 15px;
+    vertical-align: top;
+}
+
+.best_regards_v2 .logo svg {
+    width: 45px;
+    height: auto;
+}
+.best_regards .logo svg {
+    width: 20px;
+    height: auto;
+}
+
+.best_regards_v2 .logo .text,
+.best_regards .logo .text {
+    font-size: 16px;
+}
+
+.best_regards .text {
+    padding: 4px 0px 0px 27px;
+    display: block;
+    float: none;
+}
+
+.best_regards_v2 .text{
+    vertical-align: top;
+    padding: 25px 0 25px 27px;
+    display: block;
+    float: left;
+}
+
+.best_regards_v2 .logo .text,
+.best_regards .logo .text {
+    padding: 3px 0 0 0;
+    display: inline-block;
+    float: none;
+    font-weight: 500;
+}
+
+footer {
+    background-color: #EEEEEE;
+}
+
+footer .text {
+    font-size: 10px;
+    padding: 26px 42px;
+    text-align: center;
+    color: #757575;
+}
+
+footer a {
+    color: #757575;
+    text-decoration: underline;
+}
+
+/* =========== End blocks */
+/* =========== End blocks */
+
+.dot {
+    border-radius: 50%;
+    content: '';
+    display: inline-block;
+    width: 3px;
+    height: 3px;
+    background: #000000;
+    margin: 0 5px 2px 7px;
+}
+
+.color_primary {
+    color: #B75400;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    color: #626262;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.center {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
+
+.padding_15 {
+    padding: 15px 0;
+}
+
+.padding_25 {
+    padding: 25px 0;
+}
+
+.bold_500 {
+    font-weight: 500;
+}
+
+.text_block {
+    display: block;
+}

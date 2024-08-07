@@ -1,0 +1,29 @@
+{
+  "settings": {
+    "number_of_shards": 5
+  },
+  "mappings": {
+    "aggregate": {
+      "properties": {
+        "brokenRecords": {
+          "type": "long"
+        },
+        "compliantRecordBasic": {
+          "type": "long"
+        },
+        "compliantRecordFull": {
+          "type": "long"
+        },
+        "invalidRecords": {
+          "type": "long"
+        },
+        "repositoryId": {
+          "type": "long"
+        },
+        "totalRecords": {
+          "type": "long"
+        }
+      }
+    }
+  }
+}

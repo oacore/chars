@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "number_of_shards": 8
+  },
+  "mappings": {
+    "_doc": {
+      "properties": {
+        "data": {
+          "type": "nested",
+          "properties": {
+            "idKey": {
+              "type": "long"
+            },
+            "status": {
+              "type": "long"
+            }
+          }
+        },
+        "time": {
+          "type": "long"
+        }
+      }
+    }
+  }
+}

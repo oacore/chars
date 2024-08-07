@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en" style="font-family: roboto, -apple-system, blinkmacsystemfont, 'Segoe UI',
+            'Helvetica Neue', arial, 'Noto Sans', sans-serif, 'Apple Color Emoji',
+            'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';font-size: 16px;font-weight: 400;line-height: 1.5;color: #000;background: #fff;">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+
+</head>
+<body style="font-family: roboto, -apple-system, blinkmacsystemfont, 'Segoe UI',
+            'Helvetica Neue', arial, 'Noto Sans', sans-serif, 'Apple Color Emoji',
+            'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';font-size: 16px;font-weight: 400;line-height: 1.5;color: #000;background: #fff;margin: 1em;">
+<div id="email" class="email_registration" style="max-width: 600px;margin: 0 auto;font-size: 16px;">
+    <!--    HEADER-->
+    <header style="background-color: #FAFAFA;border-bottom: 7px solid #b75400;display: table;width: 100%;">
+        <table style="width: 100%">
+            <tr>
+                <td>
+                    <div class="title" style="display: table-cell;vertical-align: top;padding: 25px;">
+                        <div class="text" style="font-size: 24px;font-weight: bold;">CORE Dashboard</div>
+                        <div class="sub-title" style="font-size: 24px;color: #B75400;">Indexing notification</div>
+                    </div>
+                </td>
+                <td>
+                    <div class="logo" style="display: table-cell;text-align: right;padding: 10px 15px; width: 50%">
+<!--                        <img src="https://api.core.ac.uk/images/logo_small.svg">-->
+                        <img alt="CORE logo"
+                             style="width: 67px; height: 89px;"
+                             src="cid:logoHeader" >
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </header>
+    <!--    EMAIL BODY -->
+    <div class="notification">
+        <p style="margin: 24px 0;padding: 0 25px;font-size: 16px;">
+            Indexing of repository "${repo_name}" has completed.
+        </p>
+        <div class="notification__title" style="font-weight: 500;font-size: 16px;line-height: 24px;text-align: center;">
+            Results of indexing
+        </div>
+        <p class="notification__caption" style="margin: 24px 0;padding: 0 25px;font-size: 14px;color: #666666;text-align: center;">
+            We have identified ${issue_type} issue types
+            affecting ${affected_count} records
+        </p>
+        <div class="notification__results" style="text-align: center;">
+            <table>
+                <tr>
+                    <td>
+                        <div class="notification__results__items notification__results__total" style="width: 266px;font-weight: 700;font-size: 23px;border-radius: 2px;line-height: 48px;background: #FEF5EF;color: #EF8237;display: inline-block;text-align: center;">
+                            ${metadata_cnt}
+                        </div>
+                    </td>
+                    <td>
+                        <div class="notification__results__items notification__results__full" style="width: 266px;font-weight: 700;font-size: 23px;border-radius: 2px;line-height: 48px;background: #F5F5F5;color: #666666;display: inline-block;text-align: center;">
+                            ${fulltext_cnt}
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="notification__results__text" style="width: 266px;font-size: 14px;line-height: 24px;text-align: center;margin-top: 10px;display: inline-block;">Total indexed outputs</div>
+                    </td>
+                    <td>
+                        <div class="notification__results__text" style="width: 266px;font-size: 14px;line-height: 24px;text-align: center;margin-top: 10px;display: inline-block;">Full texts</div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="notification__results" style="text-align: center;">
+
+        </div>
+        <p style="margin: 24px 0;padding: 0 25px;font-size: 16px;">
+            You can find more information about last successful indexing and indexing issues in your
+            dashboard account.
+        </p>
+        <p style="margin: 24px 0;padding: 0 25px;font-size: 16px;">
+            <a href="https://dashboard.core.ac.uk/" class="link" target="_blank" style="color: #ffffff;text-decoration: none;padding: 8px 16px;background-color: #B75400;text-transform: uppercase;font-weight: normal;font-size: 14px;border-radius: 3px;">Go to Dashboard</a><br>
+        </p>
+    </div>
+    <br>
+    <!--    FOOTER-->
+    <div class="best_regards" style="background-color: #FAFAFA;display: table;width: 100%;margin-top: 15px;position: relative;">
+        <div class="footer_head" style="display: block;margin-left: 25px;width: 100px;height: 2px;background-color: #B75400;position: absolute;top: 0;"></div>
+        <div class="text" style="display: block;padding: 4px 0px 0px 27px;vertical-align: top;float: none;">Kind regards,<br>
+            The CORE Team</div>
+        <div class="logo" style="display: inline-block;text-align: left;padding: 10px 0 15px 27px;">
+            <img alt="CORE logo"
+                 style="width: 20px"
+                 src="cid:logoFooter" >
+            <div class="text" style="display: inline-block;padding: 3px 0 0 0;vertical-align: top;float: none;font-size: 16px;font-weight: 500;">CORE</div>
+        </div>
+    </div>
+    <footer style="background-color: #EEEEEE;">
+        <div class="text" style="font-size: 10px;padding: 26px 42px;text-align: center;color: #757575;">
+            You received this message because you subscribed to the Indexing notification on your
+            <a href="https://dashboard.core.ac.uk" target="_blank" style="color: #757575;text-decoration: underline;">Dashboard</a>
+            account. To unsubscribe please head to the dashboard <a href="https://dashboard.core.ac.uk" target="_blank" style="color: #757575;text-decoration: underline;">notification settings</a>.
+        </div>
+    </footer>
+</div>
+</body>
+</html>

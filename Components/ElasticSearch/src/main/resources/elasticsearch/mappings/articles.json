@@ -1,0 +1,207 @@
+{
+  "properties": {
+    "authors": {
+      "type": "text",
+      "fields": {
+        "raw": {
+          "type": "keyword"
+        }
+      }
+    },
+    "citations": {
+      "type": "nested",
+      "properties": {
+        "authors": {
+          "type": "text"
+        },
+        "cites": {
+          "type": "text"
+        },
+        "date": {
+          "type": "date",
+          "format": "strict_date_optional_time||yyyy||yyyy-mm-dd||yyyy-mm"
+        },
+        "doi": {
+          "type": "keyword"
+        },
+        "id": {
+          "type": "long"
+        },
+        "raw": {
+          "type": "text"
+        },
+        "title": {
+          "type": "text"
+        }
+      }
+    },
+    "contributors": {
+      "type": "keyword"
+    },
+    "datePublished": {
+      "type": "keyword"
+    },
+    "deleted": {
+      "type": "keyword"
+    },
+    "description": {
+      "type": "text"
+    },
+    "documentType": {
+      "type": "keyword"
+    },
+    "documentTypeConfidence": {
+      "type": "double"
+    },
+    "doi": {
+      "type": "keyword"
+    },
+    "downloadUrl": {
+      "type": "keyword"
+    },
+    "fullText": {
+      "type": "text"
+    },
+    "fullTextIdentifier": {
+      "type": "keyword"
+    },
+    "id": {
+      "type": "long"
+    },
+    "identifiers": {
+      "type": "keyword"
+    },
+    "journals": {
+      "type": "nested",
+      "properties": {
+        "identifiers": {
+          "type": "keyword"
+        },
+        "title": {
+          "type": "text",
+          "fields": {
+            "raw": {
+              "type": "keyword"
+            }
+          }
+        }
+      }
+    },
+    "language": {
+      "type":"nested",
+      "properties": {
+        "code": {
+          "type": "keyword"
+        },
+        "id": {
+          "type": "keyword"
+        },
+        "name": {
+          "type": "keyword"
+        }
+      }
+    },
+    "oai": {
+      "type": "keyword"
+    },
+    "pdfHashValue": {
+      "type": "keyword"
+    },
+    "publisher": {
+      "type": "text"
+    },
+    "rawRecordXml": {
+      "type": "keyword"
+    },
+    "relations": {
+      "type": "keyword"
+    },
+    "repositories": {
+      "type":"nested",
+      "properties": {
+        "disabled": {
+          "type": "boolean"
+        },
+        "id": {
+          "type": "long"
+        },
+        "name": {
+          "type": "text",
+          "fields": {
+            "facet": {
+              "type": "keyword"
+            }
+          }
+        },
+        "nrUpdates": {
+          "type": "long"
+        },
+        "openDoarId": {
+          "type": "long"
+        },
+        "physicalName": {
+          "type": "text"
+        },
+        "roarId": {
+          "type": "long"
+        }
+      }
+    },
+    "repositoryDocument": {
+      "type":"nested",
+      "properties": {
+        "deletedStatus": {
+          "type": "long"
+        },
+        "depositedDate": {
+          "type": "long"
+        },
+        "indexed": {
+          "type": "long"
+        },
+        "metadataAdded": {
+          "type": "date"
+        },
+        "metadataUpdated": {
+          "type": "date"
+        },
+        "pdfOrigin": {
+          "type": "keyword"
+        },
+        "pdfSize": {
+          "type": "long"
+        },
+        "pdfStatus": {
+          "type": "long"
+        },
+        "tdmOnly": {
+          "type": "boolean"
+        },
+        "textStatus": {
+          "type": "long"
+        },
+        "timestamp": {
+          "type": "date"
+        }
+      }
+    },
+    "subjects": {
+      "type": "keyword"
+    },
+    "title": {
+      "type": "text"
+    },
+    "topics": {
+      "type": "keyword"
+    },
+    "types": {
+      "type": "keyword"
+    },
+    "urls": {
+      "type": "keyword"
+    },
+    "year": {
+      "type": "long"
+    }
+  }
+}

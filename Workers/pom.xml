@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>uk.ac.core</groupId>
+        <artifactId>CHARS</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <artifactId>Workers</artifactId>
+    <packaging>pom</packaging>
+    
+    <name>Workers</name>
+
+    <properties>
+        <worker-lifecycle.version>1.0-SNAPSHOT</worker-lifecycle.version>
+    </properties>
+    
+    <modules>
+        <module>ItemWorkers</module>
+        <module>ReindexWorkers</module>
+        <module>ScheduledWorkers</module>
+        <module>DocumentDownloadWorker</module>
+        <module>MetadataDownloadWorker</module>
+        <module>MetadataExtractWorker</module>
+        <module>ExtendedMetadataProcessWorker</module>
+        <module>RIOXXCheckWorker</module>
+        <module>QueuePopulateWorker</module>               
+    </modules>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>uk.ac.core</groupId>
+                <artifactId>WorkerLifecycle</artifactId>
+                <version>${worker-lifecycle.version}</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+</project>

@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "number_of_shards": 5
+  },
+  "mappings": {
+    "journal": {
+      "properties": {
+        "identifiers": {
+          "type": "keyword"
+        },
+        "language": {
+          "type": "keyword"
+        },
+        "numberOfPublications": {
+          "type": "long"
+        },
+        "publisher": {
+          "type": "keyword"
+        },
+        "repositoryId": {
+          "type": "long"
+        },
+        "rights": {
+          "type": "keyword"
+        },
+        "subjects": {
+          "type": "keyword"
+        },
+        "title": {
+          "type": "text",
+          "fields": {
+            "raw": {
+              "type": "keyword"
+            }
+          }
+        }
+      }
+    }
+  }
+}

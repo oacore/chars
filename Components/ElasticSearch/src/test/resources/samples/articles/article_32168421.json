@@ -1,0 +1,54 @@
+{
+      "id": 32168421,
+      "authors": [
+         "Seitz, H.",
+         "Royo, E.",
+         "P. Lin, S.",
+         "Youngson, N.",
+         "C. Ferguson-Smith, A.",
+         "Cavaille, J."
+      ],
+      "citations": [],
+      "contributors": [
+         "Laboratoire de biologie moléculaire eucaryote du CNRS (LBME) ; Université Paul Sabatier - Toulouse 3 (UPS) - Centre National de la Recherche Scientifique (CNRS)"
+      ],
+      "datePublished": "2004",
+      "deleted": "ALLOWED",
+      "identifiers": [
+         "oai:HAL:hal-00022405v1",
+         null
+      ],
+      "publisher": "De Gruyter",
+      "rawRecordXml": "<record><header><identifier>\n    \n      \n  oai:HAL:hal-00022405v1</identifier><datestamp>\n  2006-04-07</datestamp><setSpec>\n  type:ART</setSpec><setSpec>\n  collection:CNRS</setSpec><setSpec>\n  collection:UNIV-TLSE3</setSpec>\n</header><metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" ><oai_dc:dc xmlns:tei=\"http://www.tei-c.org/ns/1.0\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" ><dc:publisher>\n      \n  HAL CCSD</dc:publisher><dc:title xml:lang=\"it\" >\n  Imprinted small RNA genes</dc:title><dc:creator>\n  Seitz, H.</dc:creator><dc:creator>\n  Royo, E.</dc:creator><dc:creator>\n  P. Lin, S.</dc:creator><dc:creator>\n  Youngson, N.</dc:creator><dc:creator>\n  C. Ferguson-Smith, A.</dc:creator><dc:creator>\n  Cavaille, J.</dc:creator><dc:contributor>\n  Laboratoire de biologie moléculaire eucaryote du CNRS (LBME) ; Université Paul Sabatier - Toulouse 3 (UPS) - Centre National de la Recherche Scientifique (CNRS)</dc:contributor><dc:source>\n  ISSN: 1431-6730</dc:source><dc:source>\n  EISSN: 1437-4315</dc:source><dc:source>\n  Biological Chemistry</dc:source><dc:publisher>\n  De Gruyter</dc:publisher><dc:identifier>\n  hal-00022405</dc:identifier><dc:identifier>\n  https://hal.archives-ouvertes.fr/hal-00022405</dc:identifier><dc:source>\n  https://hal.archives-ouvertes.fr/hal-00022405</dc:source><dc:source>\n  Biological Chemistry, De Gruyter, 2004, 10, pp.905-11</dc:source><dc:language>\n  en</dc:language><dc:type>\n  info:eu-repo/semantics/article</dc:type><dc:type>\n  Journal articles</dc:type><dc:date>\n  2004</dc:date>\n</oai_dc:dc>\n</metadata>\n    </record>",
+      "relations": [],
+      "repositories": [
+         {
+            "name": "Archive Ouverte en Sciences de l'Information et de la Communication",
+            "id": 320
+         }
+      ],
+      "repositoryDocument": {
+         "pdfStatus": 0,
+         "textStatus": 0,
+         "metadataUpdated": "2016-04-29T20:05:30Z",
+         "timestamp": "2016-05-02T00:00:00Z",
+         "indexed": 1,
+         "deletedStatus": "0",
+         "pdfSize": 0
+      },
+      "similarities": [],
+      "subjects": [
+         "info:eu-repo/semantics/article",
+         "Journal articles"
+      ],
+      "title": "Imprinted small RNA genes",
+      "topics": [],
+      "types": [],
+      "urls": [
+         "https://hal.archives-ouvertes.fr/hal-00022405",
+         "https://hal.archives-ouvertes.fr/hal-00022405",
+         "https://hal.archives-ouvertes.fr/hal-00022405"
+      ],
+      "year": 2004,
+      "oai": "oai:HAL:hal-00022405v1"
+   }

@@ -1,0 +1,415 @@
+{
+    "id": 8192,
+    "authors": [
+        "Wallis, Stuart A.",
+        "Georgeson, Mark A."
+    ],
+    "citations": [
+        {
+            "id": 17139110,
+            "title": "A computational approach to edge-detection.",
+            "authors": [],
+            "date": "1986",
+            "doi": "10.1016/b978-0-08-051581-6.50024-6",
+            "raw": "Canny, J. (1986). A computational approach to edge-detection. IEEE Transactions On Pattern Analysis and Machine Intelligence, 8, 679-698."
+        },
+        {
+            "id": 17139151,
+            "title": "A theory of the primitive spatial code in human vision.",
+            "authors": [],
+            "date": "1985",
+            "doi": "10.1016/0042-6989(85)90138-5",
+            "raw": "Watt, R.J., & Morgan, M.J. (1985). A theory of the primitive spatial code in human vision. Vision Research, 25, 1661-1674."
+        },
+        {
+            "id": 17139121,
+            "title": "Afterimages of sinusoidal, square-wave and compound gratings.",
+            "authors": [],
+            "date": "1985",
+            "doi": "10.1016/0042-6989(85)90143-9",
+            "raw": "Georgeson, M.A., & Turner, R.S.E. (1985). Afterimages of sinusoidal, square-wave and compound gratings. Vision Research, 25, 1709-1720."
+        },
+        {
+            "id": 17139111,
+            "title": "Authenticating edges produced by zero-crossing algorithms.",
+            "authors": [],
+            "date": "1989",
+            "doi": "10.1109/34.23112",
+            "raw": "Clark, J.J. (1989). Authenticating edges produced by zero-crossing algorithms. IEEE Transactions on Pattern Analysis and Machine Intelligence, 11, 43-57."
+        },
+        {
+            "id": 17139141,
+            "title": "Blurred edges look faint, and faint edges look sharp: The eect of a gradient threshold in a multiscale edge coding model.",
+            "authors": [],
+            "date": "2007",
+            "doi": "10.1016/j.visres.2007.02.012",
+            "raw": "May, K.A., & Georgeson, M.A. (2007). Blurred edges look faint, and faint edges look sharp: The eect of a gradient threshold in a multiscale edge coding model. Vision Research, 47, 1705-1720."
+        },
+        {
+            "id": 17139152,
+            "title": "Double-pass and interferometric measures of the optical quality of the eye.",
+            "authors": [],
+            "date": "1994",
+            "doi": "10.1364/josaa.11.003123",
+            "raw": "Williams, D.R., Brainard, D.H., McMahon, M.J., & Navarro, R. (1994). Double-pass and interferometric measures of the optical quality of the eye. Journal of the Optical Society of America A, 11, 3123-3135."
+        },
+        {
+            "id": 17139137,
+            "title": "Edge detection and ridge detection with automatic scale selection.",
+            "authors": [],
+            "date": "1998",
+            "doi": "10.1109/cvpr.1996.517113",
+            "raw": "Lindeberg, T. (1998). Edge detection and ridge detection with automatic scale selection. International Journal of Computer Vision, 30, 117-154."
+        },
+        {
+            "id": 17139147,
+            "title": "Edge detectors in human vision.",
+            "authors": [],
+            "date": "1973",
+            "raw": "Shapley, R.M., & Tolhurst, D.J. (1973). Edge detectors in human vision. Journal of Physiology-London, 229, 165-183."
+        },
+        {
+            "id": 17139107,
+            "title": "Edge focusing.",
+            "authors": [],
+            "date": "1987",
+            "doi": "10.1109/tpami.1987.4767980",
+            "raw": "Bergholm, F. (1987). Edge focusing. IEEE Transactions On Pattern Analysis and Machine Intelligence, 9, 726-741."
+        },
+        {
+            "id": 17139122,
+            "title": "Edges and bars: where do people see features in 1-D images?",
+            "authors": [],
+            "date": "2005",
+            "doi": "10.1016/j.visres.2004.09.013",
+            "raw": "Hesse, G.S., & Georgeson, M.A. (2005). Edges and bars: where do people see features in 1-D images? Vision Research, 45, 507-525."
+        },
+        {
+            "id": 17139130,
+            "title": "Equivalent intrinsic blur in amblyopia.",
+            "authors": [],
+            "date": "1990",
+            "doi": "10.1016/0042-6989(90)90017-f",
+            "raw": "Levi, D.M., & Klein, S.A. (1990a). Equivalent intrinsic blur in amblyopia. Vision Research, 30, 1995-2022."
+        },
+        {
+            "id": 17139132,
+            "title": "Equivalent intrinsic blur in spatial vision.",
+            "authors": [],
+            "date": "1990",
+            "doi": "10.1016/0042-6989(90)90016-e",
+            "raw": "Levi, D.M., & Klein, S.A. (1990b). Equivalent intrinsic blur in spatial vision. Vision Research, 30, 1971-1993."
+        },
+        {
+            "id": 17139108,
+            "title": "Evidence for edge and bar detectors in human vision.",
+            "authors": [],
+            "date": "1989",
+            "doi": "10.1016/0042-6989(89)90006-0",
+            "raw": "Burr, D.C., Morrone, M.C., & Spinelli, D. (1989). Evidence for edge and bar detectors in human vision. Vision Research, 29, 419-431."
+        },
+        {
+            "id": 17139142,
+            "title": "Feature detection in human vision - a phase-dependent energy model.",
+            "authors": [],
+            "date": "1988",
+            "doi": "10.1098/rspb.1988.0073",
+            "raw": "Morrone, M.C., & Burr, D.C. (1988). Feature detection in human vision - a phase-dependent energy model. Proceedings of the Royal Society of London Series B - Biological Sciences, 235, 221-245."
+        },
+        {
+            "id": 17139120,
+            "title": "From  to features: Scale-space analysis of edge and blur coding in human vision.",
+            "authors": [],
+            "date": "2007",
+            "doi": "10.1167/7.13.7",
+            "raw": "Georgeson, M.A., May, K.A., Freeman, T.C.A., & Hesse, G.S. (2007). From lters to features: Scale-space analysis of edge and blur coding in human vision. Journal of Vision, 7, 1-21."
+        },
+        {
+            "id": 17139148,
+            "title": "Front-end vision and multi-scale image analysis.",
+            "authors": [],
+            "date": "2003",
+            "doi": "10.1007/978-1-4020-8840-7",
+            "raw": "ter Haar Romeny, B. (2003). Front-end vision and multi-scale image analysis. Dordrecht: Kluwer."
+        },
+        {
+            "id": 17139118,
+            "title": "Human vision combines oriented  to compute edges.",
+            "authors": [],
+            "date": "1992",
+            "doi": "10.1098/rspb.1992.0110",
+            "raw": "Georgeson, M.A. (1992). Human vision combines oriented lters to compute edges. Proceedings of the Royal Society of London Series B-Biological Sciences, 249, 235-245."
+        },
+        {
+            "id": 17139139,
+            "title": "Irradiation - implications for theories of edge localization.",
+            "authors": [],
+            "date": "1986",
+            "doi": "10.1016/0042-6989(86)90157-4",
+            "raw": "Mather, G., & Morgan, M. (1986). Irradiation - implications for theories of edge localization. Vision Research, 26, 1007-1015."
+        },
+        {
+            "id": 17139115,
+            "title": "Local scale control for edge detection and blur estimation.",
+            "authors": [],
+            "date": "1998",
+            "doi": "10.1007/3-540-61123-1_127",
+            "raw": "Elder, J.H., & Zucker, S.W. (1998). Local scale control for edge detection and blur estimation. IEEE Transactions On Pattern Analysis and Machine Intelligence, 20, 699-716."
+        },
+        {
+            "id": 17139158,
+            "title": "Multi-scale blur estimation and edge type classi for scene analysis.",
+            "authors": [],
+            "date": "1997",
+            "raw": "Zhang, W., & Bergholm, F. (1997). Multi-scale blur estimation and edge type classication for scene analysis. International Journal of Computer Vision, 24, 219-250."
+        },
+        {
+            "id": 17139146,
+            "title": "On optimal in impulse response edge detection",
+            "authors": [],
+            "date": "1991",
+            "doi": "10.1109/34.103275",
+            "raw": "Sarkar, S., & Boyer, K.L. (1991). On optimal innite impulse response edge detection lters. IEEE Transactions on Pattern Analysis and Machine Intelligence, 13, 1154-1171."
+        },
+        {
+            "id": 17139109,
+            "title": "Optical quality of the human eye.",
+            "authors": [],
+            "date": "1966",
+            "raw": "Campbell, F.W., & Gubisch, R.W. (1966). Optical quality of the human eye. Journal of Physiology, 186, 558-578."
+        },
+        {
+            "id": 17139119,
+            "title": "Perceived location of bars and edges in one-dimensional images: Computational models and human vision.",
+            "authors": [],
+            "date": "1997",
+            "doi": "10.1016/s0042-6989(96)00078-8",
+            "raw": "Georgeson, M.A., & Freeman, T.C.A. (1997). Perceived location of bars and edges in one-dimensional images: Computational models and human vision. Vision Research, 37, 127-142."
+        },
+        {
+            "id": 17139117,
+            "title": "Phase reversal discrimination.",
+            "authors": [],
+            "date": "1984",
+            "doi": "10.1016/0042-6989(84)90058-0",
+            "raw": "Field, D.J., & Nachmias, J. (1984). Phase reversal discrimination. Vision Research, 24, 333-340."
+        },
+        {
+            "id": 17139143,
+            "title": "Phase-relationships between adjacent simple cells in the visual cortex.",
+            "authors": [],
+            "date": "1981",
+            "doi": "10.1126/science.7233231",
+            "raw": "Pollen, D.A., & Ronner, S.F. (1981). Phase-relationships between adjacent simple cells in the visual cortex. Science, 212, 1409-1411."
+        },
+        {
+            "id": 17139124,
+            "title": "Receptive  and functional architecture of monkey striate cortex.",
+            "authors": [],
+            "date": "1968",
+            "doi": "10.1038/221747a0",
+            "raw": "Hubel, D.H., & Wiesel, T.N. (1968). Receptive elds and functional architecture of monkey striate cortex. Journal of Physiology, 195, 215-243."
+        },
+        {
+            "id": 17139113,
+            "title": "Receptive  of P-ganglion and M-ganglion cells across the primate retina.",
+            "authors": [],
+            "date": "1995",
+            "doi": "10.1016/0042-6989(94)e0066-t",
+            "raw": "Croner, L.J., & Kaplan, E. (1995). Receptive elds of P-ganglion and M-ganglion cells across the primate retina. Vision Research, 35, 7-24."
+        },
+        {
+            "id": 17139133,
+            "title": "Scale-space for discrete signals.",
+            "authors": [],
+            "date": "1990",
+            "doi": "10.1007/978-3-662-03039-4_42",
+            "raw": "Lindeberg, T. (1990). Scale-space for discrete signals. IEEE Transactions on Pattern Analysis and Machine Intelligence, 12, 234-254."
+        },
+        {
+            "id": 17139136,
+            "title": "Scale-space theory in computer vision.",
+            "authors": [],
+            "date": "1994",
+            "doi": "10.1007/978-1-4757-6465-9",
+            "raw": "Lindeberg, T. (1994). Scale-space theory in computer vision. Dordrecht: Kluwer."
+        },
+        {
+            "id": 17139157,
+            "title": "Scaling theorems for zero crossings.",
+            "authors": [],
+            "date": "1986",
+            "doi": "10.1109/tpami.1986.4767748",
+            "raw": "Yuille, A.L., & Poggio, T.A. (1986). Scaling theorems for zero crossings. IEEE Transactions on Pattern Analysis and Machine Intelligence, 8, 15-25."
+        },
+        {
+            "id": 17139128,
+            "title": "Spatial arrangement of line, edge and grating detectors revealed by subthreshold summation.",
+            "authors": [],
+            "date": "1973",
+            "doi": "10.1016/0042-6989(73)90006-0",
+            "raw": "Kulikowski, J.J., & King-Smith, P.E. (1973). Spatial arrangement of line, edge and grating detectors revealed by subthreshold summation. Vision Research, 13, 1455-1478."
+        },
+        {
+            "id": 17139145,
+            "title": "Spatial structure and symmetry of simplecell receptive  in macaque primary visual cortex.",
+            "authors": [],
+            "date": "2002",
+            "raw": "7Ringach, D.L. (2002). Spatial structure and symmetry of simplecell receptive elds in macaque primary visual cortex. Journal of Neurophysiology, 88, 455-463."
+        },
+        {
+            "id": 17139129,
+            "title": "Sustained and transient mechanisms in humanvision - temporal and spatial properties.",
+            "authors": [],
+            "date": "1978",
+            "doi": "10.1016/0042-6989(78)90079-2",
+            "raw": "Legge, G.E. (1978). Sustained and transient mechanisms in humanvision - temporal and spatial properties. Vision Research, 18, 69-81."
+        },
+        {
+            "id": 17139156,
+            "title": "The Gaussian Derivative model for spatial-temporal vision: II. Cortical data.",
+            "authors": [],
+            "date": "2001",
+            "doi": "10.1163/156856801753253591",
+            "raw": "Young, R.A., & Lesperance, R.M. (2001). The Gaussian Derivative model for spatial-temporal vision: II. Cortical data. Spatial Vision, 14, 321-389."
+        },
+        {
+            "id": 17139154,
+            "title": "The Gaussian derivative theory of spatial vision: analysis of cortical cell receptive  line-weighting pro Warren, Mich.: General Motors Research Laboratories.",
+            "authors": [],
+            "date": "1985",
+            "raw": "Young, R.A. (1985). The Gaussian derivative theory of spatial vision: analysis of cortical cell receptive eld line-weighting proles. Warren, Mich.: General Motors Research Laboratories."
+        },
+        {
+            "id": 17139125,
+            "title": "The Structure of Images.",
+            "authors": [],
+            "date": "1984",
+            "doi": "10.1007/bf00336961",
+            "raw": "Koenderink, J.J. (1984). The Structure of Images. Biological Cybernetics, 50, 363-370."
+        },
+        {
+            "id": 17139138,
+            "title": "Theory of edge detection.",
+            "authors": [],
+            "date": "1980",
+            "doi": "10.1098/rspb.1980.0020",
+            "raw": "Marr, D., & Hildreth, E. (1980). Theory of edge detection. Proceedings of the Royal Society of London Series B-Biological Sciences, 207, 187-217."
+        },
+        {
+            "id": 17139126,
+            "title": "Toward a symbolic representation of intensity changes in images.",
+            "authors": [],
+            "date": "1988",
+            "doi": "10.1109/34.6770",
+            "raw": "Korn, A.F. (1988). Toward a symbolic representation of intensity changes in images. IEEE Transactions on Pattern Analysis and Machine Intelligence, 10, 610-625."
+        },
+        {
+            "id": 17139106,
+            "title": "Uniqueness of the Gaussian kernel for scale-space",
+            "authors": [],
+            "date": "1986",
+            "doi": "10.1109/tpami.1986.4767749",
+            "raw": "Babaud, J., Witkin, A.P., Baudin, M., & Duda, R.O. (1986). Uniqueness of the Gaussian kernel for scale-space ltering. IEEE Transactions on Pattern Analysis and Machine Intelligence, 8, 26-33."
+        }
+    ],
+    "contributors": [],
+    "datePublished": "2009-07",
+    "deleted": "ALLOWED",
+    "description": "Edges are key points of information in visual scenes. One important class of models supposes that edges correspond to the steepest parts of the luminance profile, implying that they can be found as peaks and troughs in the response of a gradient (1st derivative) filter, or as zero-crossings in the 2nd derivative (ZCs). We tested those ideas using a stimulus that has no local peaks of gradient and no ZCs, at any scale. The stimulus profile is analogous to the Mach ramp, but it is the luminance gradient (not the absolute luminance) that increases as a linear ramp between two plateaux; the luminance profile is a blurred triangle-wave. For all image-blurs tested, observers marked edges at or close to the corner points in the gradient profile, even though these were not gradient maxima. These Mach edges correspond to peaks and troughs in the 3rd derivative. Thus Mach edges are inconsistent with many standard edge-detection schemes, but are nicely predicted by a recent model that finds edge points with a 2-stage sequence of 1st then 2nd derivative operators, each followed by a half-wave rectifier",
+    "fullText": "This post-publication version was produced for Aston University Research Archive by Stuart Wallis.\nVision Research 49 (2009) 1886-1893 doi:10.1016/j.visres.2009.04.026\nContents lists available at ScienceDirect\nVision Research\njournal homepage: www.elsevier.com/locate/visres\nMach edges: Local features predicted by 3rd derivative spatial filtering\nStuart A. Wallis, Mark A. Georgeson\nSchool of Life and Health Sciences, Aston University, Birmingham B4 7ET, UK. Email: s.a.wallis2@aston.ac.uk\nARTICLE INFO\nArticle history:\nReceived 17 October 2008\nReceived in revised form 8 April 2009\nKeywords:\nHuman vision\nPsychophysics\nEdge localisation\nSpatial derivatives\nMach bands\nABSTRACT\nEdges are key points of information in visual scenes. One important class of models supposes\nthat edges correspond to the steepest parts of the luminance profile, implying that they can\nbe found as peaks and troughs in the response of a gradient (first derivative) filter, or as\nzero-crossings in the second derivative (ZCs). We tested those ideas using a stimulus that\nhas no local peaks of gradient and no ZCs, at any scale. The stimulus profile is analogous to\nthe Mach ramp, but it is the luminance gradient (not the absolute luminance) that increases\nas a linear ramp between two plateaux; the luminance profile is a blurred triangle-wave. For\nall image-blurs tested, observers marked edges at or close to the corner points in the gradient\nprofile, even though these were not gradient maxima. These Mach edges correspond to peaks\nand troughs in the third-derivative. Thus Mach edges are inconsistent with many standard\nedge detection schemes, but are nicely predicted by a recent model that finds edge points\nwith a 2-stage sequence of 1st- then 2nd-derivative operators, each followed by a half-wave\nrectifier.\n1. Introduction\nEdges are key points of information in visual scenes. But\ndespite much research it remains uncertain how edges are\nextracted from the eyes neural output. It is widely accepted\nthat the retinal image is filtered by even- and odd-symmetric\nspatial filters at various scales, early in the visual pathway (Burr,\nMorrone & Spinelli, 1989; Field & Nachmias, 1984; Hubel &\nWiesel, 1968; Pollen & Ronner, 1981; Ringach, 2002) but how\nthe filters are used in feature detection remains an open question.\nEarly psychophysical work proposed an edge-detector role for\nodd-symmetric filters and a bar-detector role for even-symmetric\nfilters (Kulikowski & King-Smith, 1973; Shapley & Tolhurst,\n1973). This could be true, but as many have pointed out, such\na simple interpretation is incomplete because the ‘edge-detectors’\nalso respond to bars, and the ‘bar-detectors’ respond to edges\n(Fig. 1), with peak responses offset to left or right of the feature\nin question. The interpretive parsing rules of MIRAGE (Watt\n& Morgan, 1985) and the quadratic summation of even and odd\nresponses in the local energy model (Morrone & Burr, 1988) were\nboth motivated by the need to resolve that ambiguity.\nOne attractive general view of receptive fields in early vision\nis that they act as spatial derivative operators (Lindeberg, 1994;\nMarr & Hildreth, 1980; ter Haar Romeny, 2003; Watt & Morgan,\n1985; Young, 1985; Young & Lesperance, 2001). For example,\nsummation of the output of the two regions of the odd-symmetric\nreceptive field shown in Fig. 1 (left) is equivalent to obtaining the\ndifference in luminance between these two regions. If this filter\nis convolved with a 1-D image, then the output at each point is\nproportional to the spatial luminance gradient (the 1st derivative),\nafter a degree of smoothing that is determined by the scale (size)\nof the receptive field (Fig. 1, middle row). By a similar argument\n(with an increasing number of receptive field regions) filters can\nbe obtained that compute the 2nd, 3rd or any higher derivative.\nEdge detection models based on derivative computation often\nsuppose that edges correspond to the steepest parts of the\nluminance profile, implying that they can be found as peaks\nand troughs in the response of a 1st derivative (gradient) filter\n(Bergholm, 1987; Canny, 1986; Korn, 1988; Sarkar & Boyer,\n1991; Zhang & Bergholm, 1997), or as zero-crossings in the\nsecond derivative (Elder & Zucker, 1998; Georgeson, 1992; Marr\n& Hildreth, 1980; Watt & Morgan, 1985).\nThe third spatial derivative has until recently played an\nancillary role in edge-detection schemes. Zero-crossings (ZCs) in\nthe 2nd derivative occur both at maxima and minima of gradient\nmagnitude (Clark, 1989). Clark regarded the minima (points\n!\"#$%&%'(\n)**+,$!-(.\n.(/0)%/(\n(1(%+,$!-(.\n.(/0)%/(\n+)**+,$!-(.\n(1(%+,$!-(.\nFigure 1: Receptive fields of odd-symmetric and even-symmetric filters (left,\nin plan view and cross-section), and their responses (right) to the blurred\nbar and edge shown in the top row. Note that each filter responds to both\nfeatures.\n1\nof locally shallowest slope) as spurious edges, and showed from\nstandard calculus how ZCs could be classed as ‘real’ or spurious\nfrom the sign of the product of the 1st and 3rd derivatives at the\nZC. A negative sign identifies a real edge while a positive sign\nidentifies a spurious one. Thus the 3rd derivative was used to\ncategorize edges found at ZCs in the 2nd derivative.\nImportant theoretical developments, in the framework of\nGaussian scale-space theory, were made by Lindeberg (1998) who\nused peaks in the multi-scale 1st derivative to find edge locations,\nand then used the multi-scale 3rd derivative to determine the\nstrength and blur of each edge. This was followed by a step that\nprovided a measure of the saliency of each edge by integrating\nedge strength along the contour. By selecting a restricted number\n(such as 100) of the most salient curves, the algorithm produced\nan effective line drawing of a variety of test images.\nIn this paper we ask whether the 3rd derivative may be used\ndirectly for edge-finding in human vision. At first sight, it appears\nunpromising because a 3rd derivative filter generates not only a\npeak at the edge location, but also a pair of flanking troughs,\nthus apparently signalling two spurious edges of opposite polarity\nadjacent to the ‘real’ edge (Fig. 2A). Georgeson, May, Freeman &\nHesse (2007) however, showed that decomposing the 3rd derivative\ninto two stages overcomes the problem of spurious edges (Fig. 2B).\nThis scheme - a 1st derivative operator followed by an inverted 2nd\nderivative, with half-wave rectification on the output of each stage\n- creates a nonlinear channel sensitive to edges of a given polarity,\nbut the peak response to a preferred edge is unaffected by the\nnonlinearities (Fig. 2B).\nThe multiscale model (called N3+) based on this approach\npredicted very well the perceived blur of a wide variety of edge-like\nwaveforms, including sinusoids. May & Georgeson (2007) further\nshowed that the addition of a smooth, threshold-like suppression\nof small values at the first rectifier accounted well for the finding\nthat reducing contrast made blurred edges appear sharper. The\n!\"#$!%\"&'()'*+,$,')-(.$$/ !\"#$!%\"&'()'*+,$,')-(.01\n!\"#$%&%'(\n)*+\n,%-\n!./-\n2,3\n4\n4\n4\nFigure 2: Two blurred edges and their first 3 derivatives. The 3rd derivative\nis shown inverted. A) Sequence of derivatives computed without half-\nwave rectification. B) Sequence of derivatives computed with half-wave\nrectification after the 1st and -3rd derivatives were obtained. Responses\nsuppressed by rectification are shown by dashed lines. Key property of this\nnonlinear model (sN3+) is that a single response peak occurs at the positive-\ngoing (dark-to-light) edge location. A second, complementary channel\nis needed for edges of the opposite polarity (cf. Fig. 9). (Note: Each\nderivative was computed in Matlab by convolution with the small-scale, 3-\npoint gradient operator whose weights were [-0.5, 0, 0.5]).\nsuccess of N3+, however, did not rule out a simpler multiscale\ngradient model (N1), based solely on the first derivative, which\nperformed fairly well in edge-finding and blur coding in many\ncircumstances. Our aim therefore was to devise a more definitive\nexperimental test across the family of derivative-based models of\nedge-finding outlined above.\nThe idea is inspired directly by the phenomenon of Mach\nBands, whose well-known ramp waveform has no peaks or troughs\nin luminance, but does have a peak and a trough in the 2nd\nderivative at the perceived location of the bright and dark bands.\nThis logic can be shifted up by one derivative order, to test the role\nof 3rd derivative extrema in edge detection. The first derivative\nof our stimulus is defined by a Mach ramp between two plateaux,\nthus ensuring that the 3rd derivative (rather than the 2nd) has a\npeak and a trough at the ends of the ramp, If edges are reliably\nseen at these points, in the absence of gradient maxima, then we\npropose that they be called ‘Mach Edges’, by direct analogy with\nMach Bands.\nOur experiments are therefore a search for Mach Edges. We\ndesigned luminance waveforms that contained peaks in the 3rd\nderivative but had no corresponding peaks in the 1st derivative\nnor zero-crossings in the 2nd derivative, at any scale. We then\nused the feature-marking method (Hesse & Georgeson, 2005) to\ndetermine whether edges were perceived in these stimuli, and if\nso where. We consider a simplified version of the N3+ model that\nuses filters at a single fine scale, which we shall refer to as the\nsN3+ model (‘s’ meaning ‘single-scale’). Since the N3+ and sN3+\nmodels produce very similar predictions for our stimuli, we can\nsimplify the multi-scale aspect of N3+ while retaining the ability\nto test its use of derivative filters and half-wave rectification.\n2. Experiment 1\nThe purpose of this experiment is to test for the existence of\nMach Edges: that is, to determine whether edges are reliably seen\nat or near 3rd derivative extrema in luminance waveforms designed\nto have no corresponding gradient maxima.\n2.1 Stimulus design\nSince the absence of peaks in the 1st derivative was of prime\nimportance, the starting point was to create a peak-free waveform\nrepresenting the gradient profile, and then integrate it to form the\nluminance profile. The gradient profile (Fig. 3) was a single period\nof a trapezoidal wave whose ramps were 1, 2, 4, 8, 16, 32 or 64\npixels wide. This was integrated to form the luminance profile of\nthe vertical 1-D test image. The luminance profile can equivalently\nbe described as a triangle-wave blurred by a box function whose\nwidth ranged from 1 to 64 pixels. We shall refer to this width as\nblurwidth.\nThe stimulus design is analogous to the Mach Band stimulus,\nbut it is the luminance gradient (not the absolute luminance) that\nincreases as a linear ramp between two plateaux. Two example\nimages, their luminance waveforms and first three derivatives\nare shown in Fig. 3. A graph of the luminance profile reveals\nno obvious edge locations: a uniform positive gradient shades\nsmoothly into a uniform negative one. It has no peak in the\n1st derivative and no ZC in the 2nd derivative, so no edges are\npredicted by models based on these derivative features. That\nremains true at all filter scales, because Gaussian smoothing\ndoes not introduce any new peaks (Babaud, Witkin, Baudin\n& Duda, 1986; Koenderink, 1984; Lindeberg, 1990; Yuille &\nPoggio, 1986). However, Fig. 3 shows that there is a sharply\nlocalized peak and trough in the 3rd derivative corresponding\nto the corner points in the gradient profile. If such peaks and\ntroughs are taken as the signature of edges, then human observers\nshould see two edges, of opposite polarity, at these locations.\n2\nBlurwidth 2\nluminance\n1st (gradient)\n2nd\n3rd\nBlurwidth 32\n0\n0\n0\n! \"\nblurwidth\nFigure 3: Two images from experiment 1 (blurwidths 2 and 32 pixels, peak\ncentral), their luminance waveforms and first three (linear) derivatives. The\n1st derivative profiles have the form of a Mach ramp.\n2.2 Method\nImage arrays were generated in Matlab on a Macintosh G4\ncomputer and displayed using PsychToolbox software on an Eizo\n6600-M greyscale monitor, calibrated and gamma-corrected using\na Minolta LS110 digital photometer. A Cambridge Research\nSystems Bits++ box was used in Mono++ mode to render 14-\nbit greyscale resolution.\nImages had one of two polarities: ‘peak central’ (see Fig. 3), or\na contrast inversion of this named ‘trough central’. Image size was\n256 by 256 pixels and subtended 4◦ at the viewing distance of 131.6\ncm. Test images had Michaelson contrasts of 0.2 or 0.4, and were\nsurrounded by a full-screen (16◦×12◦) mid-grey of luminance 40.7\ncd/m2. They were displayed flashing (on 0.3s, off 0.6s) in order\nto reduce the build-up of afterimages that would cause instability\nand possible shifts in edge location (Georgeson & Turner, 1985).\nThe inter-stimulus display was a full screen of mid-grey.\nThe task was to indicate the position and polarity of all edges\nseen in each image. Their position was identified by moving a\nmarker across the image and pressing a button when the marker\nwas over an edge. A second button-press indicated the polarity of\nthe edge as either light-to-dark (LD) or dark-to-light (DL). Once\nall the perceived edges had been marked, the observer initiated the\nnext trial. The marker consisted of two black dots, each 1 pixel\nwide by 3 pixels high. One dot was centred 32 pixels (0.5 deg)\nabove, and the other 32 pixels below, the horizontal midline of the\nimage. The observer was instructed to fixate midway between the\ntwo dots. The starting position of the marker alternated between\nleft and right on successive trials, and was 64 pixels (1 deg) from\nthe image border. Its movement was constrained to the central 2.5\ndegrees of the image. The 28 conditions (7 blurwidths, 2 phases,\n2 contrast levels) were presented in randomised order, blocked by\ncontrast. This procedure was repeated a further two times in one\nexperimental session, which took about 30 minutes to complete.\nThe three observers (SAW, DHB and TAY) were all\nexperienced psychophysical observers and had normal uncorrected\nvision. They viewed the display binocularly with natural pupils in\na darkened room, with the head supported by a chin-and-forehead\nrest. They each completed three sessions, giving a total of 9\nrepetitions of each condition per observer.\n2.3 Results: Mach Edges\nObservers reliably saw pairs of edges at positions to the left and\nright of the luminance peaks and troughs in each image. We shall\nrefer to these edges perceived without gradient peaks as Mach\nedges. Plots of perceived edge position against blurwidth are\nshown in Fig. 4 (symbols). Data were similar for all 3 observers\nand group means are shown. The perceived separation between\nthose edges increased markedly with blurwidth.\nSolid curves in Fig. 4 trace the positions of peaks in the\nsN3+ output derived from the luminance profile (i.e. with half-\nwave rectification after the 1st and 3rd derivative operation, cf.\nFig. 2B). For this class of waveforms (but not in general), the\noutcome is almost identical to that for the linear 3rd derivative\nwithout rectifiers. The overall correspondence between observed\nedges and 3rd derivative extrema is strikingly close. In contrast,\nstandard models based on the lower derivatives predict no edges\nhere. A 1st derivative filter at a broad scale does have peaks at\nthe mid-points of the luminance ramps (at position x=64 pixels),\nbut these points were not marked as edges. At small blurwidths,\nthe observed edges were systematically further apart than the 3rd\nderivative extrema by about 3.3 min arc, considered further below.\nBecause it is linear, the 3rd derivative operator predicts\nthe same edge positions for peak-central and trough-central\nconditions, but with reversed polarity, and this light-dark\nsymmetry is not affected by the rectification stages of the sN3+\nmodel. Figure 4 shows, however, that in the experiment the two\nedges were seen as slightly further apart in the peak-central than\nthe trough-central conditions, by an average of 1.9 min arc. This\nappears to be an example of the Helmholtz irradiation effect which\nmay arise from compressive nonlinearity in the retinal response\nto luminance (Georgeson & Freeman, 1997; Mather & Morgan,\n1986).\n2.3.1. No effect of edge length or marker location\nWe wondered whether the greater-than-predicted separation\nbetween edges at small blurwidths might arise from an influence\nof larger receptive fields in peripheral vision, given that the image\nheight was quite large (4 deg). If this were so, we might expect\nthe Mach edges to appear closer together when the image was\ntruncated to exclude the peripheral contribution.\nMethods were as above, except (i) image height was reduced\nto 8, 16 or 32 pixels (still 256 pixels wide), (ii) only one contrast\nlevel (0.4) was used, (iii) only four blur-widths were used (1, 4, 16\nand 64 pixels), (iv) marker-spots were 8 pixels above and below\nthe image borders, on the mid-grey background. Results (Fig. 5)\nwere very similar to those of the main experiment (Fig. 4) and\nany effect of image truncation was small. Rather than being\ncloser together, the perceived edges were, if anything, a little\nfurther apart when most truncated (triangles in Fig. 5). Thus the\ncontribution of peripheral retina does not appear to be crucial. A\nfurther experiment that used a single marker-spot on the image\nmid-line gave almost identical results (not shown), suggesting that\nthe placement of the marker-spots on the image, or on the grey\nbackground, was also not an important factor.\n2.3.2. Optical and neural blur\nThe sN3+ predictions (Figs. 4 & 5) were computed at a single\nfine scale, neglecting any impact of optical blur (Campbell &\nGubisch, 1966; Williams, Brainard, McMahon & Navarro, 1994)\nor neural ‘intrinsic’ blur (Levi & Klein, 1990a; Levi & Klein,\n1990b). To gauge the likely influence of blur, we applied Gaussian\nblur to the luminance profile before computing the sN3+ peaks.\nGaussian blur had little effect on the predicted position of the\nwidely separated Mach edges (high blurwidth images), but for low\nblurwidth images response peaks were shifted away from centre.\n3\n! \" !# #\"\n!$%\n!&%\n!!%\n%\n!%\n&%\n$%\n'()*+,(-./)0\n1\n2\n3\n(\n+4\n5\n6\n7.\n75\n-\n+8\n/5\n9\n+7\n9\n)\n3\n(\n+,\n(\n-\n./\n(\n+:\n4\n7;\n(\n06\n<\n \n \n=0>/?72.@+:47;(06<\n6A$B+952(0\n952(0+?7.@+C0>/\nD5-./)6.+%E&\nD5-./)6.+%E\"\n! \" !# #\"\nF/5>3@+,(-./)0\nFigure 4: Experiment 1. Perceived edge locations as a function of blurwidth. Symbols show group mean data at two contrast levels, for dark-to-light\nedges (DL, filled symbols) and light-to-dark edges (LD, open symbols). Positions of peaks in the two nonlinear 3rd derivative channels are shown by solid\ncurves. Dashed curves show the effect of including simulated Gaussian blur (σ=4.6 arc mins) before the derivative operators. 64 pixels = 60 arc mins. Left:\npeak-central waveform; right: trough-central waveform. Error-bars (±1 standard error) are plotted behind symbols and show between-observer variation\n(n=3).\nThe dashed lines in Fig. 4 show that the simulated blur gave\nan improved and very close match between predictions and data\n(without blur: rms error = 3.1 pixels, Pearsons X2 = 1540; with\nblur: rms error = 2.3 pixels, Pearsons X2 = 823; this improvement\nin the X2 goodness-of-fit, distributed as chi-square with 1 d.f., is\nhugely significant, p < 0.00001). The best fitting blur (with lowest\nrms error) was σ=4.6 min arc. This is far too large to represent\ndioptric blur alone, but could reflect the scale of the filter used by\nthe observer in this task.\n2.3.3. Pre-cortical filtering?\nOdd-symmetric filters (including 1st and 3rd derivatives)\nnecessarily have oriented receptive fields, and so presumably would\nbe implemented by cortical neurons. We should not ignore,\nhowever, the possible role of earlier filtering in the retina or LGN.\nWe found that applying a broad, mildly bandpass Difference-of-\nGaussian (DoG) filter (Fig. 6A), similar in shape to the contrast\nsensitivity function, followed by gradient peak detection, did\nenable Mach edges to be detected and did predict the observed\nedge positions well (Fig. 6B). This is not too surprising, because\nto the extent that the DoG filter emulates a second-derivative\noperator (Marr & Hildreth, 1980), this revised gradient (DoG+1st\nderivative) model is analogous to a 3rd derivative filter. The\ngradient filter alone does not predict Mach edges. We therefore\ndevised a further experiment to distinguish between the revised-\ngradient and sN3+ models.\n3. Experiment 2\nThe aim of this experiment is to distinguish between the\ntwo competing models (sN3+ vs DoG+1st derivative) that can\naccount for the results of experiment 1. The success of the\nDoG+1st derivative model rests specifically on the low frequency\nattenuation provided by the DoG’s inhibitory surround. Without\nthis attenuation the 1st derivative alone, as we have seen, does not\npredict Mach edges. Experimentally, we can attempt to by-pass\nthis low-frequency attenuation in two ways: (i) by using a brief\npresentation (e.g. 50 ms) that reduces the relative attenuation of\nsensitivity to low spatial frequencies in the CSF (Legge, 1978),\nand (ii) by shrinking the spatial period of the triangle-wave, and\nthus increasing the fundamental frequency to (say) 4-6 c/deg, near\nthe peak of the MTF (Fig. 6A). The test image then contains\nonly high frequencies (≥ 4c/deg), which are not subject to low\nfrequency attenuation by the early pre-filter. If Mach edges\nremain visible in high frequency, blurred triangle-wave gratings\nthen they are unlikely to arise from DoG+1st derivative filtering.\n! \" !# #\"\n!$%\n!&%\n!!%\n%\n!%\n&%\n$%\n'\n(\n)\n*\n+,\n-\n.\n/0\n/-\n1\n+2\n3-\n4\n+/\n4\n5\n)\n*\n+6\n*\n1\n03\n*\n+7\n,\n/8\n*\n9.\n: ;*5<+6*10359\n=9>3?/(0@+7,/8*9.:\n \n \nAB+,3*(/60/-1\nBA+,3*(/60/-1\n@*/)@0+C\n@*/)@0+!#\n@*/)@0+$&\n! \" !# #\"\nD3->)@+6*10359\nFigure 5: Mean observed positions of dark-to-light (DL) and light-to-dark (LD) edges in blurred triangle-wave images of 3 different heights (8, 16, 32 pixels).\nOther conventions as Fig. 4.\n4\n!!\" \" !\"\n!\"#$\n\"\n\"#$\n\"#!\n\"#%\n\"#&\n'()*+),-(./+*+.0-12+0/3\n'\n4\n0\n/\n+*\n+5\n+*\n6\n-1\n)\n78\n+*\n7)\n76\n-9\n0\n+*\n/\n3\n:;4-(74!<+,*47-=.>-(7.<+,4?\n$ $\" $\"\"\n\"#$\n$\n$\"\n'()*+),-<74@940A6-1ABC4D3\n:;4-(74!<+,*47-E:F\nG\n4\n/\n(\n.\n0\n/\n4\n-1\n)\n78\n+*\n7)\n76\n-9\n0\n+*\n/\n3\n$ & $H H&\n!%\"\n!!\"\n!$\"\n\"\n$\"\n!\"\n%\"\nI\nC\nD\n4\n-(\n.\n/\n+*\n+.\n0\n-<\n7.\n2\n-+\n2\n)\nD\n4\n-A\n4\n0\n*7\n4\n-1\n(\n+J\n4\n,/\n3\nK,97L+C*;\nM4)N-A40*7),\n \n \nK\n=.>-O-$/*-C47+5-2.C4,\n/P%O-2.C4,\nFigure 6: (A) The difference of Gaussian (DoG) receptive field profile\nand its MTF. The equation for this 1-D DoG function was DoG(x) =\nG(x, σc) − K.G(x, σs), where G(x, σ) = exp(−x2/(2σ2))/\n√\n2piσ2, with\nσc = 1\n′, σs = 6′, K = 0.5. These parameters correspond closely to the\nmedian values given by Croner & Kaplan (1995) for P-cells in the monkey\ncentral retina, allowing for the translation from 2-D to 1-D.\n(B) Results of the peak-central condition (Fig. 4) with predictions from the\nsN3+ (dashed curve, rms error = 3.1 pixels) and the DoG+1st derivative\nmodel (solid curve, rms error = 2.9 pixels).\n3.1 Method\nTest images (Fig. 7A) were a high spatial frequency version\nof those used in experiment 1. One set contained 16 cycles\nof a blurred triangle-wave (512 pixels wide; period 32 pixels),\ngenerated as in experiment 1. Blurwidth was 1, 2, 4 or 8 pixels\nwith the usual two polarities (peak or trough central). Since each\nperiod occupied only 1/8 the number of pixels used in experiment\n1, each level of blurwidth shown here is equivalent, in its effect on\nwaveform shape, to 8 times the previous amount of blurring.\nThese waveforms were also used to create a second set of\nimages, by shifting their Fourier phases through 90 degrees,\nwhile leaving the amplitude spectrum unchanged. This produced\nblurred waveforms that were akin to a square-wave, but whose\namplitude spectrum (before the blurring) declined as 1/f2, rather\nthan 1/f, where f is spatial frequency of the (odd) harmonics. For\nbrevity, we refer to these as ‘square-waves’ though strictly they are\nnot. The triangle-wave image (Fig. 7A, left) appears to contain\na thin light (or dark) bar of high contrast at the centre of each\nwide light (or dark) bar. These thin bars are not apparent in the\nsquare-wave image (Fig. 7A, right). Predictions of the two models\n(sN3+ and DoG+1st derivative) will be considered later.\nThe test images subtended 2.67◦ × 2.67◦, with a fundamental\nfrequency of 6 c/deg, at a viewing distance of 383cm (observer\nSAW). For the second observer (SEW) viewing distance was\nreduced to 255cm (fundamental frequency 4 c/deg) because she\nwas unable to discriminate between the triangle-wave and square-\nwave images at 6 c/deg.\n!\"#$%&'(\n)\n*+,$\"(\n- .- /- 0-\n-\n-1/\n-12\n-13\n-14\n.\n5',\"6#789:.\n)\n;\n<\n'#\n8,\n7\n(\n:=\n$\n\">\n#8\n\"$\n\"?\n:,\n%\n#8\n@\nA\n \n \n5\n5',\"\"(7:8\"#$%&'(!6$B(\n5',\"\"(7:@+,$\"(!6$B(\n- .- /- 0-\n5',\"6#789:4\n*<$8#$':<C@#8#C%:=<#D('@A\nFigure 7: Experiment 2. (A) Four periods of the two types of images used.\nHere blurwidth=4, period=32 pixels.\n(B) One period of the waveforms at blurwidth 1 and blurwidth 8. These\nwere the smallest and largest blurs used in experiment 2.\nThe test images were surrounded by a full screen of mid-\ngrey luminance and viewed in a darkened room. RMS contrast\n(the ratio of the standard deviation of the luminance profile to\nits mean) was the same for both triangle-wave and square-wave\nimages at a given blurwidth. A consequence of matching the\nRMS contrasts was that Michaelson contrast for the triangle-\nwave images was 0.4, while that of the square-wave images\nwas 0.32, 0.32, 0.33 and 0.37 for blurwidths 1, 2, 4 and 8\nrespectively. A subsidiary experiment controlled this factor by\nmatching Michaelson contrast instead of RMS contrast.\nBefore data collection began, each observer was shown a pair of\n3 c/deg stimuli (blurwidth 8 pixels), and it was confirmed that a\npair of closely spaced edges was easily visible in the centre of each\nhalf-period of the triangle-wave image but not in the square-wave\nimage.\nThe task was a single-interval procedure requiring a yes-no\ndecision about the presence or absence of the Mach edges. Each\ntrial consisted of a single stimulus presentation of 50ms, preceded\nand followed by a full-screen of mid-grey showing a central small\nfixation dot (4 × 4 pixels = 1.25 × 1.25mins). The observer had\nunlimited time to indicate the presence or absence of a central\npair of edges in one or more half-periods of the grating. The\ninter-trial interval was at least 1s. Each of the 4 blurwidths, 2\nimage-types and 2 polarities were shown 15 times in a randomised\nblock. The two observers each completed 9 blocks. The first block\nfrom each subject was discarded as practice. No feedback was\ngiven about the correctness of response because this experiment\nwas concerned with the perception of Mach edges, rather than the\nability to distinguish between the triangle-wave and square-wave\nimages per se, which could be based on other image properties\n(such as the edge blur of the wide bars in the image). Nevertheless,\nwe can make use of signal detection measures (d′) to quantify the\nreliability with which Mach edges were reported.\n3.2 Results\nFor each observer, the proportion of ‘yes’ responses was similar\nfor the peak- and trough-central images, so data were pooled\nacross both polarities. Z-scores corresponding to the proportion\n5\n! \" # $\n!%&#\n!%&\"\n%\n%&\"\n%&#\n%&'\n%&$\n(\n)*\n+\n,\n-.\n),\n/)\n0.\n1\n2\n.\n)3\n4\n5-\n)*\n.\n.\n6\n0)\n-.\n*\n3\n,\n6\n*\n.\n*\n789-:51;<)=35>.8*?\n@A*.-B.-)CDE)='+31?\n! \" # $\n@A*.-B.-)CFE)=#+31?\n \n \nG-54628.!:4B.\nCH94-.!:4B.\n15*+-5I564A585;J)=10?\nFigure 8: Experiment 2. Z-scores corresponding to the proportion of Mach edge responses (filled symbols), and discriminability (d′, open symbols), averaged\nacross stimulus polarity, plotted as a function of blurwidth. Each filled symbol represents 240 trials and error bars (±1 sd) are derived from the expected\nvariance in binomial sampling. Each open symbol (d′) represents the difference of the two z-scores, and error bars here are the square root of the sum of the\nexpected variances of the triangle and square-wave z-scores at a given blurwidth.\nof ‘yes’ (Mach edge) responses for each condition, averaged across\nstimulus polarity, are shown as filled symbols in Fig. 8. Both\nobservers had a significantly higher proportion of ‘yes’ responses\nfor the triangle-wave than the square-wave images, except perhaps\nat the greatest blur. Z-scores overall were higher for SAW than\nSEW, implying a lower criterion on the internal decision axis for\nSAW.\nTreating ‘yes’ responses to the triangle stimulus as Hits, and\nthose to the square stimulus as False Alarms, the discriminability\nindex (d′) was calculated in the standard way as Z(yes|triangle)\nminus Z(yes|square), plotted as open symbols in Fig. 8. The\nd′ values were all significantly greater than 0 (except for SEW,\nblur 8), implying that both observers reliably associated Mach\nedges with the triangle-wave rather than the square-wave test\nimages. Both observers showed a general trend of decreasing\ndiscriminability as blurwidth increased. At each blurwidth, d′\nvalues for the highly practised observer (SAW) were higher than\nfor SEW.\nTo test whether discrimination might be cued by the lower\nMichaelson contrast of the square-wave images, observer SAW\nrepeated the experiment with images whose Michaelson contrast\nwas always 0.4. Results were similar to those from the original\nimage set, implying no artefactual effect of contrast difference.\n3.3 Modelling\nThe results of experiment 2 show that Mach edges were\nreliably reported in blurred triangle-wave images that were high-\nspatial-frequency, short-duration versions of the images used in\nexperiment 1. The use of high-frequency gratings is expected to\nby-pass the influence of the DoG pre-filter’s inhibitory surround,\nas outlined above, and so offer a critical test between two models.\nFigure 9 shows the DoG+1st derivative output and the sN3+\noutput for this experiment, at blurwidth 4. For the square-wave\n(Fig. 9, right) both models produced peaks and troughs, and\nhence predicted edges, separated by half a period. These are not\nMach edges. For the triangle-wave (Fig. 9, left), the DoG+1st\nmodel again predicted half a period separation. The sN3+ model\nhowever yields a closely spaced peak-and-trough pair separated by\nabout 1/4 period. These are Mach edges. It is evident from Fig. 9\n! \"! #! $!\n!!%&\n!!%#\n!\n!%#\n!%&\n!%'\n()*++,-./+0123),!415,\n6\n7\n8\n)0\n/*\n-\n,\n.9\n1\n+:\n0/\n+1\n+;\n.*\n2\n0/\n<\n=\n \n \n>*70212?,\n@AB.C.\"</.-,+05.7A-,)\n<D$C.7A-,)\n! \"! #! $!\n()*++,-.<E*1+,!415,\nF81/01).8A<0/0A2.980G,)<=\nFigure 9: Experiment 2. One cycle of the luminance waveforms at blurwidth 4, with predictions of the DoG+1st derivative model and the sN3+ model.\n[Note: For the latter, positive values are the output of the nonlinear cascade of filters that detects dark-to-light edges (Fig. 2, right); negative values are the\ninverted output of the opposite channel whose 1st derivative stage is inverted, and which thereby detects light-to-dark edges.] The DoG+1st model did not\npredict Mach edges for this experiment.\n6\nthat the spatial arrangement of edges seen in both the square- and\ntriangle-wave cases is explained by extrema in the sN3+, while the\nDoG+1st derivative fails to account for perception in the triangle-\nwave case.\n4. Discussion\nExperiment 1 showed that observers reliably marked the\nposition and polarity of Mach edges. These are visible edges seen\nat points on a luminance waveform where there was no peak in the\n1st derivative and no zero-crossing in the 2nd derivative. Standard\nedge detectors that are based on these derivative features must\ntherefore have great difficulty in accounting for Mach edges, but\nwe have shown that using peaks and troughs in the 3rd derivative\nto locate edges readily predicts the occurrence, location and\npolarity of the Mach edges. The predicted and observed locations\nagreed especially well when a plausible amount of Gaussian\nsmoothing was introduced (Fig. 4) that might represent the scale\nof the most sensitive filter for these stimuli.\nWe found that one way of rescuing the 1st derivative approach\nwas to introduce a centre-surround (DoG) filter (Fig. 6), perhaps\nrepresenting pre-cortical filtering, before the gradient operator.\nBut, in a critical test, this model did not predict the Mach\nedges that were reliably observed at high spatial frequencies in\nexperiment 2, whereas the 3rd derivative model did do so. The\n‘rescue’ of the DoG+1st model might be extended to higher spatial\nfrequencies by making the pre-filter even smaller, but the cost of\nthis ad hoc modification would be to make the model increasingly\nsimilar to a 3rd derivative, thus underlining our point that peaks\nin the luminance gradient are insufficient to account for human\nedge-finding.\nOur main aim in this paper was to contrast edge-finding models\nbased on different orders of spatial derivative: 1st, 2nd and 3rd.\nOf these candidates, it seems clear that only the 3rd derivative\noffers a straightforward account of Mach edges. Of course, the\nMach edges do leave some ‘fingerprint’ in the lower derivatives:\nthey sit at or near the corner points in the gradient profile and\nat or near the abrupt steps in the 2nd derivative (Fig. 3). But we\nemphasize (a) that those features in the 1st and 2nd derivative\nare not the ones that have been widely proposed as edge markers\n(namely, gradient peaks or 2nd derivative ZCs), and (b) that those\nfeatures have to be made explicit in some way, and finding peaks in\nan appropriate higher derivative (the 3rd) seems a straightforward\nand general way to do so. It is general because, as well as locating\nMach edges, the peaks and troughs in the 3rd derivative also locate\nthe more familiar (sharp or blurred) step edges that do give rise\nto gradient peaks and ZCs (Fig. 2). Thus the 3rd derivative seems\nthe most parsimonious because the same rule accounts for Mach\nedges and step edges, but this is not true for the 1st and 2nd\nderivatives where different rules would be needed.\nThe linear 3rd derivative operator produces too many peaks\nand troughs for step edges (Fig. 2, left), but this need not trouble\nus, because the two-stage nonlinear 3rd derivative (Georgeson\net al., 2007) solves that problem in a physiologically plausible\nway (Fig. 2, right), and gives very accurate predictions about\nperceived edge location and blur, without introducing any other\ndifficulties that we are aware of. For the Mach edge (blurred\ntriangle) waveforms, even the linear 3rd derivative gives a single\npeak (or trough) at the observed edge (Fig. 3), and so the presence\nor absence of these interesting nonlinearities is immaterial for\nthose waveforms. In a broader context, the half-wave rectifiers\nare crucial in making the 3rd derivative a viable and general basis\nfor edge detection.\nAcknowledgement\nSAW was supported by an EPSRC doctoral training grant to\nAston University.\nReferences\nBabaud, J., Witkin, A.P., Baudin, M., & Duda, R.O. (1986).\nUniqueness of the Gaussian kernel for scale-space filtering. IEEE\nTransactions on Pattern Analysis and Machine Intelligence, 8, 26-\n33.\nBergholm, F. (1987). Edge focusing. IEEE Transactions On Pattern\nAnalysis and Machine Intelligence, 9, 726-741.\nBurr, D.C., Morrone, M.C., & Spinelli, D. (1989). Evidence for edge\nand bar detectors in human vision. Vision Research, 29, 419-431.\nCampbell, F.W., & Gubisch, R.W. (1966). Optical quality of the human\neye. Journal of Physiology, 186, 558-578.\nCanny, J. (1986). A computational approach to edge-detection. IEEE\nTransactions On Pattern Analysis and Machine Intelligence, 8, 679-\n698.\nClark, J.J. (1989). Authenticating edges produced by zero-crossing\nalgorithms. IEEE Transactions on Pattern Analysis and Machine\nIntelligence, 11, 43-57.\nCroner, L.J., & Kaplan, E. (1995). Receptive fields of P-ganglion and\nM-ganglion cells across the primate retina. Vision Research, 35,\n7-24.\nElder, J.H., & Zucker, S.W. (1998). Local scale control for edge\ndetection and blur estimation. IEEE Transactions On Pattern\nAnalysis and Machine Intelligence, 20, 699-716.\nField, D.J., & Nachmias, J. (1984). Phase reversal discrimination.\nVision Research, 24, 333-340.\nGeorgeson, M.A. (1992). Human vision combines oriented filters to\ncompute edges. Proceedings of the Royal Society of London Series\nB-Biological Sciences, 249, 235-245.\nGeorgeson, M.A., & Freeman, T.C.A. (1997). Perceived location of\nbars and edges in one-dimensional images: Computational models\nand human vision. Vision Research, 37, 127-142.\nGeorgeson, M.A., May, K.A., Freeman, T.C.A., & Hesse, G.S. (2007).\nFrom filters to features: Scale-space analysis of edge and blur coding\nin human vision. Journal of Vision, 7, 1-21.\nGeorgeson, M.A., & Turner, R.S.E. (1985). Afterimages of sinusoidal,\nsquare-wave and compound gratings. Vision Research, 25, 1709-\n1720.\nHesse, G.S., & Georgeson, M.A. (2005). Edges and bars: where do\npeople see features in 1-D images? Vision Research, 45, 507-525.\nHubel, D.H., & Wiesel, T.N. (1968). Receptive fields and functional\narchitecture of monkey striate cortex. Journal of Physiology, 195,\n215-243.\nKoenderink, J.J. (1984). The Structure of Images. Biological\nCybernetics, 50, 363-370.\nKorn, A.F. (1988). Toward a symbolic representation of intensity\nchanges in images. IEEE Transactions on Pattern Analysis and\nMachine Intelligence, 10, 610-625.\nKulikowski, J.J., & King-Smith, P.E. (1973). Spatial arrangement\nof line, edge and grating detectors revealed by subthreshold\nsummation. Vision Research, 13, 1455-1478.\nLegge, G.E. (1978). Sustained and transient mechanisms in human-\nvision - temporal and spatial properties. Vision Research, 18, 69-81.\nLevi, D.M., & Klein, S.A. (1990a). Equivalent intrinsic blur in\namblyopia. Vision Research, 30, 1995-2022.\nLevi, D.M., & Klein, S.A. (1990b). Equivalent intrinsic blur in spatial\nvision. Vision Research, 30, 1971-1993.\nLindeberg, T. (1990). Scale-space for discrete signals. IEEE\nTransactions on Pattern Analysis and Machine Intelligence, 12,\n234-254.\nLindeberg, T. (1994). Scale-space theory in computer vision.\nDordrecht: Kluwer.\nLindeberg, T. (1998). Edge detection and ridge detection with\nautomatic scale selection. International Journal of Computer\nVision, 30, 117-154.\nMarr, D., & Hildreth, E. (1980). Theory of edge detection. Proceedings\nof the Royal Society of London Series B-Biological Sciences, 207,\n187-217.\nMather, G., & Morgan, M. (1986). Irradiation - implications for theories\nof edge localization. Vision Research, 26, 1007-1015.\nMay, K.A., & Georgeson, M.A. (2007). Blurred edges look faint, and\nfaint edges look sharp: The effect of a gradient threshold in a multi-\nscale edge coding model. Vision Research, 47, 1705-1720.\nMorrone, M.C., & Burr, D.C. (1988). Feature detection in human vision\n- a phase-dependent energy model. Proceedings of the Royal Society\nof London Series B - Biological Sciences, 235, 221-245.\nPollen, D.A., & Ronner, S.F. (1981). Phase-relationships between\nadjacent simple cells in the visual cortex. Science, 212, 1409-1411.\n7\nRingach, D.L. (2002). Spatial structure and symmetry of simple-\ncell receptive fields in macaque primary visual cortex. Journal of\nNeurophysiology, 88, 455-463.\nSarkar, S., & Boyer, K.L. (1991). On optimal infinite impulse response\nedge detection filters. IEEE Transactions on Pattern Analysis and\nMachine Intelligence, 13, 1154-1171.\nShapley, R.M., & Tolhurst, D.J. (1973). Edge detectors in human vision.\nJournal of Physiology-London, 229, 165-183.\nter Haar Romeny, B. (2003). Front-end vision and multi-scale image\nanalysis. Dordrecht: Kluwer.\nWatt, R.J., & Morgan, M.J. (1985). A theory of the primitive spatial\ncode in human vision. Vision Research, 25, 1661-1674.\nWilliams, D.R., Brainard, D.H., McMahon, M.J., & Navarro, R. (1994).\nDouble-pass and interferometric measures of the optical quality of\nthe eye. Journal of the Optical Society of America A, 11, 3123-3135.\nYoung, R.A. (1985). The Gaussian derivative theory of spatial\nvision: analysis of cortical cell receptive field line-weighting profiles.\nWarren, Mich.: General Motors Research Laboratories.\nYoung, R.A., & Lesperance, R.M. (2001). The Gaussian Derivative\nmodel for spatial-temporal vision: II. Cortical data. Spatial Vision,\n14, 321-389.\nYuille, A.L., & Poggio, T.A. (1986). Scaling theorems for zero crossings.\nIEEE Transactions on Pattern Analysis and Machine Intelligence,\n8, 15-25.\nZhang, W., & Bergholm, F. (1997). Multi-scale blur estimation and\nedge type classification for scene analysis. International Journal of\nComputer Vision, 24, 219-250.\n8\n",
+    "fullTextIdentifier": "http://eprints.aston.ac.uk/4564/1/Mach_edges_paper_for_AURA.pdf",
+    "identifiers": [
+        "oai:eprints.aston.ac.uk:4564",
+        null
+    ],
+    "language": {
+        "code": "en",
+        "id": 9,
+        "name": "English"
+    },
+    "rawRecordXml": "<record><header><identifier>\n  \n    \n      oai:eprints.aston.ac.uk:4564</identifier><datestamp>\n      2016-06-24T10:43:41Z</datestamp><setSpec>\n      7374617475733D707562</setSpec><setSpec>\n      74797065733D61727469636C65</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\" ><dc:title>\n    \n      \n        Mach edges: local features predicted by 3rd derivative spatial filtering</dc:title><dc:creator>\n        Wallis, Stuart A.</dc:creator><dc:creator>\n        Georgeson, Mark A.</dc:creator><dc:description>\n        Edges are key points of information in visual scenes. One important class of models supposes that edges correspond to the steepest parts of the luminance profile, implying that they can be found as peaks and troughs in the response of a gradient (1st derivative) filter, or as zero-crossings in the 2nd derivative (ZCs). We tested those ideas using a stimulus that has no local peaks of gradient and no ZCs, at any scale. The stimulus profile is analogous to the Mach ramp, but it is the luminance gradient (not the absolute luminance) that increases as a linear ramp between two plateaux; the luminance profile is a blurred triangle-wave. For all image-blurs tested, observers marked edges at or close to the corner points in the gradient profile, even though these were not gradient maxima. These Mach edges correspond to peaks and troughs in the 3rd derivative. Thus Mach edges are inconsistent with many standard edge-detection schemes, but are nicely predicted by a recent model that finds edge points with a 2-stage sequence of 1st then 2nd derivative operators, each followed by a half-wave rectifier.</dc:description><dc:date>\n        2009-07</dc:date><dc:type>\n        Article</dc:type><dc:type>\n        PeerReviewed</dc:type><dc:format>\n        application/pdf</dc:format><dc:identifier>\n        http://eprints.aston.ac.uk/4564/1/Mach_edges_paper_for_AURA.pdf</dc:identifier><dc:identifier>\n        Wallis, Stuart A. and Georgeson, Mark A. (2009). Mach edges: local features predicted by 3rd derivative spatial filtering. Vision Research, 49 (14), pp. 1886-1893.</dc:identifier><dc:relation>\n        http://eprints.aston.ac.uk/4564/</dc:relation></oai_dc:dc></metadata></record>",
+    "relations": [
+        "http://eprints.aston.ac.uk/4564/"
+    ],
+    "repositories": [
+        {
+            "name": "Aston University Research Archive",
+            "id": 7
+        }
+    ],
+    "repositoryDocument": {
+        "pdfStatus": 1,
+        "textStatus": 1,
+        "metadataUpdated": "2016-07-28T18:12:35Z",
+        "timestamp": "2016-07-28T00:00:00Z",
+        "indexed": 1,
+        "deletedStatus": "0",
+        "pdfSize": 363571
+    },
+    "similarities": [
+        {
+            "id": 8182,
+            "title": "Mach edges: a key role for 3rd derivative filters in spatial vision",
+            "score": 0.555
+        },
+        {
+            "id": 8186,
+            "title": "Mach edges: a critical test of the nonlinear 3rd derivative model for edge-detection",
+            "score": 0.555
+        },
+        {
+            "id": 10239,
+            "title": "Time trials on second-order and variable-learning-rate algorithms",
+            "score": 0.344456
+        },
+        {
+            "id": 8657,
+            "title": "Splines and vector splines",
+            "score": 0.278428
+        },
+        {
+            "id": 10195,
+            "title": "Neural networks: a pattern recognition perspective",
+            "score": 0.210933
+        },
+        {
+            "id": 8726,
+            "title": "Finite-size effects in on-line learning of multilayer neural networks",
+            "score": 0.209677
+        },
+        {
+            "id": 10155,
+            "title": "A Bayesian formulation of search, control and the exploration/exploitation trade-off",
+            "score": 0.18753
+        },
+        {
+            "id": 6193,
+            "title": "Inference by belief propagation in composite systems",
+            "score": 0.1789
+        },
+        {
+            "id": 6197,
+            "title": "Computing with noise: phase transitions in Boolean formulas",
+            "score": 0.175726
+        },
+        {
+            "id": 8564,
+            "title": "Gaussian processes and SVM: Mean field results and leave-one-out",
+            "score": 0.166881
+        }
+    ],
+    "subjects": [
+        "Article",
+        "PeerReviewed"
+    ],
+    "title": "Mach edges: local features predicted by 3rd derivative spatial filtering",
+    "topics": [],
+    "types": [],
+    "urls": [
+        "http://eprints.aston.ac.uk/4564/1/Mach_edges_paper_for_AURA.pdf",
+        "http://eprints.aston.ac.uk/4564/"
+    ],
+    "year": 2009,
+    "oai": "oai:eprints.aston.ac.uk:4564"
+}

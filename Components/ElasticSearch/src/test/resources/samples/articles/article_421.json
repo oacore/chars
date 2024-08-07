@@ -1,0 +1,85 @@
+{
+    "id": 421,
+    "authors": [],
+    "citations": [],
+    "contributors": [],
+    "deleted": "DELETED",
+    "identifiers": [
+        "oai:open.ac.uk.OAI2:4",
+        null
+    ],
+    "rawRecordXml": "<record><header status=\"deleted\" ><identifier>\n    \n    \n      oai:open.ac.uk.OAI2:4</identifier><datestamp>\n      2016-01-14T10:27:36Z</datestamp></header></record>",
+    "relations": [],
+    "repositories": [
+        {
+            "name": "Open Research Online",
+            "id": 86
+        }
+    ],
+    "repositoryDocument": {
+        "pdfStatus": 0,
+        "textStatus": 0,
+        "metadataUpdated": "2016-08-23T23:35:33Z",
+        "timestamp": "2016-08-23T00:00:00Z",
+        "indexed": 1,
+        "deletedStatus": "1",
+        "pdfSize": 0
+    },
+    "similarities": [
+        {
+            "id": 99156,
+            "title": "Democracy and human rights in international law: regional perspectives on universal ideas",
+            "score": 0.674584
+        },
+        {
+            "id": 44495,
+            "title": "Democracy and human rights in Tanzania Mainland : the Bill of Rights in the context of constitutional developments and the history of institutions of governance",
+            "score": 0.654983
+        },
+        {
+            "id": 48340,
+            "title": "Breaking majority rules: the politics of communities and citizens in Britain and India",
+            "score": 0.538545
+        },
+        {
+            "id": 101631,
+            "title": "Between Law and Lore:<br>The Tragedy of Traditional Knowledge</br>",
+            "score": 0.524909
+        },
+        {
+            "id": 176915,
+            "title": "The Great Trek to Human Rights: The Role of Comparative Law in the Development of Human Rights in Post-Reform South Africa",
+            "score": 0.461939
+        },
+        {
+            "id": 43701,
+            "title": "The common good in a plural society: Muslims, Christians and the Public Arena in Britain",
+            "score": 0.445709
+        },
+        {
+            "id": 43261,
+            "title": "Democracy, Self-Determination and Political Membership",
+            "score": 0.442245
+        },
+        {
+            "id": 334810,
+            "title": "Humwe, human rights and globalisation",
+            "score": 0.434098
+        },
+        {
+            "id": 98910,
+            "title": "The theory and praxis of humanitarian intervention",
+            "score": 0.433515
+        },
+        {
+            "id": 47601,
+            "title": "The paradox of underdevelopment amidst oil in Nigeria: a socio-legal explanation",
+            "score": 0.419104
+        }
+    ],
+    "subjects": [],
+    "topics": [],
+    "types": [],
+    "urls": [],
+    "oai": "oai:open.ac.uk.OAI2:4"
+}

@@ -1,0 +1,1480 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+    <?properties open_access?><front>
+        <journal-meta>
+            <journal-id journal-id-type="nlm-ta">PLoS One</journal-id>
+            <journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id>
+            <journal-id journal-id-type="publisher-id">plos</journal-id>
+            <journal-id journal-id-type="pmc">plosone</journal-id>
+            <journal-title-group>
+                <journal-title>PLoS ONE</journal-title>
+            </journal-title-group>
+            <issn pub-type="epub">1932-6203</issn>
+            <publisher>
+                <publisher-name>Public Library of Science</publisher-name>
+                <publisher-loc>San Francisco, CA USA</publisher-loc>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="pmid">28249005</article-id>
+            <article-id pub-id-type="pmc">5332099</article-id>
+            <article-id pub-id-type="doi">10.1371/journal.pone.0172942</article-id>
+            <article-id pub-id-type="publisher-id">PONE-D-16-20965</article-id>
+            <article-categories>
+                <subj-group subj-group-type="heading">
+                    <subject>Research Article</subject>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Medicine and Health Sciences</subject>
+                    <subj-group>
+                        <subject>Infectious Diseases</subject>
+                        <subj-group>
+                            <subject>Bacterial Diseases</subject>
+                            <subj-group>
+                                <subject>Tuberculosis</subject>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Medicine and Health Sciences</subject>
+                    <subj-group>
+                        <subject>Tropical Diseases</subject>
+                        <subj-group>
+                            <subject>Tuberculosis</subject>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>People and Places</subject>
+                    <subj-group>
+                        <subject>Geographical Locations</subject>
+                        <subj-group>
+                            <subject>Asia</subject>
+                            <subj-group>
+                                <subject>Kazakhstan</subject>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>People and Places</subject>
+                    <subj-group>
+                        <subject>Geographical Locations</subject>
+                        <subj-group>
+                            <subject>Europe</subject>
+                            <subj-group>
+                                <subject>Kazakhstan</subject>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Biology and Life Sciences</subject>
+                    <subj-group>
+                        <subject>Anatomy</subject>
+                        <subj-group>
+                            <subject>Body Fluids</subject>
+                            <subj-group>
+                                <subject>Mucus</subject>
+                                <subj-group>
+                                    <subject>Sputum</subject>
+                                </subj-group>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Medicine and Health Sciences</subject>
+                    <subj-group>
+                        <subject>Anatomy</subject>
+                        <subj-group>
+                            <subject>Body Fluids</subject>
+                            <subj-group>
+                                <subject>Mucus</subject>
+                                <subj-group>
+                                    <subject>Sputum</subject>
+                                </subj-group>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Biology and Life Sciences</subject>
+                    <subj-group>
+                        <subject>Physiology</subject>
+                        <subj-group>
+                            <subject>Body Fluids</subject>
+                            <subj-group>
+                                <subject>Mucus</subject>
+                                <subj-group>
+                                    <subject>Sputum</subject>
+                                </subj-group>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Medicine and Health Sciences</subject>
+                    <subj-group>
+                        <subject>Physiology</subject>
+                        <subj-group>
+                            <subject>Body Fluids</subject>
+                            <subj-group>
+                                <subject>Mucus</subject>
+                                <subj-group>
+                                    <subject>Sputum</subject>
+                                </subj-group>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Biology and Life Sciences</subject>
+                    <subj-group>
+                        <subject>Psychology</subject>
+                        <subj-group>
+                            <subject>Addiction</subject>
+                            <subj-group>
+                                <subject>Alcoholism</subject>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Social Sciences</subject>
+                    <subj-group>
+                        <subject>Psychology</subject>
+                        <subj-group>
+                            <subject>Addiction</subject>
+                            <subj-group>
+                                <subject>Alcoholism</subject>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Medicine and Health Sciences</subject>
+                    <subj-group>
+                        <subject>Mental Health and Psychiatry</subject>
+                        <subj-group>
+                            <subject>Substance-Related Disorders</subject>
+                            <subj-group>
+                                <subject>Alcoholism</subject>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Medicine and Health Sciences</subject>
+                    <subj-group>
+                        <subject>Public and Occupational Health</subject>
+                        <subj-group>
+                            <subject>Substance-Related Disorders</subject>
+                            <subj-group>
+                                <subject>Alcoholism</subject>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Medicine and Health Sciences</subject>
+                    <subj-group>
+                        <subject>Endocrinology</subject>
+                        <subj-group>
+                            <subject>Endocrine Disorders</subject>
+                            <subj-group>
+                                <subject>Diabetes Mellitus</subject>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Medicine and Health Sciences</subject>
+                    <subj-group>
+                        <subject>Metabolic Disorders</subject>
+                        <subj-group>
+                            <subject>Diabetes Mellitus</subject>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Biology and life sciences</subject>
+                    <subj-group>
+                        <subject>Organisms</subject>
+                        <subj-group>
+                            <subject>Viruses</subject>
+                            <subj-group>
+                                <subject>RNA viruses</subject>
+                                <subj-group>
+                                    <subject>Flaviviruses</subject>
+                                    <subj-group>
+                                        <subject>Hepacivirus</subject>
+                                        <subj-group>
+                                            <subject>Hepatitis C virus</subject>
+                                        </subj-group>
+                                    </subj-group>
+                                </subj-group>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Biology and life sciences</subject>
+                    <subj-group>
+                        <subject>Microbiology</subject>
+                        <subj-group>
+                            <subject>Medical microbiology</subject>
+                            <subj-group>
+                                <subject>Microbial pathogens</subject>
+                                <subj-group>
+                                    <subject>Viral pathogens</subject>
+                                    <subj-group>
+                                        <subject>Flaviviruses</subject>
+                                        <subj-group>
+                                            <subject>Hepacivirus</subject>
+                                            <subj-group>
+                                                <subject>Hepatitis C virus</subject>
+                                            </subj-group>
+                                        </subj-group>
+                                    </subj-group>
+                                </subj-group>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Medicine and health sciences</subject>
+                    <subj-group>
+                        <subject>Pathology and laboratory medicine</subject>
+                        <subj-group>
+                            <subject>Pathogens</subject>
+                            <subj-group>
+                                <subject>Microbial pathogens</subject>
+                                <subj-group>
+                                    <subject>Viral pathogens</subject>
+                                    <subj-group>
+                                        <subject>Flaviviruses</subject>
+                                        <subj-group>
+                                            <subject>Hepacivirus</subject>
+                                            <subj-group>
+                                                <subject>Hepatitis C virus</subject>
+                                            </subj-group>
+                                        </subj-group>
+                                    </subj-group>
+                                </subj-group>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Biology and life sciences</subject>
+                    <subj-group>
+                        <subject>Organisms</subject>
+                        <subj-group>
+                            <subject>Viruses</subject>
+                            <subj-group>
+                                <subject>Viral pathogens</subject>
+                                <subj-group>
+                                    <subject>Flaviviruses</subject>
+                                    <subj-group>
+                                        <subject>Hepacivirus</subject>
+                                        <subj-group>
+                                            <subject>Hepatitis C virus</subject>
+                                        </subj-group>
+                                    </subj-group>
+                                </subj-group>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Biology and life sciences</subject>
+                    <subj-group>
+                        <subject>Microbiology</subject>
+                        <subj-group>
+                            <subject>Medical microbiology</subject>
+                            <subj-group>
+                                <subject>Microbial pathogens</subject>
+                                <subj-group>
+                                    <subject>Viral pathogens</subject>
+                                    <subj-group>
+                                        <subject>Hepatitis viruses</subject>
+                                        <subj-group>
+                                            <subject>Hepatitis C virus</subject>
+                                        </subj-group>
+                                    </subj-group>
+                                </subj-group>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Medicine and health sciences</subject>
+                    <subj-group>
+                        <subject>Pathology and laboratory medicine</subject>
+                        <subj-group>
+                            <subject>Pathogens</subject>
+                            <subj-group>
+                                <subject>Microbial pathogens</subject>
+                                <subj-group>
+                                    <subject>Viral pathogens</subject>
+                                    <subj-group>
+                                        <subject>Hepatitis viruses</subject>
+                                        <subj-group>
+                                            <subject>Hepatitis C virus</subject>
+                                        </subj-group>
+                                    </subj-group>
+                                </subj-group>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Biology and life sciences</subject>
+                    <subj-group>
+                        <subject>Organisms</subject>
+                        <subj-group>
+                            <subject>Viruses</subject>
+                            <subj-group>
+                                <subject>Viral pathogens</subject>
+                                <subj-group>
+                                    <subject>Hepatitis viruses</subject>
+                                    <subj-group>
+                                        <subject>Hepatitis C virus</subject>
+                                    </subj-group>
+                                </subj-group>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Biology and Life Sciences</subject>
+                    <subj-group>
+                        <subject>Nutrition</subject>
+                        <subj-group>
+                            <subject>Diet</subject>
+                            <subj-group>
+                                <subject>Alcohol Consumption</subject>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Medicine and Health Sciences</subject>
+                    <subj-group>
+                        <subject>Nutrition</subject>
+                        <subj-group>
+                            <subject>Diet</subject>
+                            <subj-group>
+                                <subject>Alcohol Consumption</subject>
+                            </subj-group>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+                <subj-group subj-group-type="Discipline-v3">
+                    <subject>Medicine and Health Sciences</subject>
+                    <subj-group>
+                        <subject>Diagnostic Medicine</subject>
+                        <subj-group>
+                            <subject>Tuberculosis Diagnosis and Management</subject>
+                        </subj-group>
+                    </subj-group>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Identifying risk factors associated with smear positivity of pulmonary tuberculosis in Kazakhstan</article-title>
+                <alt-title alt-title-type="running-head">Smear positivity risk factors for pulmonary tuberculosis in Kazakhstan</alt-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author">
+                    <contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-4166-815X</contrib-id>
+                    <name>
+                        <surname>Hermosilla</surname>
+                        <given-names>Sabrina</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff001">
+                        <sup>1</sup>
+                    </xref>
+                    <xref ref-type="corresp" rid="cor001">*</xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>You</surname>
+                        <given-names>Paul</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff001">
+                        <sup>1</sup>
+                    </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Aifah</surname>
+                        <given-names>Angela</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff002">
+                        <sup>2</sup>
+                    </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Abildayev</surname>
+                        <given-names>Tleukhan</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff003">
+                        <sup>3</sup>
+                    </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Akilzhanova</surname>
+                        <given-names>Ainur</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff004">
+                        <sup>4</sup>
+                    </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Kozhamkulov</surname>
+                        <given-names>Ulan</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff004">
+                        <sup>4</sup>
+                    </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Muminov</surname>
+                        <given-names>Talgat</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff005">
+                        <sup>5</sup>
+                    </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Darisheva</surname>
+                        <given-names>Meruert</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff006">
+                        <sup>6</sup>
+                    </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Zhussupov</surname>
+                        <given-names>Baurzhan</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff006">
+                        <sup>6</sup>
+                    </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Terlikbayeva</surname>
+                        <given-names>Assel</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff006">
+                        <sup>6</sup>
+                    </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>El-Bassel</surname>
+                        <given-names>Nabila</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff002">
+                        <sup>2</sup>
+                    </xref>
+                </contrib>
+                <contrib contrib-type="author">
+                    <name>
+                        <surname>Schluger</surname>
+                        <given-names>Neil</given-names>
+                    </name>
+                    <xref ref-type="aff" rid="aff001">
+                        <sup>1</sup>
+                    </xref>
+                </contrib>
+            </contrib-group>
+            <aff id="aff001">
+                <label>1</label>
+                <addr-line>Columbia University Mailman School of Public Health, Department of Epidemiology, New York, NY, United States of America</addr-line>
+            </aff>
+            <aff id="aff002">
+                <label>2</label>
+                <addr-line>Columbia University School of Social Work, 1255 Amsterdam Avenue, New York, NY, United States of America</addr-line>
+            </aff>
+            <aff id="aff003">
+                <label>3</label>
+                <addr-line>National Center for Tuberculosis Problems, Almaty, Kazakhstan</addr-line>
+            </aff>
+            <aff id="aff004">
+                <label>4</label>
+                <addr-line>Center for Life Sciences, Nazarbayev University, 53 Kabanbay Batyr Ave., Astana, Republic of Kazakhstan</addr-line>
+            </aff>
+            <aff id="aff005">
+                <label>5</label>
+                <addr-line>National Association for TB Specialists, Almaty, Kazakhstan</addr-line>
+            </aff>
+            <aff id="aff006">
+                <label>6</label>
+                <addr-line>Columbia University Global Health Research Center of Central Asia, Almaty, Kazakhstan</addr-line>
+            </aff>
+            <contrib-group>
+                <contrib contrib-type="editor">
+                    <name>
+                        <surname>Odoi</surname>
+                        <given-names>Agricola</given-names>
+                    </name>
+                    <role>Editor</role>
+                    <xref ref-type="aff" rid="edit1"/>
+                </contrib>
+            </contrib-group>
+            <aff id="edit1">
+                <addr-line>University of South Africa, UNITED STATES</addr-line>
+            </aff>
+            <author-notes>
+                <fn fn-type="COI-statement" id="coi001">
+                    <p>
+                        <bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p>
+                </fn>
+                <fn fn-type="con">
+                    <p>
+                        <list list-type="simple">
+                            <list-item>
+                                <p>
+                                    <bold>Conceptualization:</bold> NS NE AT SH PY.</p>
+                            </list-item>
+                            <list-item>
+                                <p>
+                                    <bold>Data curation:</bold> AT BZ MD.</p>
+                            </list-item>
+                            <list-item>
+                                <p>
+                                    <bold>Formal analysis:</bold> NS PY SH.</p>
+                            </list-item>
+                            <list-item>
+                                <p>
+                                    <bold>Funding acquisition:</bold> AT NE NS MD BZ.</p>
+                            </list-item>
+                            <list-item>
+                                <p>
+                                    <bold>Methodology:</bold> SH PY AT.</p>
+                            </list-item>
+                            <list-item>
+                                <p>
+                                    <bold>Project administration:</bold> AT MD BZ MD A. Akilzhanova.</p>
+                            </list-item>
+                            <list-item>
+                                <p>
+                                    <bold>Resources:</bold> AT TA UK TM BZ MD.</p>
+                            </list-item>
+                            <list-item>
+                                <p>
+                                    <bold>Supervision:</bold> NS AT NE.</p>
+                            </list-item>
+                            <list-item>
+                                <p>
+                                    <bold>Writing &#x02013; original draft:</bold> PY SH.</p>
+                            </list-item>
+                            <list-item>
+                                <p>
+                                    <bold>Writing &#x02013; review &#x00026; editing:</bold> NS NE AT SH PY A. Aifah.</p>
+                            </list-item>
+                        </list>
+</p></fn><corresp id="cor001">* E-mail: <email>sh2405@columbia.edu</email></corresp></author-notes>
+<pub-date pub-type="epub">
+    <day>1</day>
+    <month>3</month>
+    <year>2017</year>
+</pub-date>
+<pub-date pub-type="collection">
+    <year>2017</year>
+</pub-date>
+<volume>12</volume>
+<issue>3</issue>
+<elocation-id>e0172942</elocation-id>
+<history>
+    <date date-type="received">
+        <day>24</day>
+        <month>5</month>
+        <year>2016</year>
+    </date>
+    <date date-type="accepted">
+        <day>13</day>
+        <month>2</month>
+        <year>2017</year>
+    </date>
+</history>
+<permissions>
+    <copyright-statement>&#x000a9; 2017 Hermosilla et al</copyright-statement>
+    <copyright-year>2017</copyright-year>
+    <copyright-holder>Hermosilla et al</copyright-holder>
+    <license xlink:href="http://creativecommons.org/licenses/by/4.0/">
+        <license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+    </license>
+</permissions>
+<self-uri content-type="pdf" xlink:href="pone.0172942.pdf"/>
+<abstract>
+    <sec id="sec001">
+        <title>Background</title>
+        <p>Sputum smear-positive tuberculosis (TB) patients have a high risk of transmission and are of great epidemiological and infection control significance. Little is known about the smear-positive populations in high TB burden regions, such as Kazakhstan. The objective of this study is to characterize the smear-positive population in Kazakhstan and identify associated modifiable risk factors.</p>
+    </sec>
+    <sec id="sec002">
+        <title>Methods</title>
+        <p>Data on incident TB cases&#x02019; (identified between April 2012 and March 2014) socio-demographic, risk behavior, and comorbidity characteristics were collected in four regions of Kazakhstan through structured survey and medical record review. We used multivariable logistic regression to determine factors associated with smear positivity.</p>
+    </sec>
+    <sec id="sec003">
+        <title>Results</title>
+        <p>Of the total sample, 193 (34.3%) of the 562 study participants tested smear-positive. In the final adjusted multivariable logistic regression model, sex (adjusted odds ratio (aOR) = 2.0, 95% CI:1.3&#x02013;3.1, p &#x0003c; 0.01), incarceration (aOR = 3.6, 95% CI:1.2&#x02013;11.1, p = 0.03), alcohol dependence (aOR = 2.6, 95% CI:1.2&#x02013;5.7, p = 0.02), diabetes (aOR = 5.0, 95% CI:2.4&#x02013;10.7, p &#x0003c; 0.01), and physician access (aOR = 2.7, 95% CI:1.3&#x02013;5.5p &#x0003c; 0.01) were associated with smear-positivity.</p>
+    </sec>
+    <sec id="sec004">
+        <title>Conclusions</title>
+        <p>Incarceration, alcohol dependence, diabetes, and physician access are associated with smear positivity among incident TB cases in Kazakhstan. To stem the TB epidemic, screening, treatment and prevention policies should address these factors.</p>
+    </sec>
+</abstract>
+<funding-group>
+    <award-group id="award001">
+        <funding-source>
+            <institution-wrap>
+                <institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/501100004561</institution-id>
+                <institution>Ministry of Education and Science of the Republic of Kazakhstan</institution>
+            </institution-wrap>
+        </funding-source>
+        <award-id>The primary recipient of this grant was the Center for Life Sciences of Nazarbayev University (http://cls.nu.edu.kz/cls/about/) which received funding from the Kazakhstan Ministry of Education and Science (http://edu.gov.kz/ru/). The Global Health Research Center of Central Asia (GHRCCA) had a subcontract with the Nazarbayev University Center for Life Sciences to develop methodologies, implement the field data collection, and analyze the study results.</award-id>
+    </award-group>
+    <award-group id="award002">
+        <funding-source>
+            <institution-wrap>
+                <institution-id institution-id-type="funder-id">http://dx.doi.org/10.13039/100000025</institution-id>
+                <institution>National Institute of Mental Health</institution>
+            </institution-wrap>
+        </funding-source>
+        <award-id>T32MH096724</award-id>
+        <principal-award-recipient>
+            <contrib-id authenticated="true" contrib-id-type="orcid">http://orcid.org/0000-0002-4166-815X</contrib-id>
+            <name>
+                <surname>Hermosilla</surname>
+                <given-names>Sabrina</given-names>
+            </name>
+        </principal-award-recipient>
+    </award-group>
+    <funding-statement>The primary recipient of this grant was the Center for Life Sciences of Nazarbayev University (<ext-link ext-link-type="uri" xlink:href="http://cls.nu.edu.kz/cls/about/">http://cls.nu.edu.kz/cls/about/</ext-link>) which received funding from the Kazakhstan Ministry of Education and Science (<ext-link ext-link-type="uri" xlink:href="http://edu.gov.kz/ru/">http://edu.gov.kz/ru/</ext-link>). The Global Health Research Center of Central Asia (GHRCCA) had a subcontract with the Nazarbayev University Center for Life Sciences to develop methodologies, implement the field data collection, and analyze the study results. Dr. Hermosilla received additional funding from the National Institute of Mental Health (NIMH <ext-link ext-link-type="uri" xlink:href="https://www.nimh.nih.gov/index.shtml">https://www.nimh.nih.gov/index.shtml</ext-link>) T32MH096724.</funding-statement>
+</funding-group>
+<counts>
+    <fig-count count="0"/>
+    <table-count count="2"/>
+    <page-count count="11"/>
+</counts>
+<custom-meta-group>
+    <custom-meta id="data-availability">
+        <meta-name>Data Availability</meta-name>
+        <meta-value>Unfortunately the data are not publicly available as the authors were not the primary receipient of funding for this study. The NU CLS, the principal recipient for this grant, had a clause in the subcontract stating that CLS NU has the ownership rights for this data. The authors are unable to share them publicly without their permission, which they did not provide for this manuscript. Data requests may be sent to Zhaxybay Zhumadilov, Director for CLS NU at email: <email>zzhumadilov@nu.edu.kz</email>.</meta-value>
+    </custom-meta>
+</custom-meta-group>
+        </article-meta>
+        <notes>
+            <title>Data Availability</title>
+            <p>Unfortunately the data are not publicly available as the authors were not the primary receipient of funding for this study. The NU CLS, the principal recipient for this grant, had a clause in the subcontract stating that CLS NU has the ownership rights for this data. The authors are unable to share them publicly without their permission, which they did not provide for this manuscript. Data requests may be sent to Zhaxybay Zhumadilov, Director for CLS NU at email: <email>zzhumadilov@nu.edu.kz</email>.</p>
+        </notes>
+    </front>
+    <body>
+        <sec sec-type="intro" id="sec005">
+            <title>Introduction</title>
+            <p>Tuberculosis (TB) remains one of the world&#x02019;s most burdensome communicable diseases[<xref rid="pone.0172942.ref001" ref-type="bibr">1</xref>]. Despite the gradual decline in TB morbidity and mortality over recent years, the control and elimination of the disease remains a significant challenge[<xref rid="pone.0172942.ref001" ref-type="bibr">1</xref>]. Kazakhstan, an upper middle-income country, is currently characterized by the World Health Organization (WHO) as a high TB priority country and has the second highest multidrug-resistant TB (MDR-TB) burden globally[<xref rid="pone.0172942.ref002" ref-type="bibr">2</xref>].</p>
+            <p>
+                <italic>Mycobacterium tuberculosis</italic> infection is associated with modifiable factors including incarceration[<xref rid="pone.0172942.ref003" ref-type="bibr">3</xref>], smoking[<xref rid="pone.0172942.ref004" ref-type="bibr">4</xref>], alcohol dependence[<xref rid="pone.0172942.ref005" ref-type="bibr">5</xref>], drug use history[<xref rid="pone.0172942.ref006" ref-type="bibr">6</xref>], low body mass index (BMI; as both a potential risk factor and symptom of infection)[<xref rid="pone.0172942.ref007" ref-type="bibr">7</xref>], diabetes [<xref rid="pone.0172942.ref007" ref-type="bibr">7</xref>], Hepatitis C virus (HCV)[<xref rid="pone.0172942.ref008" ref-type="bibr">8</xref>, <xref rid="pone.0172942.ref009" ref-type="bibr">9</xref>], HIV status [<xref rid="pone.0172942.ref010" ref-type="bibr">10</xref>], and depression[<xref rid="pone.0172942.ref011" ref-type="bibr">11</xref>]. While descriptive epidemiological studies have documented the TB burden in Kazakhstan[<xref rid="pone.0172942.ref012" ref-type="bibr">12</xref>], few have linked these factors to increased infectiousness or identified highly infectious sub-populations.</p>
+            <p>For low- and middle-income countries, including Kazakhstan, sputum smear microscopy using unconcentrated samples with Ziehl-Neelsen staining is the cornerstone of TB diagnosis[<xref rid="pone.0172942.ref013" ref-type="bibr">13</xref>]. This test is rapid, simple, inexpensive, and widely available in TB-endemic countries. Detection of tubercle bacilli in sputum samples through microscopy indicates that the patient is capable of TB transmission[<xref rid="pone.0172942.ref014" ref-type="bibr">14</xref>]. Although those with smear-negative, culture-positive pulmonary TB are capable of infecting close contacts, smear-positive patients are considered most infectious[<xref rid="pone.0172942.ref014" ref-type="bibr">14</xref>]. Smear positivity among incident pulmonary TB cases is associated, in low MDR-TB burden contexts, with risk factors such as: alcohol abuse[<xref rid="pone.0172942.ref015" ref-type="bibr">15</xref>], homelessness[<xref rid="pone.0172942.ref015" ref-type="bibr">15</xref>], incarceration[<xref rid="pone.0172942.ref015" ref-type="bibr">15</xref>], unemployment[<xref rid="pone.0172942.ref015" ref-type="bibr">15</xref>], male gender[<xref rid="pone.0172942.ref015" ref-type="bibr">15</xref>], and urban residence[<xref rid="pone.0172942.ref015" ref-type="bibr">15</xref>]; and health-related outcomes such as HIV status (both high[<xref rid="pone.0172942.ref016" ref-type="bibr">16</xref>] and low positive prevalence[<xref rid="pone.0172942.ref017" ref-type="bibr">17</xref>]), high mortality[<xref rid="pone.0172942.ref018" ref-type="bibr">18</xref>], and poor TB treatment outcomes[<xref rid="pone.0172942.ref015" ref-type="bibr">15</xref>].</p>
+            <p>To our knowledge there are no studies exploring associations between modifiable risk factors and smear-positivity in a high MDR-TB setting. Given the higher risk of transmission, smear-positive patients are of great epidemiological importance[<xref rid="pone.0172942.ref019" ref-type="bibr">19</xref>]. We conducted a cross-sectional study to examine factors associated with sputum smear positivity, among pulmonary TB patients, in Kazakhstan. We hypothesize that socio-demographic, behavioral, and co-morbidity risk factors play an important role in increasing an individual&#x02019;s odds of sputum smear positivity.</p>
+        </sec>
+        <sec sec-type="materials|methods" id="sec006">
+            <title>Materials and methods</title>
+            <sec id="sec007">
+                <title>Data collection and study population</title>
+                <p>All pulmonary TB incident cases diagnosed between April 2012 and March 2014 registered in the National Tuberculosis Program (NTP) in Almaty (Almaty city and state), Kostanay, and Kyzylorda, Kazakhstan&#x02014;representing a cross-section of high, medium, and low burden regions[<xref rid="pone.0172942.ref012" ref-type="bibr">12</xref>]&#x02014;were invited to participate in our study through a combination of TB clinician pre-screening, research staff screening, and electronic medical record review. Participant data were collected through an in-person 60-minute audio computer assisted questionnaire conducted from June 2012 to May 2014 and a targeted review of their clinical medical records. The study instrument was designed in English, from scales previously used in the region, translated and pilot tested in Russian and Kazakh, then back translated to English. Once finalized, the questionnaire was programmed and presented in Russian or Kazakh through DatStat, a software providing video presentation of questions and responses. All questionnaires were administered in private rooms with research assistants available, if necessary.</p>
+                <p>During the study period, 744 incident TB cases were registered by the NTP. Other study eligibility criteria includes: (1) age&#x02013; 18 years or older; (2) at permanent residence address for three or more months; (3) sampling requirements for parent longitudinal study (not relevant to current analysis), including availability of a pulmonary TB negative household adult control; (4) Russian or Kazakh language fluency; and (5) absence of apparent severe mental disorders that may impede their ability to consent and complete the questionnaire. Upon completing the primary screening, 566 (76.0% of approached) participants met the eligibility criteria and 562 participants agreed to participate.</p>
+            </sec>
+            <sec id="sec008">
+                <title>Measures</title>
+                <sec id="sec009">
+                    <title>Outcome definition: Incident pulmonary tuberculosis positive definition and sputum smear microscopy results</title>
+                    <p>All participants were incident pulmonary TB cases. In this study, a positive pulmonary TB diagnosis was defined as any suspected TB case that had at least one positive sputum smear microscopy result, or a negative sputum smear microscopy result, but presented clinical or radiographic symptoms consistent with TB that responded to drug treatment, based on current Kazakh national treatment guidelines[<xref rid="pone.0172942.ref020" ref-type="bibr">20</xref>]. The main outcome of interest for this analysis, sputum smear positivity, was assessed through microscopy results that were collected retrospectively from participant&#x02019;s medical records and documented on individual registration cards that were completed for each participant. Individuals with at least one positive smear result were considered sputum smear-positive.</p>
+                </sec>
+                <sec id="sec010">
+                    <title>Socio-demographics</title>
+                    <p>Socio-demographic characteristics were collected, including gender, age (years old), nationality (Kazakh or other), country of birth (Kazakhstan or other), marital status, highest education received, employment status, monthly income, living in an urban or rural setting, and social support. Social support was measured as a continuous variable by employing the Multidimensional Scale of Perceived Social Support (MSPSS), previously used in the region[<xref rid="pone.0172942.ref021" ref-type="bibr">21</xref>].</p>
+                </sec>
+                <sec id="sec011">
+                    <title>TB behavioral risk factors and comorbidity</title>
+                    <p>Behavioral factors previously shown to be associated with TB were collected, including criminal history (ever having been incarcerated), smoking status (smoked tobacco in the past 12 months), alcohol dependence, and history of drug use (positive endorsement to item &#x0201c;Have you ever used drugs?&#x0201d;). Alcohol dependence was measured by the validated CAGE questionnaire, which consists of four questions[<xref rid="pone.0172942.ref022" ref-type="bibr">22</xref>]. Alcohol dependence was defined as answering &#x0201c;yes&#x0201d; to two or more of these questions, or answering &#x0201c;yes&#x0201d; to the question &#x0201c;Have you ever felt you needed a drink first thing in the morning to steady your nerves or to get rid of a hangover (eye-opener)[<xref rid="pone.0172942.ref022" ref-type="bibr">22</xref>]?&#x0201d; Access to health services (provided to all Kazakh nationals for free) was approximated by the participant endorsement of the item &#x0201c;Do you have a regular doctor to see when you are sick?&#x0201d; While all participants were sampled from a healthcare-seeking population, which by definition seeks services more than those outside care, even within the care-seeking population differential service utilization could influence diagnostic patterns and thus smear positivity. Participants were asked to self-report comorbid factors including diabetes, anemia, hepatitis C virus (HCV), HIV status, and depression. Depression was scored as a continuous variable using the Brief Symptom Inventory&#x02013;Depression subscale[<xref rid="pone.0172942.ref023" ref-type="bibr">23</xref>]. BMI at diagnosis was collected from participants&#x02019; clinical medical records.</p>
+                </sec>
+            </sec>
+            <sec id="sec012">
+                <title>Statistical analysis</title>
+                <p>First, we conducted descriptive univariate analyses to illustrate relevant characteristics of the TB-positive population, informed by a thorough literature review exploring factors driving sputum smear positivity. Second, we conducted bivariate analyses to identify statistically significant differences in socio-demographic, behavioral, and comorbidity factors between smear-positive and smear-negative populations by performing Chi-Square and Fisher&#x02019;s exact tests for categorical variables and Student t-tests (Wilcoxon for variables non-normally distributed, as identified through Shapio-Wilk normality tests) for continuous variables. Third, simple bivariate logistic regressions were performed to identify potentially significant (p &#x0003c; 0.10) associations between socio-demographic, behavioral, and comorbidity factors and smear positivity. Fourth, the final multivariable logistic regression analysis estimated the relationship between sputum smear status and statistically significant factors (p &#x0003c; 0.10) from the previous simple bivariate regression analysis and factors deemed epidemiologically relevant based on the extant literature (e.g. tobacco usage, social support, health system access, and HCV). Once estimated, we performed diagnostics of the final multivariable logistic regression model to explore: model fit (Hosmer-Lemeshow goodness of fit), the potential for collinearity among included variables, and residual distribution. Significance for the final model was defined as p value &#x0003c; 0.05. All analyses were conducted in SAS 9.4.</p>
+            </sec>
+            <sec id="sec013">
+                <title>Ethical consideration</title>
+                <p>All identifying information were removed before performing analysis. Ethical review was approved by Institutional Review Boards from Columbia University (Protocol AAAJ8510), Center for Life Sciences of Nazarbayev University (Protocol 2, 24 at April 17, 2012 meeting) and the National TB Center of Kazakhstan (March 19, 2012 meeting). Written informed consent was acquired from all participants, stored in a secure study location, and was approved by Institutional Review Boards.</p>
+            </sec>
+        </sec>
+        <sec sec-type="results" id="sec014">
+            <title>Results</title>
+            <sec id="sec015">
+                <title>Participant characteristics</title>
+                <p>744 TB-positive index cases were identified from 2012 to 2014, of which 562 (75.5%) agreed to complete the questionnaire. Participant&#x02019;s mean age was 35 (SD = 13.4) years, ranging from 18 to 83 years. <xref ref-type="table" rid="pone.0172942.t001">Table 1</xref> shows the study population demographic characteristics, risk factors, and comorbidities of all TB-positive index cases and stratified by smear-positive diagnostic status. The study population was 55.0% male, with 61.7% currently married and 76.9% Kazakh nationals. The majority (80.6%) of the population were employed full-time and 92.7% had attended high school or more of formal schooling, consistent with UNICEF&#x02019;s description of the overall Kazakh population in 2012[<xref rid="pone.0172942.ref024" ref-type="bibr">24</xref>].</p>
+                <table-wrap id="pone.0172942.t001" orientation="portrait" position="float">
+                    <object-id pub-id-type="doi">10.1371/journal.pone.0172942.t001</object-id>
+                    <label>Table 1</label>
+                    <caption>
+                        <title>Study population characteristics among 562 total and smear-positive participants, Kazakhstan, 2012&#x02013;2014.</title>
+                    </caption>
+                    <alternatives>
+                        <graphic id="pone.0172942.t001g" xlink:href="pone.0172942.t001"/>
+                        <table frame="hsides" rules="groups">
+                            <colgroup span="1">
+                                <col align="left" valign="middle" span="1"/>
+                                <col align="left" valign="middle" span="1"/>
+                                <col align="left" valign="middle" span="1"/>
+                                <col align="left" valign="middle" span="1"/>
+                                <col align="left" valign="middle" span="1"/>
+                                <col align="left" valign="middle" span="1"/>
+                                <col align="left" valign="middle" span="1"/>
+                                <col align="left" valign="middle" span="1"/>
+                            </colgroup>
+                            <thead>
+                                <tr>
+                                    <th align="left" rowspan="2" colspan="1">&#x000a0;</th>
+                                    <th align="center" colspan="2" rowspan="1">Smear+ (193)</th>
+                                    <th align="center" colspan="2" rowspan="1">Smear- (355)</th>
+                                    <th align="center" colspan="2" rowspan="1">Total (562)</th>
+                                    <th align="center" rowspan="1" colspan="1"/>
+                                </tr>
+                                <tr>
+                                    <th align="center" rowspan="1" colspan="1">% (n)</th>
+                                    <th align="center" rowspan="1" colspan="1">95% CI</th>
+                                    <th align="center" rowspan="1" colspan="1">% (n)</th>
+                                    <th align="center" rowspan="1" colspan="1">95% CI</th>
+                                    <th align="center" rowspan="1" colspan="1">% (n)</th>
+                                    <th align="center" rowspan="1" colspan="1">95% CI</th>
+                                    <th align="center" rowspan="1" colspan="1">p-value</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">
+                                        <bold>Socio-demographic</bold>
+                                    </td>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Sex, male</td>
+                                    <td align="center" rowspan="1" colspan="1">63.73% (123)<xref ref-type="table-fn" rid="t001fn003">**</xref></td>
+                                    <td align="center" rowspan="1" colspan="1">56.92%&#x02013;70.53%</td>
+                                    <td align="center" rowspan="1" colspan="1">50.7% (180)</td>
+                                    <td align="center" rowspan="1" colspan="1">45.48%&#x02013;55.92%</td>
+                                    <td align="center" rowspan="1" colspan="1">54.98% (309)</td>
+                                    <td align="center" rowspan="1" colspan="1">50.86%&#x02013;59.11%</td>
+                                    <td align="center" rowspan="1" colspan="1">0.003</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Age, mean (SD)</td>
+                                    <td align="center" rowspan="1" colspan="1">36.5 (13.4)</td>
+                                    <td align="center" rowspan="1" colspan="1">34.5&#x02013;38.3</td>
+                                    <td align="center" rowspan="1" colspan="1">34.7 (13.0)</td>
+                                    <td align="center" rowspan="1" colspan="1">33.3&#x02013;36.0</td>
+                                    <td align="center" rowspan="1" colspan="1">35 (13.1)</td>
+                                    <td align="center" rowspan="1" colspan="1">34.2&#x02013;36.4</td>
+                                    <td align="center" rowspan="1" colspan="1">0.118</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Employed</td>
+                                    <td align="center" rowspan="1" colspan="1">80.83% (156)</td>
+                                    <td align="center" rowspan="1" colspan="1">75.258%&#x02013;86.4%</td>
+                                    <td align="center" rowspan="1" colspan="1">80.56% (286)</td>
+                                    <td align="center" rowspan="1" colspan="1">76.43%&#x02013;84.69%</td>
+                                    <td align="center" rowspan="1" colspan="1">80.60% (453)</td>
+                                    <td align="center" rowspan="1" colspan="1">77.33%&#x02013;83.88%</td>
+                                    <td align="center" rowspan="1" colspan="1">0.94</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Highest education</td>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Primary school</td>
+                                    <td align="center" rowspan="1" colspan="1">0.52% (1)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.00%&#x02013;1.53%</td>
+                                    <td align="center" rowspan="1" colspan="1">0.28% (1)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.00%&#x02013;0.83%</td>
+                                    <td align="center" rowspan="1" colspan="1">0.36% (2)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.00%&#x02013;0.84%</td>
+                                    <td align="center" rowspan="6" colspan="1">0.6095</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Secondary school</td>
+                                    <td align="center" rowspan="1" colspan="1">8.81% (17)</td>
+                                    <td align="center" rowspan="1" colspan="1">4.79%&#x02013;12.81%</td>
+                                    <td align="center" rowspan="1" colspan="1">6.20% (22)</td>
+                                    <td align="center" rowspan="1" colspan="1">3.68%&#x02013;8.71%</td>
+                                    <td align="center" rowspan="1" colspan="1">6.94% (39)</td>
+                                    <td align="center" rowspan="1" colspan="1">4.83%&#x02013;9.04%</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;High school</td>
+                                    <td align="center" rowspan="1" colspan="1">28.50% (55)</td>
+                                    <td align="center" rowspan="1" colspan="1">22.10%&#x02013;34.88%</td>
+                                    <td align="center" rowspan="1" colspan="1">31.83% (113)</td>
+                                    <td align="center" rowspan="1" colspan="1">26.97%&#x02013;36.69%</td>
+                                    <td align="center" rowspan="1" colspan="1">30.60% (172)</td>
+                                    <td align="center" rowspan="1" colspan="1">26.78%&#x02013;34.42%</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Vocational education</td>
+                                    <td align="center" rowspan="1" colspan="1">44.04% (85)</td>
+                                    <td align="center" rowspan="1" colspan="1">37.01%&#x02013;51.06%</td>
+                                    <td align="center" rowspan="1" colspan="1">42.54% (151)</td>
+                                    <td align="center" rowspan="1" colspan="1">37.37%&#x02013;47.69%</td>
+                                    <td align="center" rowspan="1" colspan="1">43.06% (242)</td>
+                                    <td align="center" rowspan="1" colspan="1">38.95%&#x02013;47.16%</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Incomplete higher education</td>
+                                    <td align="center" rowspan="1" colspan="1">5.18% (10)</td>
+                                    <td align="center" rowspan="1" colspan="1">2.04%&#x02013;8.31%</td>
+                                    <td align="center" rowspan="1" colspan="1">3.38% (12)</td>
+                                    <td align="center" rowspan="1" colspan="1">1.49%&#x02013;5.26%</td>
+                                    <td align="center" rowspan="1" colspan="1">4.27% (24)</td>
+                                    <td align="center" rowspan="1" colspan="1">2.59%&#x02013;5.94%</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Higher education</td>
+                                    <td align="center" rowspan="1" colspan="1">12.95% (25)</td>
+                                    <td align="center" rowspan="1" colspan="1">8.20%&#x02013;17.70%</td>
+                                    <td align="center" rowspan="1" colspan="1">15.77% (56)</td>
+                                    <td align="center" rowspan="1" colspan="1">11.97%&#x02013;19.57%</td>
+                                    <td align="center" rowspan="1" colspan="1">14.77% (83)</td>
+                                    <td align="center" rowspan="1" colspan="1">11.82%&#x02013;17.71%</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Nationality</td>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Kazakh</td>
+                                    <td align="center" rowspan="1" colspan="1">70.98% (137)<xref ref-type="table-fn" rid="t001fn002">*</xref></td>
+                                    <td align="center" rowspan="1" colspan="1">64.56%&#x02013;77.40%</td>
+                                    <td align="center" rowspan="1" colspan="1">80.00% (284)</td>
+                                    <td align="center" rowspan="1" colspan="1">75.82%&#x02013;84.17%</td>
+                                    <td align="center" rowspan="1" colspan="1">76.87% (432)</td>
+                                    <td align="center" rowspan="1" colspan="1">73.37%&#x02013;80.37%</td>
+                                    <td align="center" rowspan="2" colspan="1">0.017</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Other</td>
+                                    <td align="center" rowspan="1" colspan="1">29.02% (56)</td>
+                                    <td align="center" rowspan="1" colspan="1">22.59%&#x02013;35.43%</td>
+                                    <td align="center" rowspan="1" colspan="1">20.00% (71)</td>
+                                    <td align="center" rowspan="1" colspan="1">15.82%&#x02013;24.17%</td>
+                                    <td align="center" rowspan="1" colspan="1">23.13% (130)</td>
+                                    <td align="center" rowspan="1" colspan="1">19.63%&#x02013;26.62%</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Marital Status, Married</td>
+                                    <td align="center" rowspan="1" colspan="1">58.55% (113)</td>
+                                    <td align="center" rowspan="1" colspan="1">51.57%&#x02013;65.52%</td>
+                                    <td align="center" rowspan="1" colspan="1">62.82% (223)</td>
+                                    <td align="center" rowspan="1" colspan="1">57.77%&#x02013;67.86%</td>
+                                    <td align="center" rowspan="1" colspan="1">61.74% (347)</td>
+                                    <td align="center" rowspan="1" colspan="1">57.71%&#x02013;65.77%</td>
+                                    <td align="center" rowspan="1" colspan="1">0.327</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Monthly income, mean(SD)</td>
+                                    <td align="center" rowspan="1" colspan="1">45474 (53896)</td>
+                                    <td align="center" rowspan="1" colspan="1">37823&#x02013;53127</td>
+                                    <td align="center" rowspan="1" colspan="1">38727 (58902)</td>
+                                    <td align="center" rowspan="1" colspan="1">32579&#x02013;44876</td>
+                                    <td align="center" rowspan="1" colspan="1">40781 (56970)</td>
+                                    <td align="center" rowspan="1" colspan="1">36061&#x02013;45501</td>
+                                    <td align="center" rowspan="1" colspan="1">0.218</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Place of birth</td>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Kazakh</td>
+                                    <td align="center" rowspan="1" colspan="1">89.64% (173)</td>
+                                    <td align="center" rowspan="1" colspan="1">85.32%&#x02013;93.95%</td>
+                                    <td align="center" rowspan="1" colspan="1">91.55% (325)</td>
+                                    <td align="center" rowspan="1" colspan="1">88.64%&#x02013;94.45%</td>
+                                    <td align="center" rowspan="1" colspan="1">91.10% (512)</td>
+                                    <td align="center" rowspan="1" colspan="1">88.74%&#x02013;93.46%</td>
+                                    <td align="center" rowspan="2" colspan="1">0.458</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Other</td>
+                                    <td align="center" rowspan="1" colspan="1">10.36% (20)</td>
+                                    <td align="center" rowspan="1" colspan="1">6.04%&#x02013;14.67%</td>
+                                    <td align="center" rowspan="1" colspan="1">8.45 (30)</td>
+                                    <td align="center" rowspan="1" colspan="1">5.54%&#x02013;11.35%</td>
+                                    <td align="center" rowspan="1" colspan="1">8.90% (50)</td>
+                                    <td align="center" rowspan="1" colspan="1">6.53%&#x02013;11.25%</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Urban</td>
+                                    <td align="center" rowspan="1" colspan="1">52.85% (102)<xref ref-type="table-fn" rid="t001fn002">*</xref></td>
+                                    <td align="center" rowspan="1" colspan="1">45.78%&#x02013;59.91%</td>
+                                    <td align="center" rowspan="1" colspan="1">41.48% (146)</td>
+                                    <td align="center" rowspan="1" colspan="1">36.31%&#x02013;46.64%</td>
+                                    <td align="center" rowspan="1" colspan="1">45.77% (254)</td>
+                                    <td align="center" rowspan="1" colspan="1">41.61%&#x02013;49.92%</td>
+                                    <td align="center" rowspan="1" colspan="1">0.011</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Study Site</td>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Almaty city</td>
+                                    <td align="center" rowspan="1" colspan="1">18.65% (36)</td>
+                                    <td align="center" rowspan="1" colspan="1">13.14%&#x02013;24.16%</td>
+                                    <td align="center" rowspan="1" colspan="1">4.79% (17)</td>
+                                    <td align="center" rowspan="1" colspan="1">2.56%&#x02013;7.01%</td>
+                                    <td align="center" rowspan="1" colspan="1">9.96% (56)</td>
+                                    <td align="center" rowspan="1" colspan="1">7.48%&#x02013;12.44%</td>
+                                    <td align="center" rowspan="4" colspan="1">&#x0003c;0.001</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Almaty area</td>
+                                    <td align="center" rowspan="1" colspan="1">23.32% (45)</td>
+                                    <td align="center" rowspan="1" colspan="1">17.33%&#x02013;29.30%</td>
+                                    <td align="center" rowspan="1" colspan="1">37.75% (134)</td>
+                                    <td align="center" rowspan="1" colspan="1">32.68%&#x02013;42.80%</td>
+                                    <td align="center" rowspan="1" colspan="1">32.92% (185)</td>
+                                    <td align="center" rowspan="1" colspan="1">29.02%&#x02013;36.81%</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Kyzylorda</td>
+                                    <td align="center" rowspan="1" colspan="1">29.02% (56)</td>
+                                    <td align="center" rowspan="1" colspan="1">22.59%&#x02013;35.43%</td>
+                                    <td align="center" rowspan="1" colspan="1">33.52% (119)</td>
+                                    <td align="center" rowspan="1" colspan="1">28.59%&#x02013;38.44%</td>
+                                    <td align="center" rowspan="1" colspan="1">31.14% (175)</td>
+                                    <td align="center" rowspan="1" colspan="1">27.29%&#x02013;34.97%</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Kostanay</td>
+                                    <td align="center" rowspan="1" colspan="1">29.02% (56)</td>
+                                    <td align="center" rowspan="1" colspan="1">22.59%&#x02013;35.43%</td>
+                                    <td align="center" rowspan="1" colspan="1">23.94% (85)</td>
+                                    <td align="center" rowspan="1" colspan="1">19.49%&#x02013;28.39%</td>
+                                    <td align="center" rowspan="1" colspan="1">25.98% (146)</td>
+                                    <td align="center" rowspan="1" colspan="1">22.34%&#x02013;29.61%</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">
+                                        <bold>Behavioral</bold>
+                                    </td>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Ever incarcerated</td>
+                                    <td align="center" rowspan="1" colspan="1">6.81% (13)<xref ref-type="table-fn" rid="t001fn003">**</xref></td>
+                                    <td align="center" rowspan="1" colspan="1">3.22%&#x02013;10.38%</td>
+                                    <td align="center" rowspan="1" colspan="1">1.98% (7)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.52%&#x02013;3.43%</td>
+                                    <td align="center" rowspan="1" colspan="1">3.76% (21)</td>
+                                    <td align="center" rowspan="1" colspan="1">2.18%&#x02013;5.34%</td>
+                                    <td align="center" rowspan="1" colspan="1">0.004</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Smoked tobacco in the past 12 months</td>
+                                    <td align="center" rowspan="1" colspan="1">22.41% (39)</td>
+                                    <td align="center" rowspan="1" colspan="1">16.19%&#x02013;28.63%</td>
+                                    <td align="center" rowspan="1" colspan="1">15.79% (51)</td>
+                                    <td align="center" rowspan="1" colspan="1">11.79%&#x02013;19.77%</td>
+                                    <td align="center" rowspan="1" colspan="1">18.24% (93)</td>
+                                    <td align="center" rowspan="1" colspan="1">14.87%&#x02013;21.60%</td>
+                                    <td align="center" rowspan="1" colspan="1">0.067</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Ever consumed alcohol</td>
+                                    <td align="center" rowspan="1" colspan="1">55.96% (108)<xref ref-type="table-fn" rid="t001fn002">*</xref></td>
+                                    <td align="center" rowspan="1" colspan="1">48.93%&#x02013;62.98%</td>
+                                    <td align="center" rowspan="1" colspan="1">47.04% (167)</td>
+                                    <td align="center" rowspan="1" colspan="1">41.83%&#x02013;52.25%</td>
+                                    <td align="center" rowspan="1" colspan="1">49.64% (279)</td>
+                                    <td align="center" rowspan="1" colspan="1">45.50%&#x02013;53.79%</td>
+                                    <td align="center" rowspan="1" colspan="1">0.046</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Alcohol dependence<xref ref-type="table-fn" rid="t001fn005">
+                                            <sup>&#x000a7;</sup>
+                                        </xref>
+                                    </td>
+                                    <td align="center" rowspan="1" colspan="1">17.10% (33)<xref ref-type="table-fn" rid="t001fn004">***</xref></td>
+                                    <td align="center" rowspan="1" colspan="1">11.77%&#x02013;22.42%</td>
+                                    <td align="center" rowspan="1" colspan="1">6.76% (24)</td>
+                                    <td align="center" rowspan="1" colspan="1">4.14%&#x02013;9.38%</td>
+                                    <td align="center" rowspan="1" colspan="1">10.32% (58)</td>
+                                    <td align="center" rowspan="1" colspan="1">7.80%&#x02013;12.84%</td>
+                                    <td align="center" rowspan="1" colspan="1">&#x0003c;0.001</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Ever used drugs</td>
+                                    <td align="center" rowspan="1" colspan="1">9.33% (18)<xref ref-type="table-fn" rid="t001fn003">**</xref></td>
+                                    <td align="center" rowspan="1" colspan="1">5.21%&#x02013;13.44%</td>
+                                    <td align="center" rowspan="1" colspan="1">3.10% (11)</td>
+                                    <td align="center" rowspan="1" colspan="1">1.29%&#x02013;4.90%</td>
+                                    <td align="center" rowspan="1" colspan="1">5.34% (30)</td>
+                                    <td align="center" rowspan="1" colspan="1">3.47%&#x02013;7.20%</td>
+                                    <td align="center" rowspan="1" colspan="1">0.002</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Social Support Score, mean (SD)</td>
+                                    <td align="center" rowspan="1" colspan="1">64.6 (10.6)</td>
+                                    <td align="center" rowspan="1" colspan="1">63.1&#x02013;66.1</td>
+                                    <td align="center" rowspan="1" colspan="1">64.7 (10.2)</td>
+                                    <td align="center" rowspan="1" colspan="1">63.6&#x02013;65.7</td>
+                                    <td align="center" rowspan="1" colspan="1">64.6 (2.88)</td>
+                                    <td align="center" rowspan="1" colspan="1">63.7&#x02013;65.4</td>
+                                    <td align="center" rowspan="1" colspan="1">0.81</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Have a doctor</td>
+                                    <td align="center" rowspan="1" colspan="1">90.16% (174)</td>
+                                    <td align="center" rowspan="1" colspan="1">85.93%&#x02013;94.37%</td>
+                                    <td align="center" rowspan="1" colspan="1">85.07% (302)</td>
+                                    <td align="center" rowspan="1" colspan="1">81.35%&#x02013;88.78%</td>
+                                    <td align="center" rowspan="1" colspan="1">86.30% (485)</td>
+                                    <td align="center" rowspan="1" colspan="1">83.44%&#x02013;89.15%</td>
+                                    <td align="center" rowspan="1" colspan="1">0.092</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">
+                                        <bold>Comorbidity</bold>
+                                    </td>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;BMI, mean (SD)</td>
+                                    <td align="center" rowspan="1" colspan="1">20.8 (3.8)</td>
+                                    <td align="center" rowspan="1" colspan="1">20.2&#x02013;21.3</td>
+                                    <td align="center" rowspan="1" colspan="1">21.4 (2.6)</td>
+                                    <td align="center" rowspan="1" colspan="1">21.0&#x02013;21.8</td>
+                                    <td align="center" rowspan="1" colspan="1">21.2 (3.7)</td>
+                                    <td align="center" rowspan="1" colspan="1">20.9&#x02013;21.5</td>
+                                    <td align="center" rowspan="1" colspan="1">0.005</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Ever diagnosed with diabetes</td>
+                                    <td align="center" rowspan="1" colspan="1">13.09% (25)<xref ref-type="table-fn" rid="t001fn004">***</xref></td>
+                                    <td align="center" rowspan="1" colspan="1">8.29%&#x02013;17.88%</td>
+                                    <td align="center" rowspan="1" colspan="1">4.23% (15)</td>
+                                    <td align="center" rowspan="1" colspan="1">2.12%&#x02013;6.32%</td>
+                                    <td align="center" rowspan="1" colspan="1">7.14% (40)</td>
+                                    <td align="center" rowspan="1" colspan="1">5.00%&#x02013;9.28%</td>
+                                    <td align="center" rowspan="1" colspan="1">&#x0003c;0.001</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Ever diagnosed with anemia</td>
+                                    <td align="center" rowspan="1" colspan="1">11.46% (22)</td>
+                                    <td align="center" rowspan="1" colspan="1">6.93%&#x02013;15.97%</td>
+                                    <td align="center" rowspan="1" colspan="1">15.54% (55)</td>
+                                    <td align="center" rowspan="1" colspan="1">11.75%&#x02013;19.32%</td>
+                                    <td align="center" rowspan="1" colspan="1">14.11% (79)</td>
+                                    <td align="center" rowspan="1" colspan="1">11.21%&#x02013;16.99%</td>
+                                    <td align="center" rowspan="1" colspan="1">0.191</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Ever diagnosed with HCV</td>
+                                    <td align="center" rowspan="1" colspan="1">3.63% (7)<xref ref-type="table-fn" rid="t001fn002">*</xref></td>
+                                    <td align="center" rowspan="1" colspan="1">0.98%&#x02013;6.27%</td>
+                                    <td align="center" rowspan="1" colspan="1">1.13% (4)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.02%&#x02013;2.22%</td>
+                                    <td align="center" rowspan="1" colspan="1">2.14% (12)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.93%&#x02013;3.33%</td>
+                                    <td align="center" rowspan="1" colspan="1">0.046</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;HIV Status, Positive</td>
+                                    <td align="center" rowspan="1" colspan="1">2.60% (4)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.07%&#x02013;5.11%</td>
+                                    <td align="center" rowspan="1" colspan="1">0.97% (3)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.00%&#x02013;2.06%</td>
+                                    <td align="center" rowspan="1" colspan="1">1.48% (7)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.38%&#x02013;2.57%</td>
+                                    <td align="center" rowspan="1" colspan="1">0.175</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Depression Score, mean (SD)<break/></td>
+                                    <td align="center" rowspan="1" colspan="1">1.64 (2.84)</td>
+                                    <td align="center" rowspan="1" colspan="1">1.23&#x02013;2.045</td>
+                                    <td align="center" rowspan="1" colspan="1">1.60 (3.03)</td>
+                                    <td align="center" rowspan="1" colspan="1">1.28&#x02013;1.91</td>
+                                    <td align="center" rowspan="1" colspan="1">1.62 (2.99)</td>
+                                    <td align="center" rowspan="1" colspan="1">1.37&#x02013;1.86</td>
+                                    <td align="center" rowspan="1" colspan="1">0.486</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </alternatives>
+                    <table-wrap-foot>
+                        <fn id="t001fn001">
+                            <p>Notes. HCV: Hepatitis C virus; all <italic>p</italic> values refer to comparison between smear-positive and smear-negative subjects only: Chi-Square and Fisher&#x02019;s exact tests for categorical variables and Student t-tests for continuous variables</p>
+                        </fn>
+                        <fn id="t001fn002">
+                            <p>* <italic>p</italic>&#x0003c;0.05.</p>
+                        </fn>
+                        <fn id="t001fn003">
+                            <p>** <italic>p</italic>&#x0003c;0.01</p>
+                        </fn>
+                        <fn id="t001fn004">
+                            <p>*** <italic>p</italic>&#x0003c;0.001</p>
+                        </fn>
+                        <fn id="t001fn005">
+                            <p>
+                                <sup>&#x000a7;</sup> as measured by the CAGE.</p>
+                        </fn>
+                    </table-wrap-foot>
+                </table-wrap>
+            </sec>
+            <sec id="sec016">
+                <title>Behavioral risk factors and comorbidity</title>
+                <p>Participants reported: having a regular doctor they could see when sick (86.3%); low levels of alcohol consumption (49.6% ever consumed alcohol) and dependence (10.3% based on CAGE results); and moderate levels of tobacco smoking (18.2% in the past 12 months). Diabetes (7.1% ever diagnosed) and HCV (2.1% ever diagnosed) were the most commonly reported comorbid conditions.</p>
+            </sec>
+            <sec id="sec017">
+                <title>Smear-positive risk factors</title>
+                <p>A third, 193 (34.3%), of the study participants were smear-positive with 14 (2.5%) participants having invalid or no smear results. Through bivariate analyses the smear-positive population had significantly more males (63.7%, p = 0.003) and less Kazakh nationals (71.0%, p = 0.017) than those who were reported as smear-negative. Education level, employment and marital status were not statistically different between the two smear categories. Smear-positive patients consistently reported significantly higher rates of incarceration (6.8% vs. 3.8%), recently smoked more (22.4% vs. 18.2%), were more dependent on alcohol (17.1% vs. 10.3%), and more frequently lived in urban settings (52.9% vs. 45.8%). Most participants, irrespective of smear status, reported high levels (64.6 mean score) of social support from either family members or friends. Smear-positive cases reported increased rates of diabetes (13.1%) and HCV (3.6%). No significant difference in BMI was observed. Similarly, HIV (1.5%) and depression (1.62) did not differ significantly by smear status.</p>
+                <p>
+                    <xref ref-type="table" rid="pone.0172942.t002">Table 2</xref> shows the unadjusted (OR) and adjusted odds ratios (aOR) and their 95% confidence intervals generated by simple logistic regression and multivariable logistic regression analysis, respectively. Upon removing those with missing values, our final model included 480 participants. The final adjusted multivariable logistic regression model, identifying independent associations with sputum smear positivity, showed significant associations between smear positivity and male gender [aOR 1.97 (1.25, 3.11)], Almaty area [aOR 0.15 (0.07, 0.35)], Kyzylorda [aOR 0.22 (0.10, 0.51)], and Kostanay [aOR 0.29 (0.13, 0.64)] study sites, ever being incarcerated [aOR 3.62 (1.18, 11.13)], alcohol dependence [aOR 2.61 (1.20, 5.69)], having a doctor to see when ill [aOR 2.69 (1.32, 5.49)], and diabetes [aOR 5.02 (2.35, 10.71)]. Kazakh nationality [aOR 0.70 (0.40, 1.22)], setting [aOR 1.07 (0.68, 1.69)], recently smoked tobacco [aOR 0.57 (0.28, 1.13)], ever-used drugs [aOR 1.48 (0.58, 3.76)], and HCV [aOR 4.28 (0.85, 21.57)] were not statistically significant. The final model indicates a changed protective effect of living in Almaty area, Kyzylorda, and Kostanay when compared to Almaty city.</p>
+                <table-wrap id="pone.0172942.t002" orientation="portrait" position="float">
+                    <object-id pub-id-type="doi">10.1371/journal.pone.0172942.t002</object-id>
+                    <label>Table 2</label>
+                    <caption>
+                        <title>Crude and Adjusted Associations with Smear-positive Among 480 Pulmonary Tuberculosis Cases, Kazakhstan, 2012&#x02013;2014.</title>
+                    </caption>
+                    <alternatives>
+                        <graphic id="pone.0172942.t002g" xlink:href="pone.0172942.t002"/>
+                        <table frame="hsides" rules="groups">
+                            <colgroup span="1">
+                                <col align="left" valign="middle" span="1"/>
+                                <col align="left" valign="middle" span="1"/>
+                                <col align="left" valign="middle" span="1"/>
+                                <col align="left" valign="middle" span="1"/>
+                                <col align="left" valign="middle" span="1"/>
+                            </colgroup>
+                            <thead>
+                                <tr>
+                                    <th align="left" rowspan="1" colspan="1">&#x000a0;</th>
+                                    <th align="center" colspan="2" rowspan="1">Unadjusted</th>
+                                    <th align="center" colspan="2" rowspan="1">Adjusted</th>
+                                </tr>
+                                <tr>
+                                    <th align="center" rowspan="1" colspan="1"/>
+                                    <th align="center" rowspan="1" colspan="1">OR (95% CI)</th>
+                                    <th align="center" rowspan="1" colspan="1">
+                                        <italic>p</italic>-value</th>
+                                    <th align="center" rowspan="1" colspan="1">aOR (95% CI)</th>
+                                    <th align="center" rowspan="1" colspan="1">
+                                        <italic>p</italic>-value</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">
+                                        <bold>Socio-demographic</bold>
+                                    </td>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Sex, male (ref. female)</td>
+                                    <td align="left" rowspan="1" colspan="1">1.71 (1.19, 2.45)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.004<xref ref-type="table-fn" rid="t002fn003">**</xref></td>
+                                    <td align="left" rowspan="1" colspan="1">1.97 (1.25, 3.11)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.004<xref ref-type="table-fn" rid="t002fn003">**</xref></td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Nationality, Kazakh&#x000a0;(ref. other)</td>
+                                    <td align="left" rowspan="1" colspan="1">0.61 (0.41, 0.92)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.017<xref ref-type="table-fn" rid="t002fn002">*</xref></td>
+                                    <td align="left" rowspan="1" colspan="1">0.70 (0.40, 1.22)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.21</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Study Site</td>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                    <td align="left" rowspan="1" colspan="1">Almaty city</td>
+                                    <td align="left" rowspan="1" colspan="1">ref</td>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                    <td align="left" rowspan="1" colspan="1">ref</td>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Almaty area</td>
+                                    <td align="left" rowspan="1" colspan="1">6.32 (3.23, 12.30)</td>
+                                    <td align="center" rowspan="1" colspan="1">&#x0003c;0.001<xref ref-type="table-fn" rid="t002fn004">***</xref></td>
+                                    <td align="left" rowspan="1" colspan="1">0.15 (0.07, 0.35)</td>
+                                    <td align="center" rowspan="1" colspan="1">&#x0003c;0.001<xref ref-type="table-fn" rid="t002fn004">***</xref></td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Kyzylorda</td>
+                                    <td align="left" rowspan="1" colspan="1">4.50 (2.33, 8.69)</td>
+                                    <td align="center" rowspan="1" colspan="1">&#x0003c;0.001<xref ref-type="table-fn" rid="t002fn004">***</xref></td>
+                                    <td align="left" rowspan="1" colspan="1">0.22 (0.10, 0.51)</td>
+                                    <td align="center" rowspan="1" colspan="1">&#x0003c;0.001<xref ref-type="table-fn" rid="t002fn004">***</xref></td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;Kostanay</td>
+                                    <td align="left" rowspan="1" colspan="1">3.21 (1.64, 6.27)</td>
+                                    <td align="center" rowspan="1" colspan="1">&#x0003c;0.001<xref ref-type="table-fn" rid="t002fn004">***</xref></td>
+                                    <td align="left" rowspan="1" colspan="1">0.29 (0.13, 0.64)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.002<xref ref-type="table-fn" rid="t002fn003">**</xref></td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Urban (ref. rural)</td>
+                                    <td align="left" rowspan="1" colspan="1">1.58 (1.11, 2.25)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.011<xref ref-type="table-fn" rid="t002fn002">*</xref></td>
+                                    <td align="left" rowspan="1" colspan="1">1.07 (0.68, 1.69)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.779</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">
+                                        <bold>Behavioral (ref. never or no)</bold>
+                                    </td>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Incarcerated, ever&#x000a0;</td>
+                                    <td align="left" rowspan="1" colspan="1">3.62 (1.42, 9.24)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.007<xref ref-type="table-fn" rid="t002fn003">**</xref></td>
+                                    <td align="left" rowspan="1" colspan="1">3.62 (1.18, 11.13)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.026<xref ref-type="table-fn" rid="t002fn002">*</xref></td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Smoked tobacco, past 12 months</td>
+                                    <td align="left" rowspan="1" colspan="1">1.54 (0.97, 2.45)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.069</td>
+                                    <td align="left" rowspan="1" colspan="1">0.57 (0.28, 1.13)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.107</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Consumed alcohol, ever&#x000a0;</td>
+                                    <td align="left" rowspan="1" colspan="1">1.43 (1.01, 2.04)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.047<xref ref-type="table-fn" rid="t002fn002">*</xref></td>
+                                    <td align="left" rowspan="1" colspan="1">0.79 (0.49, 1.28)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.339</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Alcohol dependence<xref ref-type="table-fn" rid="t002fn005">
+                                            <sup>&#x000a7;</sup>
+                                        </xref>
+                                    </td>
+                                    <td align="left" rowspan="1" colspan="1">2.84 (1.63, 4.97)</td>
+                                    <td align="center" rowspan="1" colspan="1">&#x0003c;0.001<xref ref-type="table-fn" rid="t002fn004">***</xref></td>
+                                    <td align="left" rowspan="1" colspan="1">2.61 (1.20, 5.69)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.016<xref ref-type="table-fn" rid="t002fn002">*</xref></td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Used drugs, ever</td>
+                                    <td align="left" rowspan="1" colspan="1">3.22 (1.49, 6.96)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.003<xref ref-type="table-fn" rid="t002fn003">**</xref></td>
+                                    <td align="left" rowspan="1" colspan="1">1.48 (0.58, 3.76)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.416</td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Have a doctor</td>
+                                    <td align="left" rowspan="1" colspan="1">1.61 (0.92, 2.80)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.095</td>
+                                    <td align="left" rowspan="1" colspan="1">2.69 (1.32, 5.49)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.007<xref ref-type="table-fn" rid="t002fn003">**</xref></td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">
+                                        <bold>Comorbidity (ref. never)</bold>
+                                    </td>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                    <td align="center" rowspan="1" colspan="1"/>
+                                    <td align="left" rowspan="1" colspan="1"/>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Diagnosed with diabetes, ever&#x000a0;</td>
+                                    <td align="left" rowspan="1" colspan="1">3.41 (1.75, 6.65)</td>
+                                    <td align="center" rowspan="1" colspan="1">&#x0003c;0.001<xref ref-type="table-fn" rid="t002fn004">***</xref></td>
+                                    <td align="left" rowspan="1" colspan="1">5.02 (2.35, 10.71)</td>
+                                    <td align="center" rowspan="1" colspan="1">&#x0003c;0.001<xref ref-type="table-fn" rid="t002fn004">***</xref></td>
+                                </tr>
+                                <tr>
+                                    <td align="left" rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;&#x000a0;Diagnosed with HCV, ever&#x000a0;</td>
+                                    <td align="left" rowspan="1" colspan="1">3.30 (0.95, 11.42)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.059</td>
+                                    <td align="left" rowspan="1" colspan="1">4.28 (0.85, 21.57)</td>
+                                    <td align="center" rowspan="1" colspan="1">0.077</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </alternatives>
+                    <table-wrap-foot>
+                        <fn id="t002fn001">
+                            <p>Notes. HCV: Hepatitis C virus</p>
+                        </fn>
+                        <fn id="t002fn002">
+                            <p>* <italic>p</italic>&#x0003c;0.05</p>
+                        </fn>
+                        <fn id="t002fn003">
+                            <p>** <italic>p</italic>&#x0003c;0.01</p>
+                        </fn>
+                        <fn id="t002fn004">
+                            <p>*** <italic>p</italic>&#x0003c;0.001</p>
+                        </fn>
+                        <fn id="t002fn005">
+                            <p>
+                                <sup>&#x000a7;</sup> as measured by the CAGE.</p>
+                        </fn>
+                    </table-wrap-foot>
+                </table-wrap>
+            </sec>
+        </sec>
+        <sec sec-type="conclusions" id="sec018">
+            <title>Discussion</title>
+            <p>This study provides insight on subpopulations associated with smear positivity. The proportion of smear-positive participants among the incident TB-positive population was low (34.3%). Men, those with diabetes, a history of incarceration, or alcohol dependency have significantly higher odds of smear-positive test results compared to other populations. Those who utilized healthcare services in Almaty city had significantly higher odds of testing smear-positive when compared to those in other study regions.</p>
+            <p>Previous research has identified several risk factors that are significant for acquiring active TB, including diabetes[<xref rid="pone.0172942.ref025" ref-type="bibr">25</xref>, <xref rid="pone.0172942.ref026" ref-type="bibr">26</xref>], alcohol abuse[<xref rid="pone.0172942.ref005" ref-type="bibr">5</xref>, <xref rid="pone.0172942.ref027" ref-type="bibr">27</xref>, <xref rid="pone.0172942.ref028" ref-type="bibr">28</xref>], and a history of incarceration[<xref rid="pone.0172942.ref003" ref-type="bibr">3</xref>]. This work builds upon those findings by linking these determinants to increased infectiousness, as approximated by sputum smear positivity. Notably, those diagnosed with diabetes were found to have a 5-fold increase in odds of testing smear-positive. It is possible that increased infectiousness may occur as result of the reported correlation between diabetes and impaired host immunity to TB[<xref rid="pone.0172942.ref026" ref-type="bibr">26</xref>]. With 5% of the population currently diagnosed with diabetes, these individuals may significantly contribute to the burden of TB in Kazakhstan[<xref rid="pone.0172942.ref029" ref-type="bibr">29</xref>].</p>
+            <p>Strong associations between alcohol dependence and incarceration with smear positivity were observed and both have been previously linked to active TB [<xref rid="pone.0172942.ref003" ref-type="bibr">3</xref>, <xref rid="pone.0172942.ref006" ref-type="bibr">6</xref>, <xref rid="pone.0172942.ref021" ref-type="bibr">21</xref>, <xref rid="pone.0172942.ref027" ref-type="bibr">27</xref>, <xref rid="pone.0172942.ref028" ref-type="bibr">28</xref>]. Exploring TB transmission, due to close contact, confined spaced, and poor ventilation, transmission of TB in prisons is higher than those observed in the general population[<xref rid="pone.0172942.ref003" ref-type="bibr">3</xref>]. Providing routine TB screening and adequate treatment programs within prison systems may reduce overall TB rates and prevent community transmission[<xref rid="pone.0172942.ref003" ref-type="bibr">3</xref>]. TB burden follows a socio-economic status (SES) gradient, with the highest burden among economically underprivileged populations[<xref rid="pone.0172942.ref030" ref-type="bibr">30</xref>, <xref rid="pone.0172942.ref031" ref-type="bibr">31</xref>]. Participants in our study reported higher rates of unemployment (19.4%) as compared to the national census (5.0%)[<xref rid="pone.0172942.ref032" ref-type="bibr">32</xref>]. This may indicate that our study population experience higher rates of alcohol dependency, history of incarceration, or homelessness compared to the general population, as these factors often coincide with poverty. Together, these factors may partially explain the underlying association between low SES, TB risk, and smear positivity in Kazakhstan. Though TB diagnosis and treatment is free in Kazakhstan, these populations often don&#x02019;t seek care until their symptoms worsen[<xref rid="pone.0172942.ref033" ref-type="bibr">33</xref>]. This may result in a larger concentration of severe TB cases and increase the observed association between these risk factors and smear positivity in our study.</p>
+            <p>The utilization of healthcare services in the Almaty area, Kyzylorda, or Kostanay regions appear to be protective of smear positivity as compared to the use of services in Almaty city. The crude deleterious association between region shifts to a protective association once the independent effect of healthcare utilization (for which seeing a physician serves as a proxy) is considered. Urban settings have a higher burden of TB due to higher population density, crowded living and working conditions and lifestyle[<xref rid="pone.0172942.ref031" ref-type="bibr">31</xref>]. Kazakhstan population density is among the lowest in the world, especially in rural settings. Therefore, individuals in Almaty area, Kyzylorda, or Kostanay regions, which are generally rural settings, may have lower odds of smear-positive TB as a result of lower quality diagnostic services and healthcare utilization in rural areas.</p>
+            <p>Men have an almost 2-fold increase in odds of smear positivity as compared to women. Gendered differences in pulmonary-related health outcomes could be the result of physiological and immune system factors, epigenetics, and differential sociocultural exposure and reporting practices [<xref rid="pone.0172942.ref034" ref-type="bibr">34</xref>&#x02013;
+                <xref rid="pone.0172942.ref036" ref-type="bibr">36</xref>]. Specific to smear positivity, sputum volume and quality production do not appear to differ by gender [<xref rid="pone.0172942.ref037" ref-type="bibr">37</xref>]. However, gendered reporting differences exist with men receiving more clinical exams for similar coughs [<xref rid="pone.0172942.ref038" ref-type="bibr">38</xref>] and women reporting more coughs but less phlegm (for similar levels of pulmonary distress) [<xref rid="pone.0172942.ref039" ref-type="bibr">39</xref>, <xref rid="pone.0172942.ref040" ref-type="bibr">40</xref>], a key diagnostic criteria for TB clinical diagnostic algorithms used in Kazakhstan. Similar to regional variations, this potential decrease in phlegm reporting could lead to fewer sputum sample requests and subsequent smear testing and positivity results for women. Additional research into gender quality of clinical service differentials is needed to clarify this relationship and isolate the unique contribution of genetic, physiological and sociocultural factors.</p>
+            <p>The overall proportion of smear-positive participants among the TB-positive population was low (35%); and slightly lower than previously reported proportions (50%) [<xref rid="pone.0172942.ref041" ref-type="bibr">41</xref>]. This may indicate poor quality sputum sample collection or inadequate test performance by healthcare workers, both of which heavily affects sputum smear microscopy sensitivity[<xref rid="pone.0172942.ref041" ref-type="bibr">41</xref>]. High rates of TB case notification are observed in rural settings, but these populations have significantly lower odds of testing smear-positive. TB case notification rates in Kyzylorda (110.5/100,000) and Kostanay (108.1/100,000) have been reported to be higher than those in Almaty (49.8/100,000)[<xref rid="pone.0172942.ref012" ref-type="bibr">12</xref>]. This may be due to lack of access to accurate and rapid diagnostics tests and reliance of symptom-based diagnosis in rural areas. The utilization of a rapid and sensitive test, like the WHO-recommended Cepheid GeneXpert, may improve the detection and treatment of TB in smear-negative cases while preventing unnecessary risk to patients and conserving resources due to misdiagnosis[<xref rid="pone.0172942.ref042" ref-type="bibr">42</xref>].</p>
+            <p>There are several limitations to our study. First, TB-positive cases were identified and diagnosed clinically based on symptoms and were unconfirmed by culture, the current diagnostic gold standard for TB. Observed positive associations could be biased towards the null hypothesis, as these TB-negative smear-negative cases would mask true associations. Protective associations, like rural settings, may appear larger than the true effect. Second, unlike previous work[<xref rid="pone.0172942.ref006" ref-type="bibr">6</xref>], this study did not find associations between smear positivity and smoking, drug use, or HIV in our final adjusted model, perhaps owing to our limited sample size (based on geographic and temporal constraints). Our study population also had very low rates of drug use and HIV, which may have prevented us from observing any significant associations. Third, study population was limited to those with access to Kazakhstan&#x02019;s NTP and who met our inclusion criteria, thus excluding all incident TB-positive patients living alone or without access to TB care. Fourth, the majority of the findings are based on self-report data and open to potential recall and reporting biases. We have found no evidence to suggest that either under or over-reporting of these factors is systematically related to smear positivity status, something many participants may not even be aware of, thus we do not believe that it systematically altered our findings or interpretations.</p>
+        </sec>
+        <sec sec-type="conclusions" id="sec019">
+            <title>Conclusions</title>
+            <p>The persistence of TB in Kazakhstan suggests the need to expand control efforts to address individual and social determinants of the disease. In our study, men, individuals with diabetes, abuse alcohol, and were incarcerated are at higher odds of testing smear-positive. Active case finding and targeted interventions focused on screening and treating these groups may considerably help reduce the transmission of TB. Integrating TB screening and treatment services with other established health services, like diabetes care, alcohol rehabilitation services, or prisons could greatly improve TB detection rates and treatment adherence and outcomes. Further studies are needed to determine the contribution of smear-negative TB-positive individuals to the spread of the disease in Kazakhstan. Additional studies should be conducted to determine whether interventions specific for populations identified in this study could significantly reduce the spread of TB.</p>
+        </sec>
+    </body>
+    <back>
+        <ack>
+            <p>
+                <bold>Additional contributions:</bold> The authors would like to thank all project staff members who so kindly provided their time and efforts in recruitment, data collection, and project implementation; and all study participants who shared their time with us.</p>
+        </ack>
+        <ref-list>
+            <title>References</title>
+            <ref id="pone.0172942.ref001">
+                <label>1</label>
+                <mixed-citation publication-type="other">(WHO) WHO. Global Tuberculosis Report 2014. Geneva: 2014.</mixed-citation>
+            </ref>
+            <ref id="pone.0172942.ref002">
+                <label>2</label>
+                <mixed-citation publication-type="other">(WHO) WHO. Tuberculosis country work summary: Kazakhstan. Geneva: 2011.</mixed-citation>
+            </ref>
+            <ref id="pone.0172942.ref003">
+                <label>3</label>
+                <mixed-citation publication-type="journal">
+                    <name>
+                        <surname>Baussano</surname>
+                        <given-names>I</given-names>
+                    </name>, <name>
+                        <surname>Williams</surname>
+                        <given-names>BG</given-names>
+                    </name>, <name>
+                        <surname>Nunn</surname>
+                        <given-names>P</given-names>
+                    </name>, <name>
+                        <surname>Beggiato</surname>
+                        <given-names>M</given-names>
+                    </name>, <name>
+                        <surname>Fedeli</surname>
+                        <given-names>U</given-names>
+                    </name>, <name>
+                        <surname>Scano</surname>
+                        <given-names>F</given-names>
+                    </name>. <article-title>Tuberculosis incidence in prisons: a systematic review</article-title>. <source>PLoS medicine</source>. <year>2010</year>;<volume>7</volume>(<issue>12</issue>):<fpage>e1000381</fpage>-e. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pmed.1000381">10.1371/journal.pmed.1000381</ext-link></comment>
+<pub-id pub-id-type="pmid">21203587</pub-id></mixed-citation></ref><ref id="pone.0172942.ref004"><label>4</label><mixed-citation publication-type="journal"><name><surname>Bates</surname><given-names>MN</given-names></name>, <name><surname>Khalakdina</surname><given-names>A</given-names></name>, <name><surname>Pai</surname><given-names>M</given-names></name>, <name><surname>Chang</surname><given-names>L</given-names></name>, <name><surname>Lessa</surname><given-names>F</given-names></name>, <name><surname>Smith</surname><given-names>KR</given-names></name>. <article-title>Risk of Tuberculosis From Exposure to Tobacco Smoke: A Systematic Review and Meta-analysis</article-title>. <source>Arch Intern Med</source>. <year>2015</year>;<volume>167</volume>:<fpage>335</fpage>&#x02013;<lpage>42</lpage>.</mixed-citation></ref><ref id="pone.0172942.ref005"><label>5</label><mixed-citation publication-type="journal"><name><surname>Kuznetsov</surname><given-names>VN</given-names></name>, <name><surname>Shelygin</surname><given-names>KV</given-names></name>, <name><surname>Grjibovski</surname><given-names>aM</given-names></name>, <name><surname>Mariandyshev</surname><given-names>aO</given-names></name>, <name><surname>Johansson</surname><given-names>E</given-names></name>, <name><surname>Bjune</surname><given-names>Ga</given-names></name>. <article-title>Incidence of Tuberculosis and Associations with Indicators of Alcohol Consumption in Three Regions of Northwest Russia in 1975&#x02013;2009: A Time-Series Analysis</article-title>. <source>Journal of Environmental and Public Health</source>. <year>2013</year>;<volume>2013</volume>:<fpage>1</fpage>&#x02013;<lpage>5</lpage>.</mixed-citation></ref><ref id="pone.0172942.ref006"><label>6</label><mixed-citation publication-type="journal"><name><surname>Hermosilla</surname><given-names>S</given-names></name>, <name><surname>El-Bassel</surname><given-names>N</given-names></name>, <name><surname>Aifah</surname><given-names>A</given-names></name>, <name><surname>Terlikbayeva</surname><given-names>A</given-names></name>, <name><surname>Zhumadilov</surname><given-names>Z</given-names></name>, <name><surname>Berikhanova</surname><given-names>K</given-names></name>, <etal>et al</etal>
+<article-title>Tuberculosis report among injection drug users and their partners in Kazakhstan</article-title>. <source>Public Health</source>. <year>2014</year>.</mixed-citation></ref><ref id="pone.0172942.ref007"><label>7</label><mixed-citation publication-type="journal"><name><surname>Grenfell</surname><given-names>P</given-names></name>, <name><surname>Baptista Leite</surname><given-names>R</given-names></name>, <name><surname>Garfein</surname><given-names>R</given-names></name>, <name><surname>de Lussigny</surname><given-names>S</given-names></name>, <name><surname>Platt</surname><given-names>L</given-names></name>, <name><surname>Rhodes</surname><given-names>T</given-names></name>. <article-title>Tuberculosis, injecting drug use and integrated HIV-TB care: a review of the literature</article-title>. <source>Drug Alcohol Depend</source>. <year>2013</year>;<volume>129</volume>(<issue>3</issue>):<fpage>180</fpage>&#x02013;<lpage>209</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.drugalcdep.2012.11.013">10.1016/j.drugalcdep.2012.11.013</ext-link></comment>
+<pub-id pub-id-type="pmid">23306095</pub-id></mixed-citation></ref><ref id="pone.0172942.ref008"><label>8</label><mixed-citation publication-type="journal"><name><surname>Chien</surname><given-names>JY</given-names></name>, <name><surname>Huang</surname><given-names>RM</given-names></name>, <name><surname>Wang</surname><given-names>JY</given-names></name>, <name><surname>Ruan</surname><given-names>SY</given-names></name>, <name><surname>Chien</surname><given-names>YJ</given-names></name>, <name><surname>Yu</surname><given-names>CJ</given-names></name>, <etal>et al</etal>
+<article-title>Hepatitis C virus infection increases hepatitis risk during anti-tuberculosis treatment</article-title>. <source>Int J Tuberc Lung Dis</source>. <year>2010</year>;<volume>14</volume>(<issue>5</issue>):<fpage>616</fpage>&#x02013;<lpage>21</lpage>. <pub-id pub-id-type="pmid">20392356</pub-id></mixed-citation></ref><ref id="pone.0172942.ref009"><label>9</label><mixed-citation publication-type="journal"><name><surname>Reis</surname><given-names>NR</given-names></name>, <name><surname>Lopes</surname><given-names>CL</given-names></name>, <name><surname>Teles</surname><given-names>SA</given-names></name>, <name><surname>Matos</surname><given-names>MA</given-names></name>, <name><surname>Carneiro</surname><given-names>MA</given-names></name>, <name><surname>Marinho</surname><given-names>TA</given-names></name>, <etal>et al</etal>
+<article-title>Hepatitis C virus infection in patients with tuberculosis in Central Brazil</article-title>. <source>Int J Tuberc Lung Dis</source>. <year>2011</year>;<volume>15</volume>(<issue>10</issue>):<fpage>1397</fpage>&#x02013;<lpage>402</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5588/ijtld.10.0636">10.5588/ijtld.10.0636</ext-link></comment>
+<pub-id pub-id-type="pmid">22283901</pub-id></mixed-citation></ref><ref id="pone.0172942.ref010"><label>10</label><mixed-citation publication-type="journal"><name><surname>El-Bassel</surname><given-names>N</given-names></name>, <name><surname>Gilbert</surname><given-names>L</given-names></name>, <name><surname>Terlikbayeva</surname><given-names>A</given-names></name>, <name><surname>Wu</surname><given-names>E</given-names></name>, <name><surname>Beyrer</surname><given-names>C</given-names></name>, <name><surname>Shaw</surname><given-names>S</given-names></name>, <etal>et al</etal>
+<article-title>HIV among injection drug users and their intimate partners in Almaty, Kazakhstan</article-title>. <source>AIDS Behav</source>. <year>2013</year>;<volume>17</volume>(<issue>7</issue>):<fpage>2490</fpage>&#x02013;<lpage>500</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s10461-013-0484-2">10.1007/s10461-013-0484-2</ext-link></comment>
+<pub-id pub-id-type="pmid">23612942</pub-id></mixed-citation></ref><ref id="pone.0172942.ref011"><label>11</label><mixed-citation publication-type="journal"><name><surname>Doherty</surname><given-names>AM</given-names></name>, <name><surname>Kelly</surname><given-names>J</given-names></name>, <name><surname>McDonald</surname><given-names>C</given-names></name>, <name><surname>O'Dywer</surname><given-names>AM</given-names></name>, <name><surname>Keane</surname><given-names>J</given-names></name>, <name><surname>Cooney</surname><given-names>J</given-names></name>. <article-title>A review of the interplay between tuberculosis and mental health</article-title>. <source>Gen Hosp Psychiatry</source>. <year>2013</year>;<volume>35</volume>(<issue>4</issue>):<fpage>398</fpage>&#x02013;<lpage>406</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.genhosppsych.2013.03.018">10.1016/j.genhosppsych.2013.03.018</ext-link></comment>
+<pub-id pub-id-type="pmid">23660587</pub-id></mixed-citation></ref><ref id="pone.0172942.ref012"><label>12</label><mixed-citation publication-type="journal"><name><surname>Terlikbayeva</surname><given-names>A</given-names></name>, <name><surname>Hermosilla</surname><given-names>S</given-names></name>, <name><surname>Galea</surname><given-names>S</given-names></name>, <name><surname>Schluger</surname><given-names>N</given-names></name>, <name><surname>Yegeubayeva</surname><given-names>S</given-names></name>, <name><surname>Abildayev</surname><given-names>T</given-names></name>, <etal>et al</etal>
+<article-title>Tuberculosis in Kazakhstan: analysis of risk determinants in national surveillance data</article-title>. <source>BMC infectious diseases</source>. <year>2012</year>;<volume>12</volume>:<fpage>262</fpage>
+<comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1186/1471-2334-12-262">10.1186/1471-2334-12-262</ext-link></comment>
+<pub-id pub-id-type="pmid">23075260</pub-id></mixed-citation></ref><ref id="pone.0172942.ref013"><label>13</label><mixed-citation publication-type="other">Steingart KR, Ng V, Henry M, Hopewell PC, Ramsay A, Cunningham J, et al. Sputum processing methods to improve the sensitivity of smear microscopy for tuberculosis: a systematic review. 2006;6(October).</mixed-citation></ref><ref id="pone.0172942.ref014"><label>14</label><mixed-citation publication-type="journal"><name><surname>Behr</surname><given-names>M</given-names></name>, <name><surname>Warren</surname><given-names>S</given-names></name>, <name><surname>Salamon</surname><given-names>H</given-names></name>, <name><surname>Hopewell</surname><given-names>P</given-names></name>, <name><surname>de Leon</surname><given-names>aP</given-names></name>, <name><surname>Daley</surname><given-names>C</given-names></name>, <etal>et al</etal>
+<article-title>Transmission of Mycobacterium tuberculosis from patients smear-negative for acid-fast bacilli</article-title>. <source>The Lancet</source>. <year>1999</year>;<volume>353</volume>(<issue>9151</issue>):<fpage>444</fpage>&#x02013;<lpage>9</lpage>.</mixed-citation></ref><ref id="pone.0172942.ref015"><label>15</label><mixed-citation publication-type="journal"><name><surname>Bumburidi</surname><given-names>E</given-names></name>, <name><surname>Ajeilat</surname><given-names>S</given-names></name>, <name><surname>Dadu</surname><given-names>A</given-names></name>, <name><surname>Aitmagambetova</surname><given-names>I</given-names></name>, <name><surname>Ershova</surname><given-names>J</given-names></name>, <name><surname>Fagan</surname><given-names>R</given-names></name>, <etal>et al</etal>
+<article-title>Progress towards tuberculosis control and determinants of treatment outcomes: Kazakhstan 2000&#x02013;2002</article-title>. <source>Morbidity and Mortality Weekly Report</source>. <year>2006</year>;<volume>55</volume>:<fpage>S11</fpage>&#x02013;<lpage>S5</lpage>.</mixed-citation></ref><ref id="pone.0172942.ref016"><label>16</label><mixed-citation publication-type="journal"><name><surname>Van Den Hof</surname><given-names>S</given-names></name>, <name><surname>Tursynbayeva</surname><given-names>A</given-names></name>, <name><surname>Abildaev</surname><given-names>T</given-names></name>, <name><surname>Adenov</surname><given-names>M</given-names></name>, <name><surname>Pak</surname><given-names>S</given-names></name>, <name><surname>Bekembayeva</surname><given-names>G</given-names></name>, <etal>et al</etal>
+<article-title>Converging risk factors but no association between HIV infection and multidrug-resistant tuberculosis in Kazakhstan</article-title>. <source>The International Journal of Tuberculosis and Lung Disease</source>. <year>2013</year>;<volume>17</volume>(<issue>4</issue>):<fpage>526</fpage>&#x02013;<lpage>31</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5588/ijtld.12.0703">10.5588/ijtld.12.0703</ext-link></comment>
+<pub-id pub-id-type="pmid">23485387</pub-id></mixed-citation></ref><ref id="pone.0172942.ref017"><label>17</label><mixed-citation publication-type="journal"><name><surname>Perkins</surname><given-names>MD</given-names></name>, <name><surname>Cunningham</surname><given-names>J</given-names></name>. <article-title>Facing the crisis: improving the diagnosis of tuberculosis in the HIV era</article-title>. <source>Journal of Infectious Diseases</source>. <year>2007</year>;<volume>196</volume>(<issue>Supplement 1</issue>):<fpage>S15</fpage>&#x02013;<lpage>S27</lpage>.<pub-id pub-id-type="pmid">17624822</pub-id></mixed-citation></ref><ref id="pone.0172942.ref018"><label>18</label><mixed-citation publication-type="journal"><name><surname>Rouillon</surname><given-names>A</given-names></name>, <name><surname>Perdrizet</surname><given-names>S</given-names></name>, <name><surname>Parrot</surname><given-names>R</given-names></name>. <article-title>Transmission of tubercle bacilli: the effects of chemotherapy</article-title>. <source>Tubercle</source>. <year>1976</year>;<volume>57</volume>(<issue>4</issue>):<fpage>275</fpage>&#x02013;<lpage>99</lpage>. <pub-id pub-id-type="pmid">827837</pub-id></mixed-citation></ref><ref id="pone.0172942.ref019"><label>19</label><mixed-citation publication-type="other">Lombardi G, Monte PD, Denicol&#x000f2; A, Tadolini M, Martelli G, Letizia M, et al. Trend of microbiologically-confirmed tuberculosis in a low-incidence setting with high immigration rates. 2014:14&#x02013;9.</mixed-citation></ref><ref id="pone.0172942.ref020"><label>20</label><mixed-citation publication-type="other">Ministry of Health National Center of T. Guidelines on Tuberculosis Control in Republic of Kazakhstan. 2008.</mixed-citation></ref><ref id="pone.0172942.ref021"><label>21</label><mixed-citation publication-type="journal"><name><surname>Wan</surname><given-names>TTH</given-names></name>, <name><surname>Chukmaitov</surname><given-names>A</given-names></name>. <article-title>Social capital and use of folk and herbal medicine by older women in Almaty, Kazakhstan</article-title>. <source>International Journal of Public Policy</source>. <year>2007</year>;<volume>2.3</volume>(<issue>4</issue>):<fpage>217</fpage>&#x02013;<lpage>34</lpage>.</mixed-citation></ref><ref id="pone.0172942.ref022"><label>22</label><mixed-citation publication-type="journal"><name><surname>Kitchens</surname><given-names>JM</given-names></name>. <article-title>Does This Patient Have an Alcohol Problem?</article-title>
+<source>JAMA: the journal of the American Medical Association</source>. <year>1994</year>;<volume>272</volume>(<issue>22</issue>):<fpage>1782</fpage>&#x02013;<lpage>7</lpage>. <pub-id pub-id-type="pmid">7966928</pub-id></mixed-citation></ref><ref id="pone.0172942.ref023"><label>23</label><mixed-citation publication-type="book"><name><surname>DeRogatis</surname><given-names>L</given-names></name>. <source>The Brief Symptom Inventory (BSI): Administration, scoring and procedures manual</source>. <edition>3rd ed.</edition> ed. <publisher-loc>Minneapolis</publisher-loc>: <publisher-name>National Computer System</publisher-name>; <year>1993</year>.</mixed-citation></ref><ref id="pone.0172942.ref024"><label>24</label><mixed-citation publication-type="other">(UNICEF) UNCsF. Statistics | Kazakhstan | UNICEF [cited 2016 September 10, 2016]. Available from: <ext-link ext-link-type="uri" xlink:href="http://www.unicef.org/infobycountry/kazakhstan_statistics.html">http://www.unicef.org/infobycountry/kazakhstan_statistics.html</ext-link>.</mixed-citation></ref><ref id="pone.0172942.ref025"><label>25</label><mixed-citation publication-type="journal"><name><surname>Jim&#x000e9;nez-Corona</surname><given-names>ME</given-names></name>, <name><surname>Cruz-Hervert</surname><given-names>LP</given-names></name>, <name><surname>Garc&#x000ed;a-Garc&#x000ed;a</surname><given-names>L</given-names></name>, <name><surname>Ferreyra-Reyes</surname><given-names>L</given-names></name>, <name><surname>Delgado-S&#x000e1;nchez</surname><given-names>G</given-names></name>, <name><surname>Bobadilla-Del-Valle</surname><given-names>M</given-names></name>, <etal>et al</etal>
+<article-title>Association of diabetes and tuberculosis: impact on treatment and post-treatment outcomes</article-title>. <source>Thorax</source>. <year>2013</year>;<volume>68</volume>(<issue>3</issue>):<fpage>214</fpage>&#x02013;<lpage>20</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1136/thoraxjnl-2012-201756">10.1136/thoraxjnl-2012-201756</ext-link></comment>
+<pub-id pub-id-type="pmid">23250998</pub-id></mixed-citation></ref><ref id="pone.0172942.ref026"><label>26</label><mixed-citation publication-type="journal"><name><surname>Jeon</surname><given-names>CY</given-names></name>, <name><surname>Murray</surname><given-names>MB</given-names></name>. <article-title>Diabetes mellitus increases the risk of active tuberculosis: a systematic review of 13 observational studies</article-title>. <source>PLoS medicine</source>. <year>2008</year>;<volume>5</volume>(<issue>7</issue>):<fpage>e152</fpage>-e. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pmed.0050152">10.1371/journal.pmed.0050152</ext-link></comment>
+<pub-id pub-id-type="pmid">18630984</pub-id></mixed-citation></ref><ref id="pone.0172942.ref027"><label>27</label><mixed-citation publication-type="other">Yohanes A, Abera S, Ali S. Smear positive pulmonary tuberculosis among suspected patients attending metehara sugar factory hospital; eastern Ethiopia Correspondence author. 2011:325&#x02013;30.</mixed-citation></ref><ref id="pone.0172942.ref028"><label>28</label><mixed-citation publication-type="journal"><name><surname>Volkmann</surname><given-names>T</given-names></name>, <name><surname>Moonan</surname><given-names>PK</given-names></name>, <name><surname>Miramontes</surname><given-names>R</given-names></name>, <name><surname>Oeltmann</surname><given-names>JE</given-names></name>. <article-title>Tuberculosis and excess alcohol use in the United States, 1997&#x02013;2012</article-title>. <source>international Journal of Tuberculosis anf Lung Disease</source>. <year>2015</year>;<volume>19</volume>(August 2014):<fpage>111</fpage>&#x02013;<lpage>9</lpage>.</mixed-citation></ref><ref id="pone.0172942.ref029"><label>29</label><mixed-citation publication-type="other">Diabetes Atlas. 2014.</mixed-citation></ref><ref id="pone.0172942.ref030"><label>30</label><mixed-citation publication-type="other">Andrews JR, Basu S, Dowdy DW, Murray MB. The epidemiological advantage of preferential targeting of tuberculosis control at the poor. 2015;19(November 2014):375&#x02013;80.</mixed-citation></ref><ref id="pone.0172942.ref031"><label>31</label><mixed-citation publication-type="journal"><name><surname>L&#x000f6;nnroth</surname><given-names>K</given-names></name>, <name><surname>Jaramillo</surname><given-names>E</given-names></name>, <name><surname>Williams</surname><given-names>BG</given-names></name>, <name><surname>Dye</surname><given-names>C</given-names></name>, <name><surname>Raviglione</surname><given-names>M</given-names></name>. <article-title>Drivers of tuberculosis epidemics: the role of risk factors and social determinants</article-title>. <source>Social science &#x00026; medicine (1982)</source>. <year>2009</year>;<volume>68</volume>(<issue>12</issue>):<fpage>2240</fpage>&#x02013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">19394122</pub-id></mixed-citation></ref><ref id="pone.0172942.ref032"><label>32</label><mixed-citation publication-type="other">Kazakhstan. Kazakhstan AosotRo. 2015.</mixed-citation></ref><ref id="pone.0172942.ref033"><label>33</label><mixed-citation publication-type="journal"><name><surname>Storla</surname><given-names>DG</given-names></name>, <name><surname>Yimer</surname><given-names>S</given-names></name>, <name><surname>Bjune</surname><given-names>GA</given-names></name>. <article-title>A systematic review of delay in the diagnosis and treatment of tuberculosis</article-title>. <source>BMC public health</source>. <year>2008</year>;<volume>8</volume>:<fpage>15</fpage>-. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1186/1471-2458-8-15">10.1186/1471-2458-8-15</ext-link></comment>
+<pub-id pub-id-type="pmid">18194573</pub-id></mixed-citation></ref><ref id="pone.0172942.ref034"><label>34</label><mixed-citation publication-type="journal"><name><surname>Maric-Bilkan</surname><given-names>C</given-names></name>, <name><surname>Arnold</surname><given-names>AP</given-names></name>, <name><surname>Taylor</surname><given-names>DA</given-names></name>, <name><surname>Dwinell</surname><given-names>M</given-names></name>, <name><surname>Howlett</surname><given-names>SE</given-names></name>, <name><surname>Wenger</surname><given-names>N</given-names></name>, <etal>et al</etal>
+<article-title>Report of the National Heart, Lung, and Blood Institute Working Group on Sex Differences Research in Cardiovascular Disease: Scientific Questions and Challenges</article-title>. <source>Hypertension</source>. <year>2016</year>;<volume>67</volume>(<issue>5</issue>):<fpage>802</fpage>&#x02013;<lpage>7</lpage>. PubMed Central PMCID: PMCPMC4833564. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1161/HYPERTENSIONAHA.115.06967">10.1161/HYPERTENSIONAHA.115.06967</ext-link></comment>
+<pub-id pub-id-type="pmid">26975706</pub-id></mixed-citation></ref><ref id="pone.0172942.ref035"><label>35</label><mixed-citation publication-type="journal"><name><surname>Kocurek</surname><given-names>EG</given-names></name>, <name><surname>Hemnes</surname><given-names>AR</given-names></name>. <article-title>Women's Health and Lung Development and Disease</article-title>. <source>Obstet Gynecol Clin North Am</source>. <year>2016</year>;<volume>43</volume>(<issue>2</issue>):<fpage>307</fpage>&#x02013;<lpage>23</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ogc.2016.01.003">10.1016/j.ogc.2016.01.003</ext-link></comment>
+<pub-id pub-id-type="pmid">27212094</pub-id></mixed-citation></ref><ref id="pone.0172942.ref036"><label>36</label><mixed-citation publication-type="journal"><name><surname>Hudelson</surname><given-names>P</given-names></name>. <article-title>Gender differentials in tuberculosis: the role of socio-economic and cultural factors</article-title>. <source>Tubercle and lung disease</source>. <year>1996</year>;<volume>77</volume>(<issue>5</issue>):<fpage>391</fpage>&#x02013;<lpage>400</lpage>. <pub-id pub-id-type="pmid">8959141</pub-id></mixed-citation></ref><ref id="pone.0172942.ref037"><label>37</label><mixed-citation publication-type="journal"><name><surname>Boum</surname><given-names>Y</given-names><suffix>2nd</suffix></name>, <name><surname>Atwine</surname><given-names>D</given-names></name>, <name><surname>Orikiriza</surname><given-names>P</given-names></name>, <name><surname>Assimwe</surname><given-names>J</given-names></name>, <name><surname>Page</surname><given-names>AL</given-names></name>, <name><surname>Mwanga-Amumpaire</surname><given-names>J</given-names></name>, <etal>et al</etal>
+<article-title>Male Gender is independently associated with pulmonary tuberculosis among sputum and non-sputum producers people with presumptive tuberculosis in Southwestern Uganda</article-title>. <source>BMC Infect Dis</source>. <year>2014</year>;<volume>14</volume>:<fpage>638</fpage> PubMed Central PMCID: PMCPMC4265338. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1186/s12879-014-0638-5">10.1186/s12879-014-0638-5</ext-link></comment>
+<pub-id pub-id-type="pmid">25492725</pub-id></mixed-citation></ref><ref id="pone.0172942.ref038"><label>38</label><mixed-citation publication-type="journal"><name><surname>Thorson</surname><given-names>A</given-names></name>, <name><surname>Diwan</surname><given-names>VK</given-names></name>. <article-title>Gender inequalities in tuberculosis: aspects of infection, notification rates, and compliance</article-title>. <source>Current opinion in pulmonary medicine</source>. <year>2001</year>;<volume>7</volume>(<issue>3</issue>):<fpage>165</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="pmid">11371773</pub-id></mixed-citation></ref><ref id="pone.0172942.ref039"><label>39</label><mixed-citation publication-type="journal"><name><surname>Lamprecht</surname><given-names>B</given-names></name>, <name><surname>Vanfleteren</surname><given-names>LE</given-names></name>, <name><surname>Studnicka</surname><given-names>M</given-names></name>, <name><surname>Allison</surname><given-names>M</given-names></name>, <name><surname>McBurnie</surname><given-names>MA</given-names></name>, <name><surname>Vollmer</surname><given-names>WM</given-names></name>, <etal>et al</etal>
+<article-title>Sex-related differences in respiratory symptoms: results from the BOLD Study</article-title>. <source>Eur Respir J</source>. <year>2013</year>;<volume>42</volume>(<issue>3</issue>):<fpage>858</fpage>&#x02013;<lpage>60</lpage>. PubMed Central PMCID: PMCPMC3759301. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1183/09031936.00047613">10.1183/09031936.00047613</ext-link></comment>
+<pub-id pub-id-type="pmid">24000253</pub-id></mixed-citation></ref><ref id="pone.0172942.ref040"><label>40</label><mixed-citation publication-type="journal"><name><surname>Kapustina</surname><given-names>V</given-names></name>, <name><surname>Ovcharenko</surname><given-names>S</given-names></name>. <article-title>Gender differences in COPD patients</article-title>. <source>European Respiratory Journal</source>. <year>2014</year>;<volume>44</volume>(<issue>Suppl 58</issue>):<fpage>P3574</fpage>.</mixed-citation></ref><ref id="pone.0172942.ref041"><label>41</label><mixed-citation publication-type="journal"><name><surname>Sakundarno</surname><given-names>M</given-names></name>, <name><surname>Nurjazuli</surname><given-names>N</given-names></name>, <name><surname>Jati</surname><given-names>S</given-names></name>, <name><surname>Sariningdyah</surname><given-names>R</given-names></name>, <name><surname>Purwadi</surname><given-names>S</given-names></name>, <name><surname>Alisjahbana</surname><given-names>B</given-names></name>, <etal>et al</etal>
+<article-title>Insufficient quality of sputum submitted for tuberculosis diagnosis and associated factors, in Klaten district, Indonesia</article-title>. <source>BMC Pulmonary Medicine</source>. <year>2009</year>;<volume>9</volume>(<issue>1</issue>):<fpage>16</fpage>-.<pub-id pub-id-type="pmid">19426477</pub-id></mixed-citation></ref><ref id="pone.0172942.ref042"><label>42</label><mixed-citation publication-type="journal"><name><surname>Boehme</surname><given-names>CC</given-names></name>, <name><surname>Nicol</surname><given-names>MP</given-names></name>, <name><surname>Nabeta</surname><given-names>P</given-names></name>, <name><surname>Michael</surname><given-names>JS</given-names></name>, <name><surname>Gotuzzo</surname><given-names>E</given-names></name>, <name><surname>Tahirli</surname><given-names>R</given-names></name>, <etal>et al</etal>
+<article-title>Feasibility, diagnostic accuracy, and effectiveness of decentralised use of the Xpert MTB/RIF test for diagnosis of tuberculosis and multidrug resistance: a multicentre implementation study</article-title>. <source>Lancet</source>. <year>2011</year>;<volume>377</volume>(<issue>9776</issue>):<fpage>1495</fpage>&#x02013;<lpage>505</lpage>. <comment>doi: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0140-6736(11)60438-8">10.1016/S0140-6736(11)60438-8</ext-link></comment>
+<pub-id pub-id-type="pmid">21507477</pub-id></mixed-citation></ref></ref-list></back></article>

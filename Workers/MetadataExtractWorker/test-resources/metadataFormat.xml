@@ -1,0 +1,111 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<harvest>
+<?xml-stylesheet type='text/xsl' href='/oai2.xsl' ?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2017-05-20T03:28:43Z</responseDate>
+  <request verb="Identify">http://oro.open.ac.uk/cgi/oai2</request>
+  <Identify>
+    <repositoryName>Open Research Online</repositoryName>
+    <baseURL>http://oro.open.ac.uk/cgi/oai2</baseURL>
+    <protocolVersion>2.0</protocolVersion>
+    <adminEmail>library-research-support@open.ac.uk</adminEmail>
+    <earliestDatestamp>2017-04-14T22:15:25Z</earliestDatestamp>
+    <deletedRecord>persistent</deletedRecord>
+    <granularity>YYYY-MM-DDThh:mm:ssZ</granularity>
+    <description>
+      <oai-identifier xmlns="http://www.openarchives.org/OAI/2.0/oai-identifier" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai-identifier http://www.openarchives.org/OAI/2.0/oai-identifier.xsd">
+        <scheme>oai</scheme>
+        <repositoryIdentifier>oro.open.ac.uk</repositoryIdentifier>
+        <delimiter>:</delimiter>
+        <sampleIdentifier>oai:oro.open.ac.uk:43210</sampleIdentifier>
+      </oai-identifier>
+    </description>
+  </Identify>
+</OAI-PMH>
+<?xml-stylesheet type='text/xsl' href='/oai2.xsl' ?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2017-05-20T03:28:43Z</responseDate>
+  <request verb="ListMetadataFormats">http://oro.open.ac.uk/cgi/oai2</request>
+  <ListMetadataFormats>
+    <metadataFormat>
+      <metadataPrefix>didl</metadataPrefix>
+      <schema>http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-21_schema_files/did/didl.xsd</schema>
+      <metadataNamespace>urn:mpeg:mpeg21:2002:02-DIDL-NS</metadataNamespace>
+    </metadataFormat>
+    <metadataFormat>
+      <metadataPrefix>mets</metadataPrefix>
+      <schema>http://www.loc.gov/standards/mets/mets.xsd</schema>
+      <metadataNamespace>http://www.loc.gov/METS/</metadataNamespace>
+    </metadataFormat>
+    <metadataFormat>
+      <metadataPrefix>oai_bibl</metadataPrefix>
+      <schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</schema>
+      <metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</metadataNamespace>
+    </metadataFormat>
+    <metadataFormat>
+      <metadataPrefix>oai_dc</metadataPrefix>
+      <schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</schema>
+      <metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</metadataNamespace>
+    </metadataFormat>
+    <metadataFormat>
+      <metadataPrefix>rdf</metadataPrefix>
+      <schema>http://www.openarchives.org/OAI/2.0/rdf.xsd</schema>
+      <metadataNamespace>http://www.w3.org/1999/02/22-rdf-syntax-ns#</metadataNamespace>
+    </metadataFormat>
+    <metadataFormat>
+      <metadataPrefix>rioxx</metadataPrefix>
+      <schema>http://www.rioxx.net/schema/v2.0/rioxx/rioxx.xsd</schema>
+      <metadataNamespace>http://www.rioxx.net/schema/v2.0/rioxx/</metadataNamespace>
+    </metadataFormat>
+    <metadataFormat>
+      <metadataPrefix>uketd_dc</metadataPrefix>
+      <schema>http://naca.central.cranfield.ac.uk/ethos-oai/2.0/uketd_dc.xsd</schema>
+      <metadataNamespace>http://naca.central.cranfield.ac.uk/ethos-oai/2.0/</metadataNamespace>
+    </metadataFormat>
+  </ListMetadataFormats>
+</OAI-PMH>
+<?xml-stylesheet type='text/xsl' href='/oai2.xsl' ?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2017-05-20T03:28:43Z</responseDate>
+  <request verb="ListSets">http://oro.open.ac.uk/cgi/oai2</request>
+  <ListSets>
+    <set>
+      <setSpec>7374617475733D696E7072657373</setSpec>
+      <setName>Status = In Press</setName>
+    </set>
+    <set>
+      <setSpec>7374617475733D7375626D6974746564</setSpec>
+      <setName>Status = Submitted</setName>
+    </set>
+    <set>
+      <setSpec>7374617475733D707562</setSpec>
+      <setName>Status = Published</setName>
+    </set>
+    <set>
+      <setSpec>7374617475733D756E707562</setSpec>
+      <setName>Status = Unpublished</setName>
+    </set>
+  </ListSets>
+</OAI-PMH>
+<?xml-stylesheet type='text/xsl' href='/oai2.xsl' ?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2017-05-20T03:28:46Z</responseDate>
+  <request metadataPrefix="rioxx" verb="ListRecords">http://oro.open.ac.uk/cgi/oai2</request>
+  <ListRecords>
+    <record>
+    <header>
+      <identifier>oai:oro.open.ac.uk:43210</identifier>
+      <datestamp>2017-04-14T22:15:25Z</datestamp>
+      <setSpec>74797065733D636F6E666572656E63655F6974656D</setSpec></header>
+    <metadata>
+      <rioxx xmlns="http://www.rioxx.net/schema/v2.0/rioxx/" xmlns:ali="http://ali.niso.org/2014/ali/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rioxxterms="http://docs.rioxx.net/schema/v2.0/rioxxterms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.rioxx.net/schema/v2.0/rioxx/ http://www.rioxx.net/schema/v2.0/rioxx/rioxx.xsd"><ali:free_to_read/><ali:license_ref start_date="2015-06-10">http://creativecommons.org/licenses/by/4.0</ali:license_ref><dc:description>Researchers are taking repository download statistics more seriously than ever before, and are citing them in funding bids as evidence of previous impact. The repository staff are receiving more enquiries relating to download statistics as time goes on, so having the most accurate and reliable statistics available is becoming clear. Having them available in a way that requires the least intervention of repository staff would allow for more efficient dealings with other repository tasks, such as deposit review, etc.&#13;
+&#13;
+In this paper, I look at the issues faced with incorporating, into the repository, statistics from IRUS-UK (Institutional Repository Usage Statistics, UK based) – a JISC supported, centralized system which collates the download statistics for 75 UK repositories, ensuring better than COUNTER compliance. I also consider the choices to be made with regards to comparisons to locally derived statistics (IRStats2) and how to obtain and present them without overburdening the central system.&#13;
+&#13;
+Finally I look to what opportunities the near future may hold, with reference to my participation on the IRUS-UK community Advisory Group and the NISO SUSHI-Lite Working Group to establish a light-weight RESTful standard for SUSHI services and how these might be incorporated into the repository.</dc:description><dc:format>application/vnd.openxmlformats-officedocument.presentationml.presentation</dc:format><dc:identifier>http://oro.open.ac.uk/43210/1/OR2015%20Alan%20Stiles%20Wed%202015-06-10%20P5B.pptx</dc:identifier><dc:language>en</dc:language><dc:relation>https://www.conftool.com/or2015/index.php/Stiles-Incorporating_COUNTER_compliant_download_statistics_into_an_EPrints_repository-25_a.pptx?page=downloadPaper&amp;filename=Stiles-Incorporating_COUNTER_compliant_download_statistics_into_an_EPrints_repository-25_</dc:relation><dc:relation>https://www.conftool.com/or2015/index.php?page=browseSessions&amp;form_session=60</dc:relation><dc:source>OR2015:10th International Conference on Open Repositories</dc:source><dc:title>Incorporating IRUS-UK statistics into an EPrints repository</dc:title><dcterms:dateAccepted>2015-03-31</dcterms:dateAccepted><rioxxterms:author id="http://orcid.org/0000-0003-3343-1088">Stiles, Alan</rioxxterms:author><rioxxterms:publication_date>2015-06-10</rioxxterms:publication_date><rioxxterms:type>Conference Paper/Proceeding/Abstract</rioxxterms:type><rioxxterms:version>VoR</rioxxterms:version></rioxx></metadata></record>
+    <record>
+    <header>
+      <identifier>oai:oro.open.ac.uk:49226</identifier>
+      <datestamp>2017-05-04T17:06:11Z</datestamp>
+      <setSpec>74797065733D636F6E666572656E63655F6974656D</setSpec></header>
+    <metadata>
+      <rioxx xmlns="http://www.rioxx.net/schema/v2.0/rioxx/" xmlns:ali="http://ali.niso.org/2014/ali/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rioxxterms="http://docs.rioxx.net/schema/v2.0/rioxxterms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.rioxx.net/schema/v2.0/rioxx/ http://www.rioxx.net/schema/v2.0/rioxx/rioxx.xsd"><ali:free_to_read/><ali:license_ref start_date="2017-03">http://creativecommons.org/licenses/by-nc-nd/4.0</ali:license_ref><dc:description>Small (&lt;50 km) basaltic shield volcanoes are known on Earth, the Moon, Mars and Venus, but have not hitherto been positively identified on Mercury. A candidate on Mercury suggested but was subsequently shown not to be a constructional edifice and instead to be a compound volcanic vent that had acted as a source only for explosive volcanic eruptions. Here we introduce a good candidate for a small basaltic shield on Mercury, and a somewhat less convincing second candidate. Both are less than 10 km in diameter, and are situated towards the edges of lava-flooded impact basins, where one might expect to find volcanic structures.</dc:description><dc:format>application/pdf</dc:format><dc:identifier>http://oro.open.ac.uk/49226/1/LPSC_shields_FINAL.pdf</dc:identifier><dc:language>en</dc:language><dc:relation>https://www.hou.usra.edu/meetings/lpsc2017/</dc:relation><dc:source>48th Lunar and Planetary Science Conference</dc:source><dc:title>Volcanic shields on Mercury identified at last?</dc:title><dcterms:dateAccepted>2017-02-03</dcterms:dateAccepted><rioxxterms:author>Wright, J.</rioxxterms:author><rioxxterms:author id="http://orcid.org/0000-0002-9077-3167">Rothery, D. A.</rioxxterms:author><rioxxterms:author id="http://orcid.org/0000-0001-5871-7475">Balme, M. R.</rioxxterms:author><rioxxterms:author>Conway, S. J.</rioxxterms:author><rioxxterms:project funder_id="http://dx.doi.org/10.13039/501100000271" funder_name="Science and Technology Facilities Council">ST/N50421X/1</rioxxterms:project><rioxxterms:publication_date>2017-03</rioxxterms:publication_date><rioxxterms:type>Conference Paper/Proceeding/Abstract</rioxxterms:type><rioxxterms:version>AM</rioxxterms:version></rioxx></metadata></record>
+  </ListRecords>
+</OAI-PMH>
+</harvest>

@@ -1,0 +1,118 @@
+{
+  "settings": {
+    "number_of_shards": 8
+  },
+      "mappings": {
+        
+        "_doc": {
+          "properties": {
+            "data": {
+              "type":"nested",
+              "properties": {
+                "2012": {
+                  "type":"nested",
+                  "properties": {
+                    "dateText": {
+                      "type": "keyword"
+                    },
+                    "harvestedItems": {
+                      "type": "keyword"
+                    },
+                    "monthNumber": {
+                      "type": "keyword"
+                    }
+                  }
+                },
+                "2013": {
+                  "type":"nested",
+                  "properties": {
+                    "dateText": {
+                      "type": "keyword"
+                    },
+                    "harvestedItems": {
+                      "type": "keyword"
+                    },
+                    "monthNumber": {
+                      "type": "keyword"
+                    }
+                  }
+                },
+                "2014": {
+                  "type":"nested",
+                  "properties": {
+                    "dateText": {
+                      "type": "keyword"
+                    },
+                    "harvestedItems": {
+                      "type": "keyword"
+                    },
+                    "monthNumber": {
+                      "type": "keyword"
+                    }
+                  }
+                },
+                "2015": {
+                  "type":"nested",
+                  "properties": {
+                    "dateText": {
+                      "type": "keyword"
+                    },
+                    "harvestedItems": {
+                      "type": "keyword"
+                    },
+                    "monthNumber": {
+                      "type": "keyword"
+                    }
+                  }
+                },
+                "2016": {
+                  "type":"nested",
+                  "properties": {
+                    "dateText": {
+                      "type": "keyword"
+                    },
+                    "harvestedItems": {
+                      "type": "keyword"
+                    },
+                    "monthNumber": {
+                      "type": "keyword"
+                    }
+                  }
+                },
+                "2017": {
+                  "type":"nested",
+                  "properties": {
+                    "dateText": {
+                      "type": "keyword"
+                    },
+                    "harvestedItems": {
+                      "type": "keyword"
+                    },
+                    "monthNumber": {
+                      "type": "keyword"
+                    }
+                  }
+                },
+                "2018": {
+                  "type":"nested",
+                  "properties": {
+                    "dateText": {
+                      "type": "keyword"
+                    },
+                    "harvestedItems": {
+                      "type": "keyword"
+                    },
+                    "monthNumber": {
+                      "type": "keyword"
+                    }
+                  }
+                }
+              }
+            },
+            "time": {
+              "type": "long"
+            }
+          }
+        }
+      }
+}

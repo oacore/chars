@@ -1,0 +1,44 @@
+{
+      "id": 168421,
+      "authors": [
+         "US National Cancer Institute"
+      ],
+      "citations": [],
+      "contributors": [],
+      "datePublished": "2005-01-25T16:59:16Z",
+      "deleted": "ALLOWED",
+      "identifiers": [
+         "oai:dspace-production:1810/30834",
+         null
+      ],
+      "publisher": "Unilever Center for Molecular Informatics, Cambridge University",
+      "rawRecordXml": "<record><header><identifier>\n        \n            \n                oai:dspace-production:1810/30834</identifier><datestamp>\n                2005-01-25T16:59:16Z</datestamp><setSpec>\n                com_1810_723</setSpec><setSpec>\n                com_1810_721</setSpec><setSpec>\n                col_1810_724</setSpec>\n            </header><metadata><oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:doc=\"http://www.lyncode.com/xoai\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\" ><dc:title>\n            \nNSC29735</dc:title><dc:creator>\nUS National Cancer Institute</dc:creator><dc:date>\n2005-01-25T16:59:16Z</dc:date><dc:date>\n2005-01-25T16:59:16Z</dc:date><dc:date>\n2003-02-01</dc:date><dc:date>\n2005-01-25T16:59:16Z</dc:date><dc:type>\nOther</dc:type><dc:identifier>\nNSC29735</dc:identifier><dc:identifier>\nhttp://www.dspace.cam.ac.uk/handle/1810/30834</dc:identifier><dc:identifier>\nXLTHKFYJDGVMQG-NWDGAFQWSA-N</dc:identifier><dc:identifier>\nInChI=1S/C12H16O2/c1-4-11(2)12(13-3,14-11)10-8-6-5-7-9-10/h5-9H,4H2,1-3H3/t11-,12+/m0/s1</dc:identifier><dc:identifier>\nC12H16O2,1H3-9H2-11(2H3)12(13-3H3,14-11)10-7H-5H-4H-6H-8H-10</dc:identifier><dc:language>\nen_GB</dc:language><dc:format>\n4548 bytes</dc:format><dc:format>\n4686 bytes</dc:format><dc:format>\nchemical/x-cml</dc:format><dc:format>\nchemical/x-cml</dc:format><dc:publisher>\nUnilever Center for Molecular Informatics, Cambridge University</dc:publisher>\n</oai_dc:dc>\n</metadata>\n        </record>",
+      "relations": [],
+      "repositories": [
+         {
+            "name": "DSpace @ Cambridge",
+            "id": 27
+         }
+      ],
+      "repositoryDocument": {
+         "pdfStatus": 0,
+         "textStatus": 0,
+         "metadataUpdated": "2016-05-18T10:49:12Z",
+         "timestamp": "2016-06-21T00:00:00Z",
+         "indexed": 1,
+         "deletedStatus": "0",
+         "pdfSize": 0
+      },
+      "similarities": [],
+      "subjects": [
+         "Other"
+      ],
+      "title": "NSC29735",
+      "topics": [],
+      "types": [],
+      "urls": [
+         "http://www.dspace.cam.ac.uk/handle/1810/30834"
+      ],
+      "year": 2005,
+      "oai": "oai:dspace-production:1810/30834"
+   }

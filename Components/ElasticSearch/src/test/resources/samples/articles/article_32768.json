@@ -1,0 +1,113 @@
+
+{
+    "id": 32768,
+    "authors": [
+        "Kavokin, A.V.",
+        "Baumberg, J.J."
+    ],
+    "citations": [],
+    "contributors": [],
+    "datePublished": "1998",
+    "deleted": "ALLOWED",
+    "description": "We show numerically that spatial delocalization of excition-polariton states in multiple quantum wells leads to efficient narrowing of exciton resonances with respect to the single-quantum-well (QW) case. This is a manifestation of a motional narrowing effect, i.e., averaging of short-range potential fluctuations by extended exciton-polariton modes. Increasing the number of QW's or decreasing the degree of disorder, one recovers the superradiance regime where the exciton linewidth is governed by the splitting between the strongest exciton-polariton modes and now increases with an increasing number of QW's. Vertical disorder, in which the different wells are no longer equivalent, suppresses both effects",
+    "fullText": "",
+    "fullTextIdentifier": "http://eprints.soton.ac.uk/14668/1/PRB98_polariton_theory.pdf",
+    "identifiers": [
+        "oai:eprints.soton.ac.uk:14668",
+        "10.1103/PhysRevB.57.R12697"
+    ],
+    "language": {
+        "code": "en",
+        "id": 9,
+        "name": "English"
+    },
+    "rawRecordXml": "<record><header><identifier>\n    \n    \n      oai:eprints.soton.ac.uk:14668</identifier><datestamp>\n      2016-03-31T11:27:41Z</datestamp><setSpec>\n      7374617475733D756E707562</setSpec><setSpec>\n      7375626A656374733D51:5143</setSpec><setSpec>\n      74797065733D61727469636C65</setSpec><setSpec>\n      7374617475733D756E707562</setSpec><setSpec>\n      66756C6C746578743D7075626C6963</setSpec></header><metadata><oai_dc:dc xmlns:oai_dc=\"http://www.openarchives.org/OAI/2.0/oai_dc/\" xmlns:dc=\"http://purl.org/dc/elements/1.1/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:schemaLocation=\"http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd\" ><dc:title>\n    \n      \n        Exciton-light coupling in quantum wells: from motional narrowing to superradiance</dc:title><dc:creator>\n        Kavokin, A.V.</dc:creator><dc:creator>\n        Baumberg, J.J.</dc:creator><dc:subject>\n        QC Physics</dc:subject><dc:description>\n        We show numerically that spatial delocalization of excition-polariton states in multiple quantum wells leads to efficient narrowing of exciton resonances with respect to the single-quantum-well (QW) case. This is a manifestation of a motional narrowing effect, i.e., averaging of short-range potential fluctuations by extended exciton-polariton modes. Increasing the number of QW's or decreasing the degree of disorder, one recovers the superradiance regime where the exciton linewidth is governed by the splitting between the strongest exciton-polariton modes and now increases with an increasing number of QW's. Vertical disorder, in which the different wells are no longer equivalent, suppresses both effects.</dc:description><dc:date>\n        1998</dc:date><dc:type>\n        Article</dc:type><dc:type>\n        PeerReviewed</dc:type><dc:format>\n        application/pdf</dc:format><dc:identifier>\n        http://eprints.soton.ac.uk/14668/1/PRB98_polariton_theory.pdf</dc:identifier><dc:relation>\n        http://dx.doi.org/10.1103/PhysRevB.57.R12697</dc:relation><dc:identifier>\n            Kavokin, A.V. and Baumberg, J.J.   (1998)   Exciton-light coupling in quantum wells: from motional narrowing to superradiance.  Physical Review B, 57, (20), R12697-R12700.  (doi:10.1103/PhysRevB.57.R12697 <http://dx.doi.org/10.1103/PhysRevB.57.R12697>).     </dc:identifier><dc:relation>\n        http://eprints.soton.ac.uk/14668/</dc:relation></oai_dc:dc></metadata></record>",
+    "relations": [
+        "http://dx.doi.org/10.1103/PhysRevB.57.R12697",
+        "http://eprints.soton.ac.uk/14668/"
+    ],
+    "repositories": [
+        {
+            "name": "e-Prints Soton",
+            "id": 34
+        }
+    ],
+    "repositoryDocument": {
+        "pdfStatus": 1,
+        "textStatus": 1,
+        "metadataUpdated": "2016-04-12T15:03:26Z",
+        "timestamp": "2016-06-21T00:00:00Z",
+        "indexed": 1,
+        "deletedStatus": "0",
+        "pdfSize": 81034
+    },
+    "similarities": [
+        {
+            "id": 32766,
+            "title": "Polariton motional narrowing in semiconductor multiple quantum wells",
+            "score": 0.617392
+        },
+        {
+            "id": 269537,
+            "title": "Linear and nonlinear optical processes in GaAs semiconductor microcavities",
+            "score": 0.574687
+        },
+        {
+            "id": 32796,
+            "title": "Polariton dynamics and Bose-Einstein condensation in semiconductor microcavities",
+            "score": 0.537152
+        },
+        {
+            "id": 33391,
+            "title": "Coexistence of low threshold lasing and strong coupling in microcavities",
+            "score": 0.53454
+        },
+        {
+            "id": 32788,
+            "title": "The transition from strong to weak coupling and the onset of lasing in semiconductor microcavities",
+            "score": 0.529408
+        },
+        {
+            "id": 32775,
+            "title": "Relaxation bottleneck and its supression in semiconductor microcavities",
+            "score": 0.526767
+        },
+        {
+            "id": 32776,
+            "title": "Exciton polaritons in single and coupled microcavities",
+            "score": 0.487565
+        },
+        {
+            "id": 23008,
+            "title": "Rotons in a hybrid Bose-Fermi system",
+            "score": 0.482954
+        },
+        {
+            "id": 32767,
+            "title": "Suppressed polariton scattering in semiconductor microcavities",
+            "score": 0.470375
+        },
+        {
+            "id": 32795,
+            "title": "Stimulated polariton scattering in semiconductor microcavities: new physics and potential applications",
+            "score": 0.460417
+        }
+    ],
+    "subjects": [
+        "Article",
+        "PeerReviewed"
+    ],
+    "title": "Exciton-light coupling in quantum wells: from motional narrowing to superradiance",
+    "topics": [
+        "QC Physics"
+    ],
+    "types": [],
+    "urls": [
+        "http://eprints.soton.ac.uk/14668/1/PRB98_polariton_theory.pdf",
+        "http://dx.doi.org/10.1103/PhysRevB.57.R12697",
+        "http://eprints.soton.ac.uk/14668/"
+    ],
+    "year": 1998,
+    "doi": "10.1103/PhysRevB.57.R12697",
+    "oai": "oai:eprints.soton.ac.uk:14668"
+}

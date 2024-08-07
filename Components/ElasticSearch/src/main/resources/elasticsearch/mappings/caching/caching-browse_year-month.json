@@ -1,0 +1,27 @@
+{
+  "settings": {
+    "number_of_shards": 8
+  },
+      "mappings": {
+        "_doc": {
+          "properties": {
+            "data": {
+              "type":"nested",
+              "properties": {
+                "day": {
+                  "type": "text",
+                  "index": false
+                },
+                "harvestedItems": {
+                  "type": "text",
+                  "index": false
+                }
+              }
+            },
+            "time": {
+              "type": "long"
+            }
+          }
+        }
+      }
+}

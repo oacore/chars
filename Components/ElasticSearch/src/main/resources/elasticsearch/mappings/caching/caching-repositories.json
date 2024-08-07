@@ -1,0 +1,19 @@
+{
+  "settings": {
+    "number_of_shards": 8
+  },
+      "mappings": {
+        "_doc": {
+          "properties": {
+            "data": {
+              "type": "text",
+              "index": false
+            },
+            "time": {
+              "type": "text",
+              "index": false
+            }
+          }
+        }
+      }
+}

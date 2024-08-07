@@ -1,0 +1,57 @@
+{
+  "settings": {
+    "number_of_shards": 5
+  },
+  "mappings": {
+    "report": {
+      "properties": {
+        "avalidRecord": {
+          "type": "boolean"
+        },
+        "avalidRecordBasic": {
+          "type": "boolean"
+        },
+        "avalidRecordFull": {
+          "type": "boolean"
+        },
+        "brokenRecords": {
+          "type": "long"
+        },
+        "compliantRecordBasic": {
+          "type": "long"
+        },
+        "compliantRecordFull": {
+          "type": "long"
+        },
+        "id": {
+          "type": "keyword"
+        },
+        "invalidRecords": {
+          "type": "long"
+        },
+        "missingRequiredFieldBasic": {
+          "type": "keyword"
+        },
+        "missingRequiredFieldFull": {
+          "type": "keyword"
+        },
+        "parseFailed": {
+          "type": "boolean"
+        },
+        "recordIdentifier": {
+          "type": "keyword"
+        },
+        "reportDate": {
+          "type": "date",
+          "format": "yyyy/MM/dd HH:mm:ss||yyyy/MM/dd"
+        },
+        "repositoryId": {
+          "type": "long"
+        },
+        "totalRecords": {
+          "type": "long"
+        }
+      }
+    }
+  }
+}

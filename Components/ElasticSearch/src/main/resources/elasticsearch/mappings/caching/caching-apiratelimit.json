@@ -1,0 +1,22 @@
+{
+  "settings": {
+    "number_of_shards": 8
+  },
+      "mappings": {
+
+        "_doc": {
+          "properties": {
+            "apiKey": {
+              "type": "keyword"
+            },
+            "request": {
+              "type": "text",
+              "index": false
+            },
+            "time": {
+              "type": "long"
+            }
+          }
+        }
+      }
+}

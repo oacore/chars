@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "number_of_shards": 8
+  },
+  "mappings": {
+    "_doc": {
+      "properties": {
+        "data": {
+          "type": "boolean"
+        },
+        "time": {
+          "type": "long"
+        }
+      }
+    }
+  }
+}

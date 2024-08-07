@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2022-01-04T10:30:31</responseDate>
+    <request verb="GetRecord" set="J" metadataPrefix="CR_UNIXSD" >http://oai.crossref.org/oai</request>
+    <!-- recipient 14888 Jisc -->
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>info:doi/10.1145%2F2910896.2925448</identifier>
+                <datestamp>2021-05-12</datestamp>
+                <setSpec>B</setSpec>
+                <setSpec>B:10.1145</setSpec>
+                <setSpec>B:10.1145:2135160</setSpec>
+            </header>
+            <metadata>
+                <crossref_result xmlns="http://www.crossref.org/qrschema/3.0" version="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crossref.org/qrschema/3.0 http://www.crossref.org/schemas/crossref_query_output3.0.xsd">
+                    <query_result>
+                        <head>
+                            <doi_batch_id>none</doi_batch_id>
+                        </head>
+                        <body>
+                            <crossref_metadata>
+                                <doi type="conference_paper">10.1145/2910896.2925448</doi>
+                                <crm-item name="publisher-name" type="string">Association for Computing Machinery (ACM)</crm-item>
+                                <crm-item name="prefix-name" type="string">Association for Computing Machinery</crm-item>
+                                <crm-item name="member-id" type="number">320</crm-item>
+                                <crm-item name="citation-id" type="number">83253737</crm-item>
+                                <crm-item name="book-id" type="number">2135160</crm-item>
+                                <crm-item name="deposit-timestamp" type="number">2021051203302100227</crm-item>
+                                <crm-item name="owner-prefix" type="string">10.1145</crm-item>
+                                <crm-item name="last-update" type="date">2021-05-12T10:34:05Z</crm-item>
+                                <crm-item name="created" type="date">2016-06-10T13:09:57Z</crm-item>
+                                <crm-item name="citedby-count" type="number">2</crm-item>
+                                <doi_record>
+                                    <crossref xmlns="http://www.crossref.org/xschema/1.1" xsi:schemaLocation="http://www.crossref.org/xschema/1.1 http://doi.crossref.org/schemas/unixref1.1.xsd">
+                                        <conference>
+                                            <contributors>
+                                                <person_name contributor_role="author" sequence="first">
+                                                    <given_name>Nabil R.</given_name>
+                                                    <surname>Adam</surname>
+                                                    <affiliation>Rutgers University</affiliation>
+                                                </person_name>
+                                                <person_name contributor_role="author" sequence="additional">
+                                                    <given_name>Boots</given_name>
+                                                    <surname>Cassel</surname>
+                                                    <affiliation>Villanova University</affiliation>
+                                                </person_name>
+                                                <person_name contributor_role="author" sequence="additional">
+                                                    <given_name>Yelena</given_name>
+                                                    <surname>Yesha</surname>
+                                                    <affiliation>University of Maryland, Baltimore County</affiliation>
+                                                </person_name>
+                                                <person_name contributor_role="author" sequence="additional">
+                                                    <given_name>Richard</given_name>
+                                                    <surname>Furuta</surname>
+                                                    <affiliation>Texas A&amp;amp;M University</affiliation>
+                                                </person_name>
+                                                <person_name contributor_role="author" sequence="additional">
+                                                    <given_name>Michele C.</given_name>
+                                                    <surname>Weigle</surname>
+                                                    <affiliation>Old Dominion University</affiliation>
+                                                </person_name>
+                                            </contributors>
+                                            <event_metadata>
+                                                <conference_name>JCDL '16: The 16th ACM/IEEE-CS Joint Conference on Digital Libraries</conference_name>
+                                                <conference_acronym>JCDL '16</conference_acronym>
+                                                <conference_sponsor>SIGWEB ACM Special Interest Group on Hypertext, Hypermedia, and Web</conference_sponsor>
+                                                <conference_sponsor>SIGIR ACM Special Interest Group on Information Retrieval</conference_sponsor>
+                                                <conference_sponsor>IEEE Technical Committee on Digital Libraries (TC DL)</conference_sponsor>
+                                                <conference_location>Newark New Jersey USA</conference_location>
+                                                <conference_date>19 06 2016 23 06 2016</conference_date>
+                                            </event_metadata>
+                                            <proceedings_metadata language="en">
+                                                <proceedings_title>Proceedings of the 16th ACM/IEEE-CS on Joint Conference on Digital Libraries</proceedings_title>
+                                                <publisher>
+                                                    <publisher_name>ACM</publisher_name>
+                                                    <publisher_place>New York, NY, USA</publisher_place>
+                                                </publisher>
+                                                <publication_date media_type="print">
+                                                    <month>06</month>
+                                                    <day>19</day>
+                                                    <year>2016</year>
+                                                </publication_date>
+                                                <publication_date media_type="online">
+                                                    <month>06</month>
+                                                    <day>19</day>
+                                                    <year>2016</year>
+                                                </publication_date>
+                                                <isbn media_type="print">9781450342292</isbn>
+                                                <publisher_item>
+                                                    <identifier id_type="doi">10.1145/2910896</identifier>
+                                                </publisher_item>
+                                                <doi_data>
+                                                    <doi>10.1145/2910896</doi>
+                                                    <timestamp>2021051203302100227</timestamp>
+                                                    <resource>https://dl.acm.org/doi/proceedings/10.1145/2910896</resource>
+                                                </doi_data>
+                                            </proceedings_metadata>
+                                            <conference_paper publication_type="full_text">
+                                                <contributors>
+                                                    <person_name contributor_role="author" sequence="first">
+                                                        <given_name>Drahomira</given_name>
+                                                        <surname>Herrmannova</surname>
+                                                        <affiliation>N/A, Milton Keynes, United Kingdom</affiliation>
+                                                    </person_name>
+                                                    <person_name contributor_role="author" sequence="additional">
+                                                        <given_name>Petr</given_name>
+                                                        <surname>Knoth</surname>
+                                                        <affiliation>N/A, Milton Keynes, United Kingdom</affiliation>
+                                                    </person_name>
+                                                </contributors>
+                                                <titles>
+                                                    <title>Semantometrics</title>
+                                                    <subtitle>Towards Fulltext-based Research Evaluation</subtitle>
+                                                </titles>
+                                                <publication_date media_type="print">
+                                                    <month>06</month>
+                                                    <day>19</day>
+                                                    <year>2016</year>
+                                                </publication_date>
+                                                <publication_date media_type="online">
+                                                    <month>06</month>
+                                                    <day>19</day>
+                                                    <year>2016</year>
+                                                </publication_date>
+                                                <pages>
+                                                    <first_page>235</first_page>
+                                                    <last_page>236</last_page>
+                                                </pages>
+                                                <publisher_item>
+                                                    <identifier id_type="doi">10.1145/2910896.2925448</identifier>
+                                                </publisher_item>
+                                                <fr:program xmlns:fr="http://www.crossref.org/fundref.xsd" name="fundref">
+                                                    <fr:assertion name="fundgroup">
+                                                        <fr:assertion name="funder_name"> Joint Information Systems Committee
+                                                            <fr:assertion name="funder_identifier">http://dx.doi.org/10.13039/501100000821</fr:assertion>
+                                                        </fr:assertion>
+                                                        <fr:assertion name="award_number">3790</fr:assertion>
+                                                    </fr:assertion>
+                                                </fr:program>
+                                                <ai:program xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" name="AccessIndicators">
+                                                    <ai:license_ref applies_to="vor" start_date="2016-06-19">http://www.acm.org/publications/policies/copyright_policy#Background</ai:license_ref>
+                                                </ai:program>
+                                                <doi_data>
+                                                    <doi>10.1145/2910896.2925448</doi>
+                                                    <timestamp>2021051203302100227</timestamp>
+                                                    <resource>https://dl.acm.org/doi/10.1145/2910896.2925448</resource>
+                                                    <collection property="crawler-based">
+                                                        <item crawler="iParadigms">
+                                                            <resource>https://dl.acm.org/doi/pdf/10.1145/2910896.2925448</resource>
+                                                        </item>
+                                                    </collection>
+                                                </doi_data>
+                                                <citation_list>
+                                                    <citation key="e_1_3_2_1_1_1">
+                                                        <doi>10.1045/november2014-knoth</doi>
+                                                    </citation>
+                                                    <citation key="e_1_3_2_1_2_1">
+                                                        <journal_title>LIDA Proceedings</journal_title>
+                                                        <author>Schlögl C.</author>
+                                                        <first_page>13</first_page>
+                                                        <cYear>2014</cYear>
+                                                        <article_title>Are downloads and readership data a substitute for citations' the case of a scholarly journal</article_title>
+                                                    </citation>
+                                                    <citation key="e_1_3_2_1_3_1">
+                                                        <doi>10.1002/(SICI)1097-4571(199210)43:9&lt;628::AID-ASI5&gt;3.0.CO;2-0</doi>
+                                                    </citation>
+                                                    <citation key="e_1_3_2_1_4_1">
+                                                        <doi>10.1145/2740908.2742839</doi>
+                                                    </citation>
+                                                </citation_list>
+                                            </conference_paper>
+                                        </conference>
+                                    </crossref>
+                                </doi_record>
+                            </crossref_metadata>
+                        </body>
+                    </query_result>
+                </crossref_result>
+            </metadata>
+        </record>
+    </GetRecord>
+</OAI-PMH>
